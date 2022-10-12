@@ -1,0 +1,593 @@
+coffee_title,roaster,coffee_origin,coffee_region,variety,roast_level,flavor
+Kenya Ichamama,Panther Coffee Roasters,Kenya,Nyeri,"SL-28, SL-34, Ruiru 11, Batian",Light,nectarine    jasmine    bright
+Papua New Guinea AAK Cooperative,Sightglass Coffee,Papua New Guinea,"Obura-Wonenara, Eastern Highlands","Bourbon, Caturra",Medium,pomegranate    lemon    complex
+Cold Brew ,Barefoot Coffee Roasters,Guatemala,Huehuetenango,not disclosed,Medium,chocolate    citrus    rich
+Capital Cold Brew Blend,Temple Coffee,"Brazil, Colombia, Ethiopia","Campos Altos, Guji, Huila",not disclosed,Medium,cherry    milk chocolate    vibrant
+Ethiopia Dur Feres,Methodical Coffee,Ethiopia,Sidama,"74/158, 74/110, Setami, Mikicho",Medium-light,blueberry    blackberry    juicy
+Bona Fide,Goshen Coffee Company,Various,Latin America,not disclosed,Medium,chocolate    berries    syrupy
+Nicaragua Josefina & Mario,Dawson Taylor Coffee Roasters,Nicaragua,"Jinotega, Nicaragua","Catuaí, Caturra Estrella",Medium-light,peach    orange blossom    juicy
+Bright Blend,Kuma Coffee,"Ethiopia, Kenya","Guji, Yirgacheffe, Nyeri","Ethiopian heirloom, SL-28, SL-34",Medium,citrus    berries    bright
+Double Star Decaf,Cartel Roasting Co.,Mexico,"La Concordia, Mexico","Mundo Novo, Catuaí, Caturra & Catimor",Medium,cocoa    almond    balanced
+Pink Lady Blend,Methodical Coffee,Ethiopia,"Guji, Sidama","Ethiopian heirloom, 74/158, 74/110, Setami, Mikicho",Medium,citrus    berries    vibrant
+Leticia Lopez Honey Process,Alma Coffee,Honduras,Copan,Parainema,Light,red grape    black tea    complex
+Tulsa Time Blend,Topeca Coffee Roasters,"Burundi, Ethiopia",not disclosed,"Ethiopian heirloom, Bourbon",Medium,berries    citrus    vibrant
+Ethiopia Limu Gera,Kaldi's Coffee Roasting Co,Ethiopia,Limu,Ethiopian heirloom,Medium-light,apricot    citrus    delicate
+Bright Eyed Breakfast,Goshen Coffee Company,Various,"Africa, Latin America",Various,Medium-light,brown sugar    almond    vibrant
+Sumatra Pantan Musara,Sisters Coffee Company,Sumatra,Aceh,"Catimor, Gayo 1 & 2",Medium-light,molasses    cardamom    velvety
+Fresh Perspective Ethiopia,Greater Goods Coffee Roasters,Ethiopia,"Shakiso, Guji",Ethiopian heirloom,Light,blueberry    strawberry    juicy
+Panorama Organic Blend,Wonderstate Coffee,Ethiopia,Gedeb,not disclosed,Medium,orange    floral    bright
+Southern Weather Blend,Onyx Coffee Lab,"Colombia, Ethiopia",not disclosed,not disclosed,Medium-light,chocolate    citrus    juicy
+Heartstrings Organic Blend,Wonderstate Coffee,Ethiopia,"Gedeb, Gera",not disclosed,Medium,chocolate    dried fruit    complex
+Decaf Vagabond Espresso Blend,Evans Brothers Coffee Roasters,"Brazil, Ethiopia, Sumatra",not disclosed,not disclosed,Medium,caramel    baking spices    bold
+Decaf Espresso,Topeca Coffee Roasters,Colombia,not disclosed,"Castillo, Caturra, Colombia",Medium,chocolate    stone fruit    balanced
+Little Italy Blend,Bird Rock Coffee Roasters,"Guatemala, Brazil",South America,Blend,Medium,cacao    macadamia    rich
+Ethiopia Yirgacheffe Kochere,Alma Coffee,Ethiopia,"Kochere, Yirgacheffe",Ethiopian heirloom,Light,orange    lavender    delicate
+Leticia Lopez Natural Process,Alma Coffee,Honduras,Copan,Parainema,Light,raspberry    cherry    juicy
+Ethiopia Yirgacheffe Misty Valley,Dawson Taylor Coffee Roasters,Ethiopia,Yirgacheffe,Ethiopian Heirloom,Medium-light,stone fruit    berries    sparkling
+Half Calf Blend,Tony's Coffee,"Peru, Nicaragua, Colombia, El Salvador, Guatemala, Honduras, Mexico",not disclosed,not disclosed,Medium,toffee    almond    rich
+Sun Bear Iced Coffee Blend,Kuma Coffee,"Central America, Africa",not disclosed,not disclosed,Medium-light,chocolate    berries    refreshing
+Galactic Standard Espresso Blend,Brandywine Coffee Roasters,"Colombia, Burundi, Ethiopia",not disclosed,not disclosed,Light,berries    citrus    bright
+Costa Rica La Pastora,Methodical Coffee,Costa Rica,Tarrazu,"Caturra, Catuaí",Medium,plum    ginger    juicy
+Sweetheart Single Origin Espresso,Olympia Coffee Roasting Co,Changes seasonally,Peru,not disclosed,Medium,milk chocolate    berries    balanced
+Decaf Café Carmelita FTO,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium-dark,chocolate    caramel    full bodied
+Headwall Espresso,Evans Brothers Coffee Roasters,"Brazil, Colombia, Ethiopia",not disclosed,not disclosed,Medium-light,chocolate    fruity    complex
+Play Nice Blend,Methodical Coffee,"Colombia, Ethiopia","Tolima, Sidama","Caturra, Castillo, 74/158, 74/110, Setami, Mikicho",Medium,brown sugar    berries    juicy
+Ethiopia Colorized Blend,Metric Coffee Co.,Ethiopia,Guji,Ethiopian heirloom,Light,grape    wildflower    vibrant
+Ethiopia Ardi Natural,Portola Coffee Roasters,Ethiopia,Sidama,Ethiopian heirloom,Light,berries    honeysuckle    juicy
+Ethiopia Yebesele Natural,Goshen Coffee Company,Ethiopia,"Aricha, Yirgacheffe",Ethiopian heirloom,Light,berries    citrus zest    juicy
+Geometry Blend,Onyx Coffee Lab,"Ethiopia, Colombia","Oromia, Nariño","Caturra, Bourbon, Ethiopian heirloom",Medium-light,chocolate    fruity    rich
+Ethiopia Organic Tatatu Natural,Cartel Roasting Co.,Ethiopia,"Gedeb, Yirgacheffe",Ethiopian heirloom,Light,blueberry    cocoa    juicy
+Monkey Bite Espresso,Bird Rock Coffee Roasters,"Ethiopia, Brazil, Colombia",not disclosed,not disclosed,Medium,brown sugar    dried fruit    vibrant
+Orion Espresso,Spyhouse Coffee Roasting Co,"Brazil, Ethiopia and Guatemala",not disclosed,various,Medium-light,chocolate    dark berries    rich
+Organic Blueboon,Sightglass Coffee,"Colombia, Ethiopia","Central America, East Africa",not disclosed,Medium,milk chocolate    mandarin    balanced
+Frio Cold Brew,Alma Coffee,Honduras,Copan,Parainema,Medium-dark,chocolate    nutty    rich
+Owl's Howl,Sightglass Coffee,"Colombia, Ethiopia","Latin America, East Africa",not disclosed,Medium,chocolate    stone fruit    rich
+Colombia Bubble Gum,Dawson Taylor Coffee Roasters,Colombia,Caldas,Caturra,Light,raspberry    kiwi    juicy
+Fall Line Espresso,Evans Brothers Coffee Roasters,"Brazil, Colombia, Guatemala",not disclosed,not disclosed,Medium,chocolate    caramel    rich
+Belly Warmer Blend,Methodical Coffee,"Costa Rica, Brazil","Tarrazu, São Paulo",not disclosed,Medium,dark chocolate    almond    rich
+Sound & Vision Blend,Huckleberry Roasters,"East Africa, Latin America",not disclosed,"Caturra, Ethiopian Heirloom, Bourbon, Typica",Medium,caramel    nutty    syrupy
+Soulmate,Alma Coffee,Honduras,Copan,Parainema,Medium,milk chocolate    walnut    balanced
+Phantom Limb Blend,Huckleberry Roasters,Ethiopia,"Yirgacheffe, Sidamo",Ethiopian hierloom,Medium,fruity    citrus    bright
+Big Dipper Organic Blend,Wonderstate Coffee,Guatemala,Huehuetenango,not disclosed,Very Dark,fudge    vanilla    rich
+Climate Project,Ceremony Coffee Roasters,Mexico,not disclosed,"Bourbon, Caturra, Typica, Mundo Novo",Medium,chocolate    almond    balanced
+Espresso Blend,Sisters Coffee Company,"Colombia, Peru, Rwanda","Antioquia, Chanchamayo, Nyampinga","Castillo, Colombia, Red Bourbon, Caturra",Medium,praline    melon    balanced
+Ethiopia Guji,Kuma Coffee,Ethiopia,Guji,Ethiopian Heirloom,Medium-light,citrus    wildflowers    complex
+Elevation Cold Brew,Dillanos Coffee Roasters,not disclosed,Central and South America,various,Medium-dark,chocolate    hazelnut    full bodied
+Sugar Bee Espresso,Tony's Coffee,not disclosed,"Latin America, Africa",not disclosed,Medium,milk chocolate    honey    syrupy
+High Desert Sunrise,Sisters Coffee Company,"Colombia, Peru","Tolima, Chanchamayo","Bourbon, Caturra, Castillo, Colombia",Medium,chocolate    hazelnut    balanced
+Guatemalan Palo Blanco,Noble Coffee Roasting,Guatemala,Huehuetenango,"Bourbon, Caturra, Catuaí",Medium,peach    brown sugar    vibrant
+Enchanted,Alma Coffee,Honduras,"Copan, Honduras","Lempira, Cafe 90",Medium-dark,dark chocolate    nutty    rich
+Decaf Espresso Paladino ,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Medium-dark,chocolate    caramel    rich
+Darker the Cherry,Portrait Coffee,Brazil,"Cerrado Mineiro, Minas Gerais",Catuaí,Medium-dark,chocolate    toasted walnut    rich
+Peru Valle Inca,Temple Coffee,Peru,Cusco,"Caturra, Typica, Bourbon",Medium-light,almond    orange    delicate
+Zingo Espresso,Topeca Coffee Roasters,"Brazil, El Salvador, Sumatra and Ethiopia",not disclosed,not disclosed,Medium,chocolate    fruity    rich
+Essence,Alma Coffee,Honduras,Copan,Parainema,Medium-dark,dark chocolate    almond    balanced
+Streetlevel ,Verve Coffee Roasters,"Colombia, Honduras, Guatemala",not disclosed,not disclosed,Medium-light,red apple    citrus    balanced
+Tigerwalk Espresso,Equator Coffees & Teas,"Colombia, Brazil, Kenya",not disclosed,not disclosed,Medium,chocolate    fruity    balanced
+Banner Dark,Sightglass Coffee,"Guatemala, Colombia",Central & South America,not disclosed,Medium-dark,cocoa    toffee    rich
+Desert City Dark,Cartel Roasting Co.,"Brazil, Guatemala",not disclosed,not disclosed,Medium-dark,chocolate    macadamia nut    full bodied
+Colombia La Piramide,Tandem Coffee Roasters,Colombia,Inzá,"Caturra, Typica",Medium-light,red apple    sugar cane    juicy
+Porch Session,Topeca Coffee Roasters,"Brazil, El Salvador",not disclosed,not disclosed,Medium,caramel    chocolate    rich
+Little Buddy Blend,Olympia Coffee Roasting Co,"Ethiopia, Kenya",not disclosed,not disclosed,Medium-light,stone fruit    chocolate    complex
+Monarch,Onyx Coffee Lab,"Ethiopia, Guatemala",not disclosed,not disclosed,Medium,chocolate    caramel    rich
+Off Grid Organic Blend,Wonderstate Coffee,Guatemala,Huehuetenango,not disclosed,Very Dark,cocoa    roasty    rich
+Redcab Espresso,Barefoot Coffee Roasters,Brazil,"Carmo de Minas, Sul de Minas",Bourbon and Catuai,Medium,chocolate    nutty    rich
+Flying Monkey Espresso,PT's Coffee Roasting Co.,"Brazil, Colombia, Sumatra",not disclosed,not disclosed,Medium-dark,milk chocolate    graham cracker    balanced
+S.O. Blend,Coava Coffee Roasters,The Americas & East Africa,not disclosed,not disclosed,Medium,chocolate    baking spice    rich
+Sisters Blend,Sisters Coffee Company,"Brazil, Colombia, Peru, Rwanda","Mogiana, Tolima, Chanchamayo, Nyampinga","Bourbon, Red Bourbon, Colombia, Castillo, Caturra",Medium,walnut    cedar    full bodied
+House Espresso,Klatch Coffee,"Central and South America, Indonesia",not disclosed,not disclosed,Medium,walnut    orange    rich
+Organic One Black Espresso,Centri Coffee,"Colombia, Brazil","Matas de Minas, Mesa De Los Santos","Typica, Red Caturra, Catuaí, Yellow Catuaí, Castillo",Medium-light,chocolate    shortbread    syrupy
+Colombia SugarCane Decaf,Topeca Coffee Roasters,Colombia,Pijao,not disclosed,Medium-light,caramel    citrus    full bodied
+Espresso Noir Fair Trade & Organic,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium-dark,smoky    caramel    full bodied
+Organic Toketee,Sightglass Coffee,"Central & South America, Pacific",Rotates seasonally,not disclosed,Medium,cacao nib    apricot    balanced
+Organic Rainforest Blend ,Klatch Coffee,"Brazil, Colombia, Honduras, Guatemala",not disclosed,not disclosed,Medium,chocolate    caramel    full bodied
+Diablo Blend Fair Trade & Organic,Ladro Roasting,not disclosed,not disclosed,not disclosed,Medium-dark,smoky    brown sugar    full bodied
+Morning Sun,Olympia Coffee Roasting Co,Colombia,Tolima,"Caturra, Colombia",Medium,chocolate    hazelnut    full bodied
+Caffe Del Sol,Caffe Vita Coffee Roasting Co,"South America, Indonesia, Africa",not disclosed,not disclosed,Medium,chocolate    caramel    complex
+Dharma Espresso Blend,Temple Coffee,"Brazil, Guatemala, Ethiopia","Minas Gerais, Sidamo, Alotenango",not disclosed,Medium-light,fudge    almond    lingering
+Three Pillars Blend,Temple Coffee,"Honduras, Colombia, Guatemala","Ocotepeque, Nariño, Antigua",not disclosed,Medium,chocolate    caramel    balanced
+World Tour Organic Espresso Blend,Noble Coffee Roasting,"Brazil, Honduras, Ethiopia and Sumatra",not disclosed,not disclosed,Medium,nutty    chocolate    rich
+Espresso 700,Kaldi's Coffee Roasting Co,"Guatemala, Brazil, El Salvador",not disclosed,not disclosed,Medium,caramel    chocolate    rich
+Vancouver Swiss Water Decaf,Verve Coffee Roasters,not disclosed,Latin America,not disclosed,Medium,caramel    chocolate    full bodied
+Organic Espresso Cuatro,Zoka Coffee Roasting Co,"Africa, Central and South America",not disclosed,not disclosed,Medium,chocolate    nutty    full bodied
+Big Timber Blend,Evans Brothers Coffee Roasters,"Ethiopia, Guatemala, Sumatra",not disclosed,not disclosed,Medium-dark,smoky    chocolate    full bodied
+Upland Fair Trade & Organic,Tony's Coffee,Central & South America,not disclosed,not disclosed,Medium,milk chocolate    almond    balanced
+Blue Boy Blend,Methodical Coffee,"Guatemala, Colombia","Huehuetenango, Tolima","Bourbon, Caturra, Castillo",Medium,chocolate    brown sugar    balanced
+Guatemala Huehuetenango Dark Roast,Evans Brothers Coffee Roasters,Guatemala,Huehuetenango,"Caturra, Catuaí, Bourbon, Pache",Medium-dark,dark chocolate    roasty    full bodied
+The Sermon Espresso ,Verve Coffee Roasters,"Brazil, Colombia and Ethiopia","Minas Gerais, Cauca and Guji","Catuai, Bourbon and Ethiopian heirloom",Medium-light,fruity    chocolate    rich
+Synthesis,Ceremony Coffee Roasters,Guatemala,Chimaltenango,"Typica, Bourbon, Caturra, Catuai",Medium,caramel    nutty    full bodied
+Italian Roast,Klatch Coffee,"Brazil, Colombia, Guatemala, Sumatra",not disclosed,not disclosed,Medium-dark,toasty    nutty    rich
+Ethiopia Kercha Natural,Cat & Cloud Coffee,Ethiopia,Guji,Ethiopian Heirloom,Medium-light,strawberry    chocolate    balanced
+Organic West Coast Roast,Centri Coffee,South America,Various,not disclosed,Medium-dark,roasty    chocolate    full bodied
+Big Joy Espresso,Camber Coffee,Guatemala,not disclosed,not disclosed,Medium-light,red apple    pear    complex
+Big Truck Organic ,Olympia Coffee Roasting Co,"Colombia, Ethiopia",not disclosed,not disclosed,Medium,chocolate    berries    full bodied
+Waxwing Blend,Red Rooster Coffee,"Colombia, Honduras","Huila, Marcala","Colombia, Castillo, Caturra, Bourbon",Medium,chocolate    caramel    full bodied
+Bold and the Beautiful Organic,Spyhouse Coffee Roasters,not disclosed,Varies Seasonally,not disclosed,Medium,Crème Brûlée    black walnut    full bodied
+Justice,Higher Grounds Coffee,"Ethiopia, Guatemala",not disclosed,not disclosed,Medium-light,caramel    citrus    delicate
+Black & Tan,Colectivo Coffee,"Honduras, Peru",not disclosed,not disclosed,Very Dark,smoky    caramel    full bodied
+Jaguar Espresso Fair Trade Organic,Equator Coffees & Teas,not disclosed,"Ethiopia, Sumatra, Peru",not disclosed,Medium-dark,nutty    baking spices    rich
+Skeleton Key Decaf ,Huckleberry Roasters,Colombia,"Risaralda, Apia",not disclosed,Medium-light,chocolate    nutty    rich
+Rwanda Kinaze Mbuye Hill,Portrait Coffee,Rwanda,Ruhango District,Red Bourbon,Medium-light,green apple    berry    bright
+Honduras Damien Chavez Anaerobic,Cat & Cloud Coffee,Honduras,Santa Barbara,Parainema,Medium-light,watermelon    hibiscus    vibrant
+Honduras Damien Chavez Washed,Cat & Cloud Coffee,Honduras,Santa Barbara,Parainema,Medium-light,lemon    nectarine    bright
+Guatemala Women's Group Huehuetenango,Barefoot Coffee Roasters,Guatemala,"Aldea Q’om, Huehuetenango","Caturra, Catuaí, Bourbon",Medium,tropical fruit    peanut brittle    complex
+Guatemala Familia Villatoro,Dawson Taylor Coffee Roasters,Guatemala,Huehuetenango,"Bourbon, Caturra",Medium,plum    almond    balanced
+Organic Peru Cajamarca,Centri Coffee,Peru,"San Ignacio, Cajamarca","Bourbon, Catimor, Caturra, Pache, Typica",Medium,caramel    vanilla    balanced
+Founders,Goshen Coffee Company,Varies Seasonally,"Africa, Latin America",not disclosed,Medium-light,citrus    tropical fruit    bright
+Old School Tattoo,Goshen Coffee Company,Varies Seasonally,Latin America,not disclosed,Medium,caramel    orange    balanced
+Tired Eye Decaf,Goshen Coffee Company,Colombia,Huila,"Caturra, Typica, Colombia, Catuaí",Medium-dark,chocolate    cherry    balanced
+Ethiopia Biruhi,Goshen Coffee Company,Ethiopia,Yirgacheffe,Ethiopian heirloom,Light,lime    mango    floral
+Colombia Sierra Nevada Sol Naciente,Red Rooster Coffee,Colombia,Sierra Nevada,"Caturra, Colombia",Medium-light,caramel    orange    vibrant
+Islands in the Stream,Passion House Coffee Roasters,Honduras,Francisco Morazan,Yellow Catuaí,Medium-light,caramel apple    baking spice    balanced
+Agua Fria,Alma Coffee,Honduras,San Sebastian,"Pacas, Caturra",Light,keylime    oolong    complex
+Organic Crown Point ,Sightglass Coffee,"Latin America, East Africa",Rotates seasonally,not disclosed,Medium,chocolate    raspberry    syrupy
+Small Farms Blend,Tony's Coffee,Latin America and Africa,not disclosed,not disclosed,Medium,cherry    grape    complex
+Take Me Home,Greater Goods Coffee Roasters,Costa Rica,"San Marcos, Tarrazu",Catuaí,Light,toffee    vanilla    balanced
+Kickstart Espresso,Greater Goods Coffee Roasters,"Colombia, Brazil, Nicaragua","Huila, Cerrado, Matagalpa","Bourbon, Castillo, Caturra, Typica",Medium,dark chocolate    brown sugar    full bodied
+Slumber Decaf,Alma Coffee,Nicaragua,"Matagalpa, Nicaragua","Bourbon, Typica",Medium,chocolate    orange    dynamic
+Decaf Flume Seasonal Blend,Ruby Coffee Roasters,"Brazil, Colombia","Carmo De Minas, Cauca","Bourbon, Caturra, Colombia",Medium,cocoa    nutmeg    balanced
+Southpaw Espresso,PT's Coffee Roasting Co.,"Colombia, Ethiopia",not disclosed,not disclosed,Medium,caramel    peach    vibrant
+Cafe Del Sol,Bird Rock Coffee Roasters,"Colombia, Ethiopia","Colombia, Ethiopia",not disclosed,Medium,clementine    blackberry    vibrant
+Half Caff Kaldi,Kaldi's Coffee Roasting Co,"Brazil, Guatemala, El Salvador, Colombia",not disclosed,not disclosed,Medium-dark,chocolate    caramel    balanced
+Organic Colombia Tolima,Centri Coffee,Colombia,"Planadas, Tolima, Colombia","Caturra, Castillo, Colombia, Typica",Medium,cherry    citrus    complex
+Passion,Alma Coffee,Honduras,Copan,Lempira,Medium-dark,cacao    caramel    rich
+Cold Brew,Panther Coffee Roasters,"Brazil, Nicaragua, Colombia",Various,not disclosed,Medium,malted chocolate    vanilla    balanced
+En Masse,Metric Coffee Co.,"Peru, Guatemala",not disclosed,not disclosed,Medium,cherry    nougat    complex
+Sumatra Mandheling,Dawson Taylor Coffee Roasters,Sumatra,not disclosed,"Bourbon, Catimor, Caturra, Typica",Medium,chocolate    earthy    full bodied
+Haya Cold Brew,Kaldi's Coffee Roasting Co,"Ethiopia, Colombia",Latin America and Ethiopia,Various,Medium,chocolate    caramel    balanced
+Inkwell Signature Blend,Quills Coffee,"Peru, Colombia","Cajamarca, Tolima",not disclosed,Medium,vanilla    cherry    balanced
+Peru Pangoa,Higher Grounds Coffee,Peru,Satipo,"Typica, Caturra, Bourbon, Catimor",Medium,chocolate    sage    full bodied
+Organic Decaf Majestic Blend,Centri Coffee,South America,various,not disclosed,Medium,chocolate    caramel    full bodied
+Organic French Roast,Caffe Vita Coffee Roasting Co,"South America, Indonesia",not disclosed,not disclosed,Very Dark,smoky    chocolate    bold
+Espresso Paladino ,Zoka Coffee Roasting Co,"Central and South America, Africa",not disclosed,not disclosed,Medium,chocolate    citrus    complex
+Wild Child,Thou Mayest,Ethiopia,Sidamo,Ethiopian heirloom,Medium-light,fruity    floral    bright
+French Roast Fair Trade Organic,Equator Coffees & Teas,not disclosed,"Latin America, Ethiopia, Sumatra",not disclosed,Medium-dark,smoky    chocolate    bold
+Caffe Luna,Caffe Vita Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Very Dark,chocolate    smores    full bodied
+Watson Blend,Steadfast Coffee Roasters,"Mexico, Costa Rica",not disclosed,"Bourbon, Caturra, Catimor",Medium,milk chocolate    nutty    balanced
+Organic Ethiopia Bedhatu Jibicho,Centri Coffee,Ethiopia,"Gedeb District, Gedeo Zone, Southern Nations, Nationalities, and Peoples'",Ethiopian Heirloom,Medium-light,blackberry    jasmine    juicy
+Thesis Blend,Ceremony Coffee Roasters,"Brazil, Peru",not disclosed,not disclosed,Medium-light,caramel    baking spices    rich
+Eye of the Tiger Espresso,Equator Coffees & Teas,not disclosed,"Latin America, Africa",not disclosed,Medium,chocolate    dried fruit    complex
+Driftless Organic Blend,Wonderstate Coffee,Guatemala,San Marcos,not disclosed,Medium-dark,cocoa    toffee    balanced
+Espresso Classico,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium,nutty    chocolate    balanced
+Stacey Colombia Narino,Portrait Coffee,Colombia,Narino,"Colombia, Castillo, Caturra",Medium,caramel    hazelnut    rich
+Brazil 45 Espresso,Equator Coffees & Teas,"Brazil, Colombia",various,not disclosed,Medium,chocolate    baking spices    full bodied
+Stoker Blend,Tandem Coffee Roasters,El Salvador,Chalatenango,not disclosed,Medium,chocolate    honey    full bodied
+Alchemistic Blend,Portola Coffee Roasters,Colombia and Costa Rica,Antioquia and Chirripo,"Typica, Caturra and Catuai",Light,chocolate    baking spices    full bodied
+Founders,Portrait Coffee,"Colombia, Guatemala","Huehuetenango, Narino","Bourbon, Typica, Colombia, Castillo, Caturra",Medium,cocoa    nutty    dynamic
+Ethiopia Sidama Ardi,Equator Coffees & Tea,Ethiopia,"Guji, Borena Hagermariam",Sidama Heirloom,Medium-light,lemon    berries    juicy
+Deep Space Blend,Good Folks Coffee,Colombia,not disclosed,not disclosed,Medium-dark,smoky    nutty    bold
+Red Cab,Barefoot Coffee Roasters,Brazil,"Carmo de Minas, Sul de Minas","Caturra, Catuai",Medium,chocolate    nutty    full bodied
+Costa Rica Tarrazu,Mela Coffee Roasting Company,Costa Rica,Tarrazú,"Caturra, Typica",Medium,caramel    nutty    balanced
+West End Blues Blend,Tandem Coffee Roasters,"Brazil, Ethiopia",not disclosed,not disclosed,Medium-light,toffee    nutty    rich
+Double Dark Blend,Dillanos Coffee Roasters,not disclosed,Central and South America,not disclosed,Very Dark,smoky    chocolate    bold
+Globe Trotter Blend,Good Folks Coffee,"Colombia, Peru, Tanzania",not disclosed,not disclosed,Medium-dark,caramel    nutty    full bodied
+Blue Thunder Blend,Klatch Coffee,"Brazil, Colombia, Guatemala, Sumatra",not disclosed,not disclosed,Medium-dark,smoky    baking spices    rich
+Blue Orchid Blend,Huckleberry Roasters,Brazil and Nicaragua,not disclosed,not disclosed,Medium,chocolate    caramel    full bodied
+Colombia Nariño,Populace Coffee,Colombia,Nariño,"Caturra, Colombia, Castillo",Light,caramel    grapefruit    balanced
+Alter Ego,Thou Mayest Coffee Roasters,"Brazil, Colombia","Carmo De Minas, Hulia","Bourbon, Catuai, Mundo Novo, Castillo, Caturra",Medium,chocolate    nutty    rich
+Fast Track Blend,Good Folks Coffee,"Colombia, Peru, Tanzania",not disclosed,not disclosed,Medium-dark,chocolate    nutty    rich
+Bright Minds,Greater Goods Coffee Roasters,Colombia,Huila,"Caturra, Castillo",Medium,tangerine    fudge    balanced
+Café Carmelita Organic,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium-dark,chocolate    caramel    balanced
+Aldo's Blend,1000 Faces Coffee Roasters,"Colombia, Brazil","San Agustin, Serra do Cigano","Caturra, Catuaí, Mundo Novo, Colombia, Castillo",Medium-dark,dark chocolate    molasses    rich
+The Answer,Cat & Cloud Coffee,"Colombia, Brazil, Ethiopia","Huila, Mogiana, Yirgacheffe","Caturra, Yellow Bourbon, Ethiopian heirloom",Medium,chocolate    berries    balanced
+Destroyer Espresso Blend,Ceremony Coffee Roasters,"Colombia, Ethiopia",not disclosed,not disclosed,Medium-light,caramel    citrus    balanced
+Santee Alley,Bixby Roasting Co.,"Brazil, Guatemala, Sumatra",not disclosed,"Catuaí, Caturra, Typica, Bourbon",Very Dark,dark chocolate    almond    rich
+Co-optiva Fair Trade Organic ,Colectivo Coffee,"Guatemala, Honduras",not disclosed,not disclosed,Medium,chocolate    molasses    full bodied
+Organic Decaf One Black ,Centri Coffee,South America,not disclosed,various,Medium-dark,chocolate    caramel    rich
+Hidden City,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Very Dark,smoky    caramel    bold
+Costa Rica Naranjo La Rosa Washed,Brandywine Coffee Roasters,Costa Rica,Naranjo,"Caturra, Catuaí",Light,melon    honeysuckle    syrupy
+Civitas Blend,Huckleberry Roasters,Latin America,not disclosed,"Bourbon, Pache, Typica",Medium-dark,chocolate    toasted nuts    rich
+Decaf House Blend,Klatch Coffee,"Brazil, Costa Rica, Guatemala, Sumatra",not disclosed,not disclosed,Medium-dark,caramel    chocolate    rich
+Bird Rock Blend,Bird Rock Coffee Roasters,"Colombia, Sulawesi","Colombia, Sulawesi",not disclosed,Medium,fudge    spice    rich
+Classic French Roast,Sisters Coffee Company,Brazil,Mogiana,"Bourbon, Mundo Novo",Very Dark,dark chocolate    clove    full bodied
+Kenya Mbegu Ndogo,Goshen Coffee Company,Kenya,"Kaliluni, Machakos County, Eastern Province","SL-28, SL-34, Ruiru 11",Light,lemon    pineapple    vibrant
+Dreamer Decaf,Alma Coffee,Nicaragua,Matagalpa,"Bourbon, Typica",Medium-dark,chocolate    citrus    balanced
+Italian Roast,Topeca Coffee Roasters,El Salvador,Santa Ana,Red Bourbon,Medium-dark,roasty    chocolate    rich
+Brazil Sul De Minas,Steadfast Coffee Roasters,Brazil,Minas Gerais,"Yellow Bourbon, Mundo Novo, Icatú, Catuaí",Medium,cocoa    pomegranate    balanced
+Dark Sumatra Mandheling,Dawson Taylor Coffee Roasters,Sumatra,Mandheling,"Typica, Catimor",Very Dark,cacao    earthy    rich
+Mocha Java,Klatch Coffee,"Java, Ethiopia","East Java, Harrar",not disclosed,Medium,chocolate    fruity    balanced
+Antithesis Blend,Ceremony Coffee Roasters,Mexico,Chiapas,"Typica, Bourbon, Mundo Novo",Medium,chocolate    nutty    full bodied
+Rise & Shine,Greater Goods Coffee Roasters,"Colombia, Nicaragua",not disclosed,"Caturra, Catuaí, Castillo",Very Dark,dark chocolate    molasses    rich
+Howie's Blend,Dillanos Coffee Roasters,"Colombia, Guatemala, Papua New Guinea",not disclosed,not disclosed,Medium-dark,chocolate    smoky    full bodied
+Time and Temperature Espresso Blend,Tandem Coffee Roasters,"Ethiopia, Colombia",not disclosed,not disclosed,Light,blondie    red berry    rich
+Good Vibes Brazil,Greater Goods Coffee Roasters,Brazil,Cerrado Mineiro,"Catuaí, Yellow Catuaí",Medium,peanut butter    dried cherry    full bodied
+Friend Zone Decaf,Cat & Cloud Coffee,Ethiopia,Sidamo,Ethiopian heirloom,Medium-light,blackberry    molasses    balanced
+Slow Track,Good Folks Coffee,"Tanzania, Colombia, Peru, Guatemala",not disclosed,"Typica, Bourbon, Catuaí",Medium-dark,dark chocolate    cacao nibs    syrupy
+Tony's 50th Anniversary Blend,Tony's Coffee,"Central America, Ethiopia",not disclosed,not disclosed,Medium,citrus    milk chocolate    balanced
+Decaf Espresso Blend,Temple Coffee,"Colombia, Guatemala","Antigua, Guatemala and Huila, Colombia","Colombia, Castillo, Caturra, Bourbon, Arabigo",Medium-dark,chocolate    pecan    rich
+Creamery Blend,Ruby Coffee Roasters,South America and Africa,Various,various small holder producers,Medium-light,chocolate    nutty    rich
+Sage Hills Blend,Mela Coffee Roasting Company,"Honduras, Sumatra",Mandheling,"Catuaí, Bourbon, Pacas, Typica, Catimor, Caturra",Medium,earthy    baking spices    syrupy
+Big Riff,Metric Coffee Co.,not disclosed,Central America,not disclosed,Medium,dark chocolate    walnut    balanced
+Blend Forty-Eight,Cartel Roasting Co.,Colombia,Huila,"Colombia, Caturra, Castillor",Medium-light,milk chocolate    berries    complex
+Moonrise Blend,Camber Coffee,"Ethiopia, Peru","Guji, Cajamarca",not disclosed,Light,nectarine    passionfruit    complex
+Special Dark Blend,Dillanos Coffee Roasters,not disclosed,"Central America, Papua New Guinea",not disclosed,Very Dark,smoky    caramel    full bodied
+Omission Decaf,Dillanos Coffee Roasters,not disclosed,South America,not disclosed,Medium-dark,caramel    chocolate    full bodied
+Mass Appeal Espresso Blend,Ceremony Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-light,caramel    nutty    rich
+Black Butte Gold Decaf,Sisters Coffee Company,Colombia,Antioquia,"Typica, Caturra, Castillo, Colombia",Medium-dark,dark chocolate    pine    rich
+Mexican Maya Vinic,Higher Grounds Coffee,Mexico,Chiapas,Bourbon,Medium,cinnamon    roasted nuts    balanced
+Savio Blend,1000 Faces Coffee Roasters,"Ethiopia, Brazil","Sidamo, Espirito",not disclosed,Medium-light,peach    brown sugar    juicy
+Costa Rica,Bixby Roasting Co.,Costa Rica,not disclosed,Catuaí,Very Dark,chocolate    almond    roasty
+Queen Anne Blend,Ladro Roasting,not disclosed,not disclosed,not disclosed,Medium-light,chocolate    nutty    rich
+Riqueza Dark Blend,Temple Coffee,"Colombia, Costa Rica, Guatemala",not disclosed,not disclosed,Medium-dark,cocoa    baking spices    full bodied
+French Roast Decaf,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Very Dark,smoky    nutty    bold
+Chair 6 Breakfast Blend,Evans Brothers Coffee Roasters,"Colombia, Brazil",not disclosed,not disclosed,Medium-light,cocoa    walnut    balanced
+Lucent Blend,Dillanos Coffee Roasters,"Brazil, Ethiopia, Papua New Guinea",not disclosed,not disclosed,Medium,caramel    fruity    full bodied
+Black Diamond Blend,Evans Brothers Coffee Roasters,"Colombia, Guatemala",not disclosed,"Caturra, Castillo, Colombia, Bourbon, Catuaí, Pache",Very Dark,chocolate    baking spices    rich
+Breakfast Blend,Klatch Coffee,"Colombia, Kenya",not disclosed,not disclosed,Medium-light,citrus    floral    bright
+Buena Vista Dark Roast,Verve Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-dark,roasty    s mores    rich
+Metro French Roast Blend,Dillanos Coffee Roasters,"Nicaragua, Papua New Guinea, South America",not disclosed,not disclosed,Very Dark,smoky    caramel    bold
+Day Tripper Blend,Good Folks Coffee,"Colombia, Peru",not disclosed,not disclosed,Medium,chocolate    caramel    rich
+Unity Blend Organic,Dillanos Coffee Roasters,"Costa Rica, Guatemala, Honduras, Ethiopia",not disclosed,not disclosed,Medium-dark,chocolate    herbal    bold
+Ladro Espresso Blend,Ladro Roasting,not disclosed,not disclosed,not disclosed,Medium,chocolate    caramel    full bodied
+Women Producers Group,Spyhouse Coffee Roasters,Sumatra,not disclosed,"Catimor, Tim Tim",Medium,cocoa    baking spices    earthy
+Tuscan Blend,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Very Dark,smoky    chocolate    bold
+Espresso Toro,Colectivo Coffee,"Brazil, Costa Rica, Guatemala, Sumatra",not disclosed,not disclosed,Medium,chocolate    citrus    rich
+Bell's Blend,1000 Faces Coffee Roasters,"Brazil, Guatemala",not disclosed,Various,Medium,chocolate    nutty    balanced
+Lake Shore Drive Blend,Passion House Coffee Roasters,"Guatemala, Ethiopia",not disclosed,not disclosed,Light,chocolate    lemon curd    bright
+Heavy Feels French,Goshen Coffee Company,Various,not disclosed,Various,Medium-dark,cocoa    herbal    rich
+Flatlander Signature Blend,PT's Coffee Roasting Co.,Colombia,not disclosed,not disclosed,Medium,chocolate    caramel    balanced
+El Salvador Manzano,Topeca Coffee Roasters,El Salvador,not disclosed,Red Bourbon,Light,nutty    floral    balanced
+Pompadour Organic Espresso Blend,Noble Coffee Roasting,"Ethiopia, Peru, Guatemala",not disclosed,not disclosed,Medium,caramel    raspberry    complex
+Guatemala Huehuetenango MAM,Dawson Taylor Coffee Roasters,Guatemala,not disclosed,"Bourbon, Typica, Caturra",Medium,apple    toffee    balanced
+Colombia La Pradera,Anodyne Coffee Roasters,Colombia,not disclosed,"Caturra, Castillo, Colombia",Medium,cherry    caramel    complex
+Peru Aroma del Valle Organic ,Cartel Roasting Co.,Peru,not disclosed,"Typica, Bourbon, Caturra",Light,vanilla    raspberry    vibrant
+Skyline Espresso,Camber Coffee,"Colombia, Ethiopia",not disclosed,not disclosed,Medium-light,blackberry    cocoa    vibrant
+Espresso Emilia,Mela Coffee Roasting Company,"Brazil, Sumatra",not disclosed,not disclosed,Medium-light,cocoa    hazelnut    balanced
+Flyway Organic Blend,Wonderstate Coffee,"Colombia, Guatemala",not disclosed,not disclosed,Medium,cherry    citrus    vibrant
+'66 Beach Bus,Bixby Roasting Co.,"Kenya, Nicaragua, Hawaii, US",not disclosed,"Caturra, Catuaí, Typica",Medium,milk chocolate    honey    balanced
+The Truth,Cat & Cloud Coffee,Varies seasonally,not disclosed,various,Medium-light,sweet    juicy    complex
+John Brown Signature Blend,PT's Coffee Roasting Co.,"Colombia, Ethiopia, Sumatra",not disclosed,"Colombia, Castillo, Caturra, Tim-Tim, Ateng",Medium,chocolate    black cherry    rich
+Night Shift,Cat & Cloud Coffee,Brazil,not disclosed,Bourbon,Medium-dark,chocolate    nutty    full bodied
+1985 Espresso,Panther Coffee,"Brazil, Nicaragua",not disclosed,not disclosed,Medium-light,chocolate    nutty    full bodied
+Sumatra,Dillanos Coffee Roasters,Sumatra,not disclosed,"Typica, Catimor",Very Dark,earthy    herbal    full bodied
+Cafe Malta,Kaldi's Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Medium-dark,smoky    chocolate    rich
+Blue Heeler Signature Blend,Colectivo Coffee,Sumatra,not disclosed,not disclosed,Medium-dark,earthy    baking spices    bold
+Black & Tan Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-dark,smoky    nutty    rich
+After Party,Cat & Cloud Coffee,Brazil,not disclosed,Yellow Bourbon,Medium-dark,marshmallow    chocolate    rich
+Blacksmith Espresso,Quills Coffee,"Brazil, Peru and Colombia",not disclosed,not disclosed,Medium,chocolate    fruity    rich
+Smith Bridge Road Blend,Brandywine Coffee Roasters,"Brazil, Colombia, Costa Rica",not disclosed,not disclosed,Medium-dark,chocolate    nutty    full bodied
+Colossus,Metric Coffee Co.,not disclosed,not disclosed,not disclosed,Very Dark,fudge    smoky    rich
+Seabright House Blend,Verve Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-light,caramel    cherry    complex
+Sumatra Kerinci,Parisi Coffee Roasters,Sumatra,not disclosed,"Andung Sari, Tim-Tim, Bor-Bor, Sigara Utang, P88",Medium,strawberry    pineapple    complex
+Hannah's Private Reserve Blend,Dillanos Coffee Roasters,"Brazil, Guatemala, India",not disclosed,not disclosed,Medium-dark,chocolate    baking spices    full bodied
+The 1950 Blend,Verve Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Medium,citrus    stone fruit    complex
+Free Bird,Passion House Coffee Roasters,Guatemala,not disclosed,Typica,Medium-light,blackberry    grape    vibrant
+Organic House Blend,Centri Coffee,"Colombia, Brazil",not disclosed,"Castillo, Catuaí, Yellow Catuaí, Typica, Caturra",Medium,chocolate    baking spices    balanced
+Black Butte Gold,Sisters Coffee Company,"Brazil, Colombia, Papua New Guinea",not disclosed,"Bourbon, Mundo Novo, Arusha, Typica, Colombia, Castillo",Medium-dark,dark chocolate    nutty    full bodied
+Vero Espresso,Mela Coffee Roasting Company,"Honduras, Sumatra",not disclosed,not disclosed,Medium-dark,smoky    chocolate    bold
+Atomic Blend,Anodyne Coffe Roasting Co. ,not disclosed,not disclosed,not disclosed,Medium-dark,chocolate    caramel    bold
+Brazil Fazenda Rainha Pulp Natural,Cat & Cloud Coffee,Brazil,not disclosed,Yellow Bourbon,Medium-light,peanut    grape jelly    full bodied
+French Roast,Klatch Coffee ,"Brazil, Colombia, Honduras",not disclosed,not disclosed,Very Dark,molasses    smoky    bold
+Fremont Blend Fair Trade & Organic,Caffe Ladro,not disclosed,not disclosed,not disclosed,Medium,nutty    floral    balanced
+Papua New Guinea,Dillanos Coffee Roasters,Papua New Guinea,not disclosed,not disclosed,Medium,caramel    herbal    complex
+Epiphany House Blend,Case Coffee Roasters,Varies Seasonally,not disclosed,not disclosed,Medium-light,chocolate    caramel    balanced
+Peru Cafe De Mujer,Barefoot Coffee Roasters,Peru,not disclosed,"Bourbon, Catimor, Caturra, Pache, Typica",Medium,chocolate    baking spice    balanced
+Ethiopia Shakiso,Topeca Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Medium,blueberry    date    juicy
+Organic Ethiopia Chelchele,Dawson Taylor Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Light,lemon    blueberry    juicy
+Brazil Canarinho,Colectivo Coffee,Brazil,not disclosed,not disclosed,Medium,chocolate    nutty    full bodied
+The Beast,Barefoot Coffee Roasters,"Brazil, Guatemala, Colombia",not disclosed,"Caturra, Bourbon, Mundo Novo, Typica",Medium-dark,chocolate    roasty    rich
+Super Ego,Thou Mayest Coffee Roasters,"Brazil, El Salvador",not disclosed,"Bourbon, Catuaí, Mundo Novo",Medium,molasses    chocolate    rich
+Method Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium,caramel    citrus    balanced
+French Roast Fair Trade Organic,Kaldi's Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Very Dark,smoky    caramel    bold
+Espresso Primo,Dawson Taylor Coffee Roasters,"Brazil, Sumatra, Colombia, India",not disclosed,"Bourbon, Caturra, Typica, Catimor, Catuaí",Medium,chocolate    nutty    rich
+Del Sol Breakfast Blend,Colectivo Coffee,"Colombia, Guatemala, Papua New Guinea",not disclosed,not disclosed,Medium-light,chocolate    citrus    balanced
+Queen City,Caffe Vita Coffee Roasting Co,"Central and South America, Indonesia, Africa",not disclosed,not disclosed,Medium-dark,smoky    nutty    rich
+Bassline Espresso Blend,Passion House Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium,chocolate    nutty    full bodied
+Organic Decaf,Caffe Vita Coffee Roasting Co,Latin America,not disclosed,not disclosed,Very Dark,caramel    nutty    full bodied
+Terra Incognita Espresso Blend,Portola Coffee Roasters,Ethiopia and Colombia,not disclosed,not disclosed,Medium,chocolate    fruity    rich
+Peru ,Tony's Coffee,Peru,not disclosed,"Bourbon, Typica, Caturra, Pache",Medium,toffee    hazelnut    balanced
+El Salvador Ayutepeque,Topeca Coffee Roasters,El Salvador,not disclosed,Red Bouron and Pacas,Light,nutty    chocolate    rich
+Honduras Las Capucas,Mela Coffee Roasting Company,Honduras,not disclosed,"Pacas, Bourbon, Caturra, Catuai",Medium-dark,chocolate    roasted nuts    rich
+Backcountry Blend,Dawson Taylor Coffee Roasters,"Colombia, Indonesia",not disclosed,"Bourbon, Typica, Caturra, Catimor",Medium,chocolate    earthy    full bodied
+Typhoon Espresso,Higher Grounds Coffee,"Ethiopia, Peru, Sumatra",not disclosed,not disclosed,Medium,roasty    nutty    full bodied
+Mexico Cristal,Quills Coffee,Mexico,not disclosed,"Bourbon, Caturra, Typica, Yellow Bourbon, Maracaturra, Maragogype, Catimor",Medium,almond    nougat    balanced
+East Coast Espresso,Panther Coffee ,not disclosed,not disclosed,not disclosed,Medium-light,chocolate    fruity    rich
+Decaf Equator Blend,Equator Coffees & Teas,not disclosed,not disclosed,not disclosed,Medium-dark,baking spices    fruity    rich
+Mocha Java Fair Trade Organic ,Equator Coffees & Teas,not disclosed,not disclosed,not disclosed,Medium-dark,chocolate    fruity    complex
+Colombia Gran Galope,Quills Coffee,Colombia,not disclosed,"Caturra, Colombia, Castillo",Medium-light,caramel    nutty    balanced
+Cafe Kaldi,Kaldi's Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Medium,chocolate    caramel    rich
+Nerve Tonic Espresso,Anodyne Coffee Roasting Co. ,not disclosed,not disclosed,not disclosed,Medium,chocolate    nutty    rich
+Mokha Java Organic Blend,Noble Coffee Roasting,not disclosed,not disclosed,not disclosed,Medium,dark chocolate    red wine    silky
+Tangletown,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Medium,chocolate    citrus    bright
+Signature Espresso Blend,Topeca Coffee Roasters,El Salvador,not disclosed,"Red Bourbon, Pacas",Medium-light,chocolate    nutty    rich
+Old Crow Cuppa Joe Blend,Red Rooster Coffee,"Colombia, Nicaragua, Ethiopia",not disclosed,"Ethiopian heirloom, Caturra, Catuaí, Bourbon, Colombia, Castillo",Medium,berries    chocolate    syrupy
+Organic Espresso ,Caffe Vita Coffee Roasting Co,"South America, Indonesia, Africa",not disclosed,not disclosed,Medium,nutty    citrus    complex
+Ethiopia Kayon Mountain Farm Natural,Evans Brothers Coffee Roasters,Ethiopia,not disclosed,"74110, 74112",Medium,citrus    berries    juicy
+Vienna Roast ,Dawson Taylor Coffee Roasters,Colombia,not disclosed,"Caturra, Typica, Bourbon",Very Dark,chocolate    roasty    full bodied
+Milwaukee Rock Star Blend,Anodyne Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Medium-dark,smoky    chocolate    bold
+Schweitzer Mountain Blend,Evans Brothers Coffee Roasters,Central and South America,not disclosed,not disclosed,Medium-dark,chocolate    baking spices    full bodied
+Rogue Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-dark,caramel    chocolate    balanced
+Venice Blvd Blend,Bixby Roasting Co.,"Ethiopia, Kenya, Nicaragua",not disclosed,"Typica, Catimor, Catuaí, Caturra",Medium-dark,cacao    toasted nuts    rich
+Breakfast Blend,Topeca Coffee Roasters,El Salvador,not disclosed,Red Bourbon and Pacas,Medium,caramel    baking spices    balanced
+Novacella Decaf,Caffe Vita Coffee Roasting Co,"Central and South America, Indonesia",not disclosed,not disclosed,Medium-dark,smoky    nutty    full bodied
+Night Owl ,Quills Coffee,"Guatemala, Colombia",not disclosed,"Bourbon, Caturra, Catuaí, Pache, Maragogype, Castillo, Colombia",Medium-dark,chocolate    caramel    rich
+French Royale Fair Trade & Organic,Tony's Coffee,Central and South America,not disclosed,not disclosed,Very Dark,smoky    chocolate    bold
+House Blend,Populace Coffee,"Colombia, Guatemala",not disclosed,not disclosed,Medium-light,chocolate    roasted nuts    balanced
+Organic Hunky Dory Decaf,Sightglass Coffee,Varies Seasonally,not disclosed,not disclosed,Medium-dark,toffee    red grape    delicate
+Funky Chicken Blend,Red Rooster Coffee,"Colombia, East Timor, Nicaragua",not disclosed,"Colombia, Caturra, Castillo, Catimor, Bourbon",Medium,dark chocolate    citrus    balanced
+Organic Decaf French Roast,Centri Coffee,South America,not disclosed,various,Very Dark,roasty    baking spices    full bodied
+Kona Blend,Dillanos Coffee Roasters,"Hawaii, USA and Pacific Islands",not disclosed,not disclosed,Medium-dark,nutty    chocolate    rich
+Hi-Five,Case Coffee Roasters,"Guatemala, Papua New Guinea",not disclosed,not disclosed,Medium,chocolate    baking spices    full bodied
+Brazil Fazenda Frutas,Goshen Coffee Company,Brazil,not disclosed,"Bourbon, Catuaí, Icatú, Arara",Medium-light,grape    mixed nuts    jammy
+Breakfast Blend,Kaldi's Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Medium,chocolate    citrus    balanced
+Pacific Decaf Fair Trade & Organic,Tony's Coffee,Central and South America,not disclosed,not disclosed,Very Dark,caramel    chocolate    bold
+Dillons Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-dark,chocolate    nutty    rich
+Birds & Bees Fair Trade Organic,Kaldi's Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Medium,caramel    nutty    bold
+Toni ,Portrait Coffee,Honduras,not disclosed,Parainema,Medium,chocolate    walnut    balanced
+Organic Tatoosh ,Zoka Coffee Roasting Co,"South America, Africa, Indonesia",not disclosed,not disclosed,Very Dark,chocolate    fruity    rich
+Midway Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-dark,chocolate    nutty    bold
+Familia Montano Colombia,Ritual Coffee Roasters,Colombia,not disclosed,"Castillo, Colombia",Medium-light,cherry    sugarcane    bright
+Classic Blend,Kuma Coffee,"Honduras, Colombia, Guatemala",not disclosed,"Colombia, Pacas, Caturra",Medium,chocolate    stone fruit    balanced
+Goodnight Moon Decaf,Camber Coffee,El Salvador,not disclosed,not disclosed,Medium,chocolate    red apple    complex
+Thunder Cloud,Topeca Coffee Roasters,"Brazil, Ethiopia, Sumatra",not disclosed,"Yellow Bourbon, Ethiopian heirloom, Sigarutan, Ateng",Medium-dark,dark fruit    spice    rich
+Star Valley Decaf Organic Blend,Wonderstate Coffee,Guatemala,not disclosed,"Caturra, Typica, Bourbon, Catimor",Medium-dark,caramel    nutty    balanced
+Flor del Sol Signature Blend ,PT's Coffee Roasting Co.,"Colombia, Ethiopia",not disclosed,not disclosed,Medium,raisin    lemon    lively
+Sumatra Mandheling Organic,Mela Coffee Roasting Company,Sumatra,not disclosed,"Caturra, Typica, Catimor",Medium,earthy    baking spices    full bodied
+Decaf Chicago House Blend,Passion House Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium,chocolate    caramel    balanced
+Decaf Honduras,Mela Coffee Roasting Company,Honduras,not disclosed,not disclosed,Medium-dark,caramel    vanilla    smooth
+Epiphany House Espresso Blend,Case Coffee Roasters,Varies Seasonally,not disclosed,not disclosed,Medium-light,chocolate    caramel    balanced
+Colombia Frontera de Planadas,Methodical Coffee,Colombia,not disclosed,"Caturra, Castillo",Medium,caramel    hazelnut    balanced
+Southern Gothic ,Quills Coffee,"Peru, Colombia",not disclosed,not disclosed,Medium-light,dark chocolate    caramel    balanced
+Bolivia Caranavi,Higher Grounds Coffee,Bolivia,not disclosed,"Caturra, Typica",Medium,chocolate    nutty    rich
+Smooth Operator Brazil Cocarive Cooperative,Thou Mayest Coffee Roasters,Brazil,not disclosed,"Bourbon, Cataui, Mundo Novo",Medium-light,chocolate    caramel    rich
+Organic Honduras COMSA Fair Trade,Centri Coffee,Honduras,not disclosed,"Bourbon, Catuaí, Lempira, Caturra, Typica, Pacas",Medium,cacao nibs    walnut    full bodied
+Laid Back Decaf ,Thou Mayest Coffee Roasters,Colombia,not disclosed,"Caturra, Castillo and Typica",Medium,caramel    nutty    balanced
+Decaf Fool's Gold Blend,Anodyne Coffee Roasting Co.,not disclosed,not disclosed,not disclosed,Medium,earthy    nutty    balanced
+Boldly Go,Thou Mayest Coffee Roasters,Sumatra,not disclosed,Ateng,Medium-dark,earthy    chocolate    bold
+Nicaragua Penas Blancas,Bixby Roasting Co.,Nicaragua,not disclosed,Catimor,Very Dark,chocolate    almond    full bodied
+Atticus,Steadfast Coffee Roasters,"Latin America, Africa, South Seas",not disclosed,not disclosed,Medium,stone fruit    milk chocolate    balanced
+Night Moves Blend,Passion House Coffee Roasters,Latin America,not disclosed,not disclosed,Medium-dark,chocolate    caramel    bold
+Bronson French Roast,Verve Coffee Roasters,Colombia,not disclosed,"Castillo, Caturra, Colombia",Medium-dark,smoky    molasses    full bodied
+Brazil Dulce Signature,Methodical Coffee,Brazil,not disclosed,"Yellow Catuaí, Mundo Novo",Medium,dark chocolate    nutty    balanced
+4&20 French Roast ,Red Rooster Coffee,"East Timor, Nicaragua",not disclosed,"Catimor, Caturra, Catuaí, Bourbon",Medium-dark,chocolate    earthy    rich
+Sleeping Goat Decaf ,Klatch Coffee,"Brazil, Colombia, Sumatra",not disclosed,not disclosed,Very Dark,smoky    chocolate    bold
+Sumatra Fair Trade & Organic,Tony's Coffee,Sumatra,not disclosed,not disclosed,Medium,earthy    baking spices    full bodied
+Brazil Serra Negra,Quills Coffee ,Brazil,not disclosed,various,Medium-light,nutty    chocolate    full bodied
+Mayan Magic Espresso,Higher Grounds Coffee,"Ethiopia, Guatemala, Sumatra",not disclosed,not disclosed,Medium-dark,chocolate    fruity    rich
+Velo French Roast,Colectivo Coffee,"Honduras, Sumatra",not disclosed,not disclosed,Very Dark,smoky    chocolate    bold
+Brazil Cocarive,Parisi Artisan Coffee,Brazil,not disclosed,"Caturra, Catuai",Medium,chocolate    nutty    full bodied
+Colombia Cauca,Good Folks Coffee,Colombia,not disclosed,"Caturra, Castillo, Colombia",Medium,stone fruit    apple    complex
+Coffeehouse Blend,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium-dark,chocolate    nutty    full bodied
+Decaf Asterisk ,Olympia Coffee Roasting Co,Colombia,not disclosed,"Caturra, Colombia",Medium-light,chocolate    caramel    syrupy
+Crazy Goat Blend,Klatch Coffee,"Brazil, Colombia, El Salvador, Sumatra",not disclosed,not disclosed,Medium,dark chocolate    spice    full bodied
+Canopy Organic Blend,Wonderstate Coffee,Guatemala,not disclosed,"Bourbon, Caturra, Typica",Medium-dark,dark chocolate    brown sugar    balanced
+Mexico Yachil,Higher Grounds Coffee,Mexico,not disclosed,"Bourbon, Caturra, Typica",Medium-dark,chocolate    nutty    rich
+Colombia Nariño FUDAM,Evans Brothers Coffee Roasters,Colombia,not disclosed,"Colombia, Castillo, Caturra",Medium,chocolate    almond    balanced
+Bistro Blend,Caffe Vita Coffee Roasting Co,"South America, Indonesia, Africa",not disclosed,not disclosed,Medium,caramel    nutty    rich
+Decaf Funky Chicken,Red Rooster Coffee,not disclosed,not disclosed,not disclosed,Medium-dark,dark chocolate    citrus    balanced
+Peru Rutas del Inca FTO,Kaldi's Coffee Roasting Co,Peru,not disclosed,"Catimor, Caturra, Typica, Bourbon, Catuaí",Medium-light,chocolate    apple    balanced
+Dawn Patrol,Dawson Taylor Coffee Roasters,"Peru, Sumatra",not disclosed,"Typica, Bourbon, Catimor, Villa Sarchi",Medium,chocolate    nutty    balanced
+Dark Roast,Populace Coffee,"Brazil, Nicaragua",not disclosed,"Bourbon, Typica, Catuaí",Medium-dark,dark chocolate    nutty    rich
+Papua New Guinea Roots AX,Cartel Roasting Co.,Papua New Guinea,not disclosed,"Typica, Arusha",Medium-light,apple    peanut butter    rich
+Colombia Decaf,Good Folks Coffee,Colombia,not disclosed,"Colombia, Castillo, Caturra",Medium,brown sugar    dried fruit    full bodied
+Guatemala San Marcos,Higher Grounds Coffee,Guatemala,not disclosed,"Bourbon, Caturra, Typica",Medium-light,caramel    floral    balanced
+Brazil AFASA,Evans Brothers Coffee Roasters,Brazil,not disclosed,"Mundo Novo, Yellow Bourbon, Catuaí, Yellow Catucai",Medium,cocoa    nutty    balanced
+Ethiopia Masha Natural Espresso,Barefoot Coffee Roasters,Ethiopia,not disclosed,not disclosed,Medium-light,blackberry    floral    juicy
+Black Dog Espresso,Goshen Coffee Company,Varies Seasonally,not disclosed,not disclosed,Medium-dark,cocoa    molasses    rich
+A Shot in the Dark,Portola Coffee Roasters,"Brazil, Colombia",not disclosed,"Caturra, Typica, Catuaí, Colombia",Medium,chocolate    walnut    rich
+Seismic,Metric Coffee Co.,not disclosed,not disclosed,not disclosed,Medium,orange    melon    sparkling
+Decaf Colombia,Case Coffee Roasters,Colombia,not disclosed,not disclosed,Medium-light,chocolate    caramel    rich
+Daydream Organic Blend,Noble Coffee Roasting,"Honduras, Peru and Sumatra",not disclosed,not disclosed,Medium-dark,smoky    earthy    bold
+Onyx Blend,Klatch Coffee,"Brazil, Colombia, Costa Rica",not disclosed,not disclosed,Medium,chocolate    mandarin    balanced
+Roma Espresso Blend,Parisi Artisan Coffee,not disclosed,not disclosed,not disclosed,Medium-dark,chocolate    caramel    full bodied
+Floyd Farmhouse Blend,Red Rooster Coffee,"Colombia, Rwanda, Ethiopia",not disclosed,"Ethiopian heirloom, Typica, Caturra, Castillo, Colombia, Bourbon",Medium,chocolate    almond    complex
+Decaf World Tour Organic Blend,Noble Coffee Roasting,"Ethiopia, Mexico, Sumatra",not disclosed,not disclosed,Medium,chocolate    caramel    full bodied
+Honduras COMSA Marcala,Red Rooster Coffee,Honduras,not disclosed,not disclosed,Medium,dark chocolate    hazelnut    syrupy
+Moka Java Blend,Dillanos Coffee Roasters,"Ethiopia, Sumatra",not disclosed,not disclosed,Very Dark,earthy    baking spices    complex
+Darkest Side of the Moon,Passion House Coffee Roasters,Honduras,not disclosed,not disclosed,Medium-dark,dark chocolate    walnut    rich
+Chicago House Blend,Passion House Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium-light,caramel    citrus    balanced
+Colombia Paso Fino,Colectivo Coffee,Colombia,not disclosed,"Bourbon, Caturra, Typica, Colombia, Castillo",Medium,caramel    citrus    juicy
+Boru Batak Sumatra,Bird Rock Coffee Roasters,Sumatra,not disclosed,"Ateng, Jember, Garundang",Light,dried fruit    tobacco    syrupy
+Ember,Alma Coffee,Honduras,not disclosed,Parainema,Very Dark,dark chocolate    marshmallow    bold
+West Coast Espresso,Panther Coffee,not disclosed,not disclosed,not disclosed,Medium-light,caramel    fruity    bright
+Rio Azul Guatemala,Dillanos Coffee Roasters,Guatemala,not disclosed,Caturra and Typica,Medium-dark,chocolate    baking spices    balanced
+Decaf Tangletown ,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Medium,chocolate    citrus    balanced
+Organic House Espresso,Klatch Coffee,"Brazil, Colombia, Ethiopia, Sumatra",not disclosed,not disclosed,Medium,chocolate    nutty    balanced
+Green Planet Organic Blend,Dillanos Coffee Roasters,"Costa Rica, Guatemala, Honduras",not disclosed,not disclosed,Medium-dark,chocolate    caramel    balanced
+Ava Blonde Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Medium,nutty    chocolate    balanced
+Breakfast Blend,Dawson Taylor Coffee Roasters,"Colombia, Sumatra",not disclosed,"Bourbon, Typica, Red Bourbon, Catimor",Medium-dark,chocolate    earthy    full bodied
+Decaf Colombia Paso Fino ,Colectivo Coffee ,Colombia,not disclosed,not disclosed,Medium,caramel    fruity    balanced
+Indigo,Colectivo Coffee,"Ethiopia, Colombia",not disclosed,"Ethiopian Heirloom, Caturra, Castillo, Colombia",Medium,berries    baking spices    juicy
+Espresso Proper,Populace Coffee,"Colombia, Kenya",not disclosed,not disclosed,Medium-light,melon    ginger    lively
+Cerberus,Barefoot Coffee Roasters,Honduras,not disclosed,not disclosed,Very Dark,dark chocolate    nutty    full bodied
+Back 40 Blend,Tony's Coffee,"Colombia, Honduras, Guatemala, Nicaragua, Papua New Guinea",not disclosed,not disclosed,Very Dark,dark chocolate    smoky    bold
+Espresso Clutch,Populace Coffee,"Costa Rica, Brazil and Colombia",not disclosed,not disclosed,Medium-light,chocolate    dried cherry    rich
+Colombia Fondo Paez,Higher Grounds Coffee,Colombia,not disclosed,"Typica, Castillo",Medium-light,nutty    caramel    balanced
+Dawson's House Blend,Dawson Taylor Coffee Roasters,"Sumatra, Costa Rica",not disclosed,"Caturra, Red Caturra, Catimor, Bourbon",Medium,chocolate    caramel    balanced
+Paradox Blend,Dillanos Coffee Roasters,not disclosed,not disclosed,various,Medium-dark,vanilla    cola    rich
+Standing on the Moon,Passion House Coffee Roasters,El Salvador,not disclosed,Red Bourbon,Medium-light,tangerine    nougat    complex
+Fitzroy Blend,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Medium,caramel    chocolate    rich
+Organic French Roast,Centri Coffee,South America,not disclosed,not disclosed,Medium-dark,caramel    roasty    rich
+Ladro Decaf Blend Swiss Water Process,Caffe Ladro,not disclosed,not disclosed,not disclosed,Medium,chocolate    nutty    balanced
+Ethiopia,Bixby Roasting Co.,Ethiopia,not disclosed,Ethiopian heirloom,Very Dark,cocoa    dried fruit    rich
+Highland Humanity,Higher Grounds Coffee,Mexico,not disclosed,not disclosed,Medium-dark,caramel    chocolate    balanced
+Theo Blend Fair Trade & Organic,Caffe Vita Coffee Roasting Co,"South America, Indonesia",not disclosed,not disclosed,Medium,caramel    baking spices    rich
+Kenya,Dillanos Coffee Roasters,Kenya,not disclosed,SL-28,Medium,floral    citrus    juicy
+Mexico Oaxaca,Parisi Coffee Roasters,Mexico,not disclosed,"Bourbon, Typica, Mundo Novo",Medium,chocolate    nutty    balanced
+Peru La Familia Guzman,Dillanos Coffee Roasters,Peru,not disclosed,"Caturra, Typica and Catuai",Medium-dark,chocolate    nutty    rich
+Ethiopia Meaza,Coava Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Medium-light,citrus    honeydew    floral
+Equator Blend,Equator Coffees & Tea,"Colombia, Sumatra, Kenya",not disclosed,not disclosed,Medium-dark,chocolate    baking spice    balanced
+Nicaragua,Dillanos Coffee Roasters,Nicaragua,not disclosed,not disclosed,Medium-dark,nutty    herbal    balanced
+Swiss Water Decaf,Dillanos Coffee Roasters,not disclosed,not disclosed,not disclosed,Very Dark,caramel    woody    full bodied
+Bravissimo Blend,Parisi Artisan Coffee,not disclosed,not disclosed,various,Medium,chocolate    fruity    complex
+Guatemala Finca Nueva Granada,Steadfast Coffee Roasters,Guatemala,not disclosed,Bourbon,Medium,milk chocolate    grape    balanced
+Honduras Betty Perez ,Brandywine Coffee Roasters,Honduras,not disclosed,"Catuaí, Icatú",Medium-light,peach    orange    vibrant
+Suyusama Program,Bird Rock Coffee Roasters,Colombia,not disclosed,"Colombia, Caturra, Castillo",Light,peach    plum    vibrant
+Colombia Silvia Indigenous Regional,Cartel Roasting Co.,Colombia,not disclosed,Castillo,Light,apricot    clove    delicate
+Italiano,Parisi Coffee Roasters,Central and South America,not disclosed,not disclosed,Medium-dark,chocolate    molasses    rich
+Ethiopia Masha Natural,Barefoot Coffee Roasters,Ethiopia,not disclosed,not disclosed,Medium-light,strawberry    tropical fruit    juicy
+Decaf Monk,1000 Faces Coffee Roasters,Colombia,not disclosed,"Caturra, Castillo, Colombia",Medium,chocolate    hazelnut    balanced
+Mokha Java,Goshen Coffee Company,Various,not disclosed,Various,Medium,red fruits    herbal    creamy
+Guatemala Cachito,Goshen Coffee Company,Guatemala,not disclosed,"Typica, Caturra",Medium-light,clementine    raw sugar    juicy
+Give Back Blend,Cartel Roasting Co.,"Guatemala, Ethiopia",not disclosed,"Catuaí, Ethiopian heirloom, Caturra",Light,orange    molasses    vibrant
+Costa Rica Don Roberto,Dawson Taylor Coffee Roasters,Costa Rica,not disclosed,"Caturra, Catuaí",Medium,citrus    milk chocolate    balanced
+El Salvador Finca El Manzano,Dillanos Coffee Roasters,El Salvador,not disclosed,Bourbon,Medium,nutty    chocolate    balanced
+Organic Swiss Water Decaf,Bixby Roasting Co.,"Mexico, Sumatra",not disclosed,"Typica, Catimor, Caturra, Bourbon, Catuaí",Very Dark,molasses    clove    rich
+Songbird Blend Fair Trade & Organic,Tony's Coffee,"Central and South America, Indonesia",not disclosed,not disclosed,Medium-dark,chocolate    caramel    full bodied
+Decaf Mountain Water Brasil,Panther Coffee,Brasil,not disclosed,Red Catuai,Medium,chocolate    caramel    balanced
+Decaf Hidden City ,Zoka Coffee Roasting Co,Central and South America,not disclosed,not disclosed,Very Dark,smoky    caramel    bold
+Funky Mamacita,Higher Grounds Coffee,"Bolivia, Peru",not disclosed,not disclosed,Medium,earthy    nutty    bold
+Nicaragua Jinotega,Parisi Coffee Roasters,Nicaragua,not disclosed,"Bourbon, Caturra, Catucaí, Catimor",Medium-dark,chocolate    almond    full bodied
+Espresso Parisi Blend,Parisi Artisan Coffee,not disclosed,not disclosed,not disclosed,Medium,chocolate    nutty    balanced
+Tanzania,Dillanos Coffee Roasters,Tanzania,not disclosed,Bourbon,Very Dark,smoky    sweet    full bodied
+Decaf Espresso,Klatch Coffee,"Brazil, Colombia, El Salvador, Guatemala, Sumatra",not disclosed,not disclosed,Very Dark,chocolate    dried fruit    rich
+Swiss Water Decaf Espresso Primo,Dawson Taylor Coffee Roasters,"Brazil, Colombia, Sumatra",not disclosed,"Caturra, Bourbon, Typica, Catimor",Very Dark,chocolate    vanilla    balanced
+Organic French Roast,Dawson Taylor Coffee Roasters,Peru,not disclosed,"Caturra, Catimor, Typica, Bourbon",Very Dark,dark chocolate    smoky    full bodied
+Sumatra Highlands Fair Trade Organic,Colectivo,Sumatra,not disclosed,"Bourbon, Caturra, Typica, Catimor, S795",Medium,earthy    herbal    complex
+Ethiopia Guji,Mela Coffee Roasting Company,Ethiopia,not disclosed,Typica,Medium-light,blueberry    floral    syrupy
+Organic Decaf Mexico,Spyhouse Coffee Roasters,Mexico,not disclosed,"Caturra, Bourbon, Mundo Novo, Typica",Medium,cocoa    hazelnut    balanced
+Brazil Fazenda Primavera,Anodyne Coffee Roasters,Brazil,not disclosed,Yellow Catuaí,Medium,chocolate    nutty    balanced
+El Salvador Santa Ana,Topeca Coffee Roasters,El Salvador,not disclosed,Bourbon and Pacamara,Light,caramel    floral    delicate
+Sumatra Mandheling,Parisi Artisan Coffee,Sumatra,not disclosed,not disclosed,Medium,earthy    herbal    bold
+Sumatra Permata Gayo,Higher Grounds Coffee,Sumatra,not disclosed,"Ateng, Julek, Linie S., Bor Bor",Medium-dark,earthy    herbal    full bodied
+Mosaic Blend,Camber Coffee,Peru,not disclosed,"Bourbon, Caturra",Medium,citrus    cherry    juicy
+Brazil Fazenda Sertao,Dillanos Coffee Roasters,Brazil,not disclosed,"Bourbon, Catuai",Medium-dark,caramel    tobacco    rich
+Peru Cafe De Mujer Espresso,Barefoot Coffee Roasters,Peru,not disclosed,"Bourbon, Catimor, Pache, Caturra, Typica",Medium,cherry    lime    vibrant
+Congo Kawa Kanzaruru,Portrait Coffee,Congo,not disclosed,Blue Mountain,Medium,baking spices    pineapple    complex
+Portage Seasonal Blend,Ruby Coffee Roasters,"Brazil, Colombia",not disclosed,"Caturra, Colombia, Catuaí",Medium-dark,chocolate    raisin    rich
+Tomorrow Seasonal Project,Ruby Coffee Roasters,Peru,not disclosed,"Caturra, Bourbon, Pache, Catimor",Medium,apple    dried cherry    balanced
+Ad Astra Signature Blend,PT's Coffee Roasting Co.,"Brazil, Mexico",not disclosed,not disclosed,Very Dark,dark chocolate    cola    bold
+Late Night,Methodical Coffee,"Brazil, Costa Rica",not disclosed,"Yellow Catuaí, Mundo Novo, Caturra",Medium,dark chocolate    roasted nuts    rich
+Organic Swiss Water Decaf Honduras,Dawson Taylor Coffee Roasters,Honduras,not disclosed,"Caturra, Catuaí",Medium,milk chocolate    maple syrup    balanced
+Skylar's Blend,Dillanos Coffee Roasters,"Costa Rica, Tanzania and Papua New Guinea",not disclosed,not disclosed,Medium,caramel    chocolate    rich
+Dark Sumatra Highlands Fair Trade Organic,Colectivo Coffee,Sumatra,not disclosed,"Caturra, Typica, Catimor, Tim Tim, BorBor, Bergendal, Jember",Very Dark,smoky    earthy    full bodied
+Nor'wester,Caffe Vita Coffee Roasting Co,"Ethiopia, Colombia, Indonesia",not disclosed,"Castillo, Typica",Medium-light,cherry    maple    complex
+Organic Sumatra Gayo River,Caffe Vita Coffee Roasting Co,Sumatra,not disclosed,"Typica, TimTim, Ateng",Medium-dark,earthy    herbal    full bodied
+Breakfast Blend,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium,toffee    cherry    vibrant
+Mexico Chiapas,Tony's Coffee,Mexico,not disclosed,various,Medium,cocoa    roasted almond    creamy
+Sumatra Mutu Batak,Klatch Coffee Roasting,Sumatra,not disclosed,"Ateng, Jember, and Garundang",Medium,cacao    cedar    earthy
+Colombia Marco Fidel Lopez,Tony's Coffee,Colombia,not disclosed,"Castillo, Caturra",Medium-light,melon    vanilla    lively
+Summer Annuals ,Ceremony Coffee Roasters,"Ethiopia, Mexico",not disclosed,"Typica, Bourbon, Caturra, Mundo Novo, Ethiopian Landraces",Medium-light,nectarine    lime    vibrant
+Starr Hill Stout Blend,Red Rooster Coffee,"Indonesia, Africa, the Americas",not disclosed,not disclosed,Medium-dark,dark chocolate    caramel    complex
+L'Alba,Parisi Coffee Roasters,South America,not disclosed,not disclosed,Medium,chocolate    hazelnut    rich
+Decaf EA Mexico,Ceremony Coffee Roasters,Mexico,not disclosed,"Typica, Caturra, Mundo Novo",Medium,chocolate    cherry    rich
+Colombia La Pelota,Goshen Coffee Company,Colombia,not disclosed,"Caturra, Typica",Medium-light,stone fruit    citrus    lively
+Colombia Valle del Cauca Decaf,Portrait Coffee,Colombia,not disclosed,"Caturra, Castillo",Medium,caramel    dried cherry    balanced
+Cold Brew Blend,Mela Coffee Roasting Company,not disclosed,not disclosed,"Bourbon, Yellow Caturra, Acaiá",Medium,cocoa    baking spices    full bodied
+Night Owl Half-Caff Blend,Red Rooster Coffee,"Colombia, Peru",not disclosed,"Catuaí, Colombia, Castillo, Caturra",Medium-dark,chocolate    earthy    balanced
+Mexico Monte Albán,Anodyne Coffee Roasters,Mexico,not disclosed,"Bourbon, Typica",Medium,almond    lemon    balanced
+Guatemala Hunapu,Kuma Coffee,Guatemala,not disclosed,Red Bourbon,Medium-light,orange    fruit punch    vibrant
+Organic Brazil Matas De Minas Klem,Centri Coffee,Brazil,not disclosed,Catuaí,Medium,chocolate    cola    balanced
+Ethiopia Guji Natural,Barefoot Coffee Roasters,Ethiopia,not disclosed,Indigenous Heirloom,Light,strawberry    tangerine    juicy
+Honduran Comsa Decaf,Higher Grounds Coffee,Honduras,not disclosed,"Lempira, Catuaí, Catimor",Medium,caramel    chocolate    balanced
+Colombia Elkin Guzman Caturra Honey,Brandywine Coffee Roasters,Colombia,not disclosed,Caturra,Light,cherry    almond    vibrant
+Decaf Organic Espresso Cuatro ,Zoka Coffee Roasting Co,South America,not disclosed,not disclosed,Medium-dark,caramel    nutty    full bodied
+Gran's Blend Half-Decaf,Higher Grounds Coffee,"Honduras, Peru",not disclosed,"Typica, Bourbon, Catimor, Lempira",Medium,toffee    nutty    balanced
+River Days Seasonal Espresso,Ritual Coffee Roasters,"Colombia, Honduras, Guatemala",not disclosed,"Typica, Bourbon, Pacas, Castillo",Medium,brown sugar    clementine    vibrant
+El Salvador Metapan,Verve Coffee Roasters,El Salvador,not disclosed,Various,Medium-light,green apple    cocoa    balanced
+Colombia Maria Cristina Cordoba,Verve Coffee Roasters,Colombia,not disclosed,Colombia,Medium,milk chocolate    red apple    balanced
+Ethiopia Chelchele Natural,Verve Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Light,raspberry    sweet cream    juicy
+French Roast,Mela Coffee Roasting Company,Honduras,not disclosed,"Pacas, Caturra, Bourbon, Catuaí",Very Dark,dark chocolate    caramel    rich
+Colombia Rafael Rivas,Camber Coffee,Colombia,not disclosed,"Castillo, Colombia",Light,plum    cherry    vibrant
+Ethiopia Teshome Gemechu,Camber Coffee,Ethiopia,not disclosed,Wolisho & Dega,Light,lemon    melon    lively
+Peru Velo de Novia Washed,PT's Coffee Roasting Co.,Peru,not disclosed,"Bourbon, Caturra",Medium-light,nectarine    black tea    lively
+Colombia El Porvenir Tabi Washed,PT's Coffee Roasting Co.,Colombia,not disclosed,Tabi,Medium-light,apple    macadamia    vibrant
+Ethiopia Laayyoo Natural,Ceremony Coffee Roasters,Ethiopia,not disclosed,74110 + 74112,Light,rose    blueberry    juicy
+Brazil Danilo Vital,Portrait Coffee,Brazil,not disclosed,Yellow Catuaí,Medium-light,caramel    fig    syrupy
+Guatemala Los Santos,Temple Coffee,Guatemala,not disclosed,"Bourbon, Caturra, Catuaí, Typica",Medium-light,lemon    cherry    vibrant
+Honduras Juan Vicente Natural ,Thou Mayest Coffee Roasters,Honduras,not disclosed,"Bourbon, Pache",Light,tropical fruit    melon    juicy
+Ethiopia Yabitu Koba Natural,Olympia Coffee Roasting Co,Ethiopia,not disclosed,Ethiopian heirloom,Medium-light,grape    blueberry    juicy
+Colombia Gabriel Castano Buendia,Onyx Coffee Lab,Colombia,not disclosed,Pink Bourbon,Light,cherry    lime    silky
+Ethiopia Wush Wush Natural,Onyx Coffee Lab,Ethiopia,not disclosed,Ethiopian heirloom,Light,mixed berries    rooibos tea    juicy
+Bolivia La Llama,Panther Coffee Roasters,Bolivia,not disclosed,Caturra,Medium-light,chocolate    lychee    round
+Ethiopia Chelbessa,Panther Coffee Roasters,Ethiopia,not disclosed,Indigenous Varieties,Medium-light,peach    nectarine    bright
+Guatemala Atilán Aprocafé,Huckleberry Roasters,Guatemala,not disclosed,"Caturra, Bourbon, Catuaí, Pache",Medium-light,nougat    red plum    balanced
+Uganda Sipi Falls Washed,Huckleberry Roasters,Uganda,not disclosed,"SL-28, SL-34",Light,apricot    citrus    bright
+Burundi Ninga,Huckleberry Roasters,Burundi,not disclosed,Bourbon,Light,clementine    white grape    bright
+Papua New Guinea Baroida Natural,Red Rooster Coffee,Papua New Guinea,not disclosed,"Arusha, Bourbon, Mundo Novo, Typica",Light,red currant    grapefruit    bright
+Nicaragua Finca Pastoral Honey,Red Rooster Coffee,Nicaragua,not disclosed,"Catuaí, Parainema",Light,tangerine    pear    complex
+Dominican Republic Ramirez Aged ,Red Rooster Coffee,Dominican Republic,not disclosed,Red Caturra,Light,cherry    strawberry    juicy
+Ethiopia Worka Sakaro Anaerobic Natural,Red Rooster Coffee,Ethiopia,not disclosed,Landrace,Light,berries    rose    juicy
+DR Congo Muungano,Kaldi's Coffee Roasting Co,Congo,not disclosed,Bourbon,Medium-light,plum    oolong tea    complex
+Timor-Leste Fatubesi,Kaldi's Coffee Roasting Co,East Timor,not disclosed,"Typica, Hybrido de Timor",Medium,chocolate    almond    balanced
+Mexico Los Naranjos,Coava Coffee Roasters,Mexico,not disclosed,"Caturra, Pluma Hidalgo",Medium-light,orange    maple    balanced
+Guatemala La Bolsa,Tony's Coffee,Guatemala,not disclosed,"Bourbon, Caturra",Medium-light,apple    plum    vibrant
+Ethiopia Decaf Halo Hartume,Metric Coffee Co.,Ethiopia,not disclosed,not disclosed,Medium,berries    lemon    juicy
+Nicaragua Los Pozitos,Ceremony Coffee Roasters,Nicaragua,not disclosed,"Caturra, Catuaí, Java",Medium-light,apple    vanilla    juicy
+Colombia Familia Ortega Gomez,1000 Faces Coffee Roasters,Colombia,not disclosed,Red Caturra,Medium-light,cherry    berries    juicy
+Nicaragua Aldea,Methodical Coffee,Nicaragua,not disclosed,"Caturra, Catuaí",Medium,almond    orange    dynamic
+Honduras Santa Lucia Family,Methodical Coffee,Honduras,not disclosed,"Caturra, Lempira, lh90",Medium,chocolate    almond    balanced
+Guatemala Bella Vista,Cat & Cloud Coffee,Guatemala,not disclosed,Bourbon,Medium-light,strawberry    tangerine    juicy
+Mexico Finca San Alfonso,Cat & Cloud Coffee,Mexico,not disclosed,Marsellesa,Medium-light,vanilla    papaya    complex
+Kenya Kagumoini,Cat & Cloud Coffee,Kenya,not disclosed,"SL-28, Batian, Ruiru 11",Medium-light,kiwi    pineapple    vibrant
+Ethiopia Worka,Cat & Cloud Coffee,Ethiopia,not disclosed,Ethiopian heirloom,Light,apricot    lemon    bright
+Honduras Roger Dominguez Natural,Populace Coffee,Honduras,not disclosed,"Bourbon, Catuaí",Light,chocolate    cherry    balanced
+Pedernales ,Alma Coffee,Honduras,not disclosed,not disclosed,Light,pomegranate    apple    bright
+Verano Summer,Alma Coffee,Honduras,not disclosed,Parainema,Medium-light,strawberry    peach    dynamic
+Ethiopia Buliye,Tandem Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Light,strawberry    lemon    vibrant
+Guatemala El Mirador,Tandem Coffee Roasters,Guatemala,not disclosed,"Bourbon, Caturra, Catuaí",Light,cherry    toasted almond    balanced
+Kenya Giakanja,Tandem Coffee Roasters,Kenya,not disclosed,"SL-28, SL-34, Ruiru 11, Batian",Light,blackberry    lime    bright
+Ecuador Mitad Del Mundo,Verve Coffee Roasters,Ecuador,not disclosed,"Typica, Caturra, Bourbon",Medium-light,orange    nutmeg    complex
+Ethiopia Kayon Mountain Natural,Verve Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Light,cocoa    fig    juicy
+Ethiopia Nano Genji Lot 6,Kaldi's Coffee Roasting Co,Ethiopia,not disclosed,Ethiopian heirloom,Medium-light,tropical fruit    citrus    floral
+Mexico Zaragoza Itunduija,Portrait Coffee,Mexico,not disclosed,Typica,Medium-light,peach    mango    lively
+Kenya Gatirima AB,Portrait Coffee,Kenya,not disclosed,"SL-28, SL-34",Medium-light,tangerine    melon    bright
+Costa Rica Finca Calle Lajas,Evans Brothers Coffee Roasters,Costa Rica,not disclosed,"Caturra, Catuaí",Medium-light,raspberry    cherry    juicy
+El Salvador Las Delicias,Evans Brothers Coffee Roasters,El Salvador,not disclosed,Bourbon,Medium-light,milk chocolate    raisin    balanced
+Ethiopia Worka Chelbessa Yirgacheffe,Sightglass Coffee,Ethiopia,not disclosed,Ethiopian heirloom,Medium-light,peach    elderflower    vibrant
+Burundi Turihamwe,Temple Coffee,Burundi,not disclosed,Bourbon,Medium,cocoa    baking spice    complex
+Campfire Blend,Caffe Vita Coffee Roasting Co,"Ethiopia, Colombia, Peru",not disclosed,Caturra,Medium-light,orange    marshmallow    balanced
+Dreamsicle Aponte Colombia,Caffe Vita Coffee Roasting Co,Colombia,not disclosed,Caturra,Medium-light,mandarin    vanilla    vibrant
+Kenya Karatu,Ceremony Coffee Roasters,Kenya,not disclosed,SL-28,Light,lemon    concord grape    lively
+Ethiopia Buku,Ceremony Coffee Roasters,Ethiopia,not disclosed,Dega,Medium-light,mango    floral    delicate
+Ripple,Dawson Taylor Coffee Roasters,"Ethiopia, Colombia",not disclosed,"Caturra, Ethiopian heirloom",Medium-light,berries    milk chocolate    juicy
+Costa Rica Las Lajas Natural,Onyx Coffee Lab,Costa Rica,not disclosed,"Catuaí, Caturra",Light,blueberry    papaya    juicy
+Ethiopia Nano Genji,Onyx Coffee Lab,Ethiopia,not disclosed,Ethiopian heirloom,Light,peach    jasmine    vibrant
+Mexico Flor de Primavera Espresso,Noble Coffee Roasting,Mexico,not disclosed,"Bourbon, Typica, Oro Azteca & Marsellesa",Medium-light,fudge    apple    balanced
+S.O. Blend,Coava,The Americas & East Africa,not disclosed,not disclosed,Medium,chocolate    baking spice    balanced
+Kenya Mahiga AA,Camber Coffee,Kenya,not disclosed,Ruiru 11,Light,grapefruit    lime    bright
+Kenya Karinga,Case Coffee Roasters,Kenya,not disclosed,SL-28,Light,grapefruit    mandarin    juicy
+Guatemala Flor de Café,Anodyne Coffee Roasters,Guatemala,not disclosed,"Bourbon, Caturra, Typica, Catuaí, Catimor",Medium,chocolate    citrus    balanced
+Organic Guatemala Maya Lxil De Avelina,Klatch Coffee Roasting,Guatemala,not disclosed,"Bourbon, Typica",Medium,nougat    stone fruit    balanced
+Burundi Ngozi Bahire,Cartel Roasting Co.,Burundi,not disclosed,Bourbon,Light,pineapple    banana    vibrant
+Costa Rica Javier Solis,Tandem Coffee Roasters,Costa Rica,not disclosed,Catuaí,Light,nectarine    coconut    complex
+Summer Solstice Blend,1000 Faces Coffee Roasters,"Colombia, Rwanda",not disclosed,"Red Bourbon, Pink Bourbon",Medium-light,plum    rose    vibrant
+Colombia Agroambiental,Panther Coffee Roasters,Colombia,not disclosed,Castillo,Medium-light,chocolate    cherry    balanced
+Kenya Gachatha AA,Evans Brothers Coffee Roasters,Kenya,not disclosed,"SL-28, SL-34, Ruiru 11",Medium-light,pear    citrus    bright
+Larrea Blend,Verve Coffee Roasters,"Ethiopia, Indonesia",not disclosed,not disclosed,Medium-light,orange    watermelon    vibrant
+Rwanda Karambi,Verve Coffee Roasters,Rwanda,not disclosed,Bourbon,Medium-light,honeydew    nougat    complex
+El Angel Costa Rica,Ritual Coffee Roasters,Costa Rica,not disclosed,Caturra,Medium,cola    toasted almond    syrupy
+Cerro Buena Vista Costa Rica,Ritual Coffee Roasters,Costa Rica,not disclosed,Catuaí,Medium-light,lime    ginger    complex
+Colombia La Delfita,Temple Coffee,Colombia,not disclosed,Castillo,Medium,apricot    lemon    lively
+Colombia Miller Bustos El Mirador,Brandywine Coffee Roasters,Colombia,not disclosed,Pink Bourbon,Light,cherry    date    juicy
+Rwanda Ngoma,1000 Faces Coffee Roasters,Rwanda,not disclosed,Red Bourbon,Medium-light,blackberry    pomegranate    juicy
+Brazil Swiss Water Process Decaf,PT's Coffee Roasting Co.,Brazil,not disclosed,"Bourbon, Yellow Catuaí, Mundo Novo, Acaiá",Medium,chocolate    raisin    balanced
+Organic Nicaragua,Red Rooster Coffee,Nicaragua,not disclosed,"Caturra, Catuaí",Medium-dark,cocoa    black cherry    rich
+Honduras Benigno Mejía Garcia,Camber Coffee,Honduras,not disclosed,Parainema,Light,cherry    kiwi    lively
+Peru Elvis Davila,Camber Coffee,Peru,not disclosed,"Bourbon, Caturra",Light,grapefruit    lychee    bright
+Congo,Alma Coffee,Congo,not disclosed,Bourbon,Medium-light,peach    strawberry    complex
+Decaf Ethiopia Chelbessa,Wonderstate Coffee,Ethiopia,not disclosed,Ethiopian heirloom,Medium,jasmine    citrus    vibrant
+Burundi Gahahe,Camber Coffee,Burundi,not disclosed,Bourbon,Light,peach    clove    complex
+Colombia Kenny Adarme,Camber Coffee,Colombia,not disclosed,"Castillo, Caturra",Light,cranberry    apple blossom    bright
+Ethiopia Reko,Case Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Light,tangerine    apricot    sparkling
+Guatemalan Atitlán,Noble Coffee Roasting,Guatemala,not disclosed,"Bourbon, Caturra, Typica",Light,red apple    coconut    complex
+Madrid Family Honduras Espresso,Verve Coffee Roasters,Honduras,not disclosed,"Pacas, Parainema",Medium,lime    melon    vibrant
+Burundi Busambo,Panther Coffee Roasters,Burundi,not disclosed,Red Bourbon,Medium-light,blackberry    grapefruit    juicy
+Rwanda Sholi,Kaldi's Coffee Roasting Co,Rwanda,not disclosed,Bourbon,Medium-light,apricot    lemon    complex
+Peru Rosa Mego,Goshen Coffee Company,Peru,not disclosed,"Caturra, Catimor",Light,cranberry    lime    bright
+Decaf Costa Rica Tierras Ticas,Kuma Coffee,Costa Rica,not disclosed,not disclosed,Medium,clementine    pecan    vibrant
+Brazil Alta Mogiana,Barefoot Coffee Roasters,Brazil,not disclosed,not disclosed,Medium-light,strawberry    chocolate    rich
+Ethiopia Kilenso,Coava Coffee Roasters,Ethiopia,not disclosed,Ethiopian heirloom,Medium-light,lavender    cantaloupe    vibrant
+Ethiopia Behatu Jibicho,Tony's Coffee,Ethiopia,not disclosed,Ethiopian heirloom,Medium-light,orange    grape    juicy
+Ethiopia Mustefa Natural,PT's Coffee Roasting Co.,Ethiopia,not disclosed,Ethiopian heirloom,Light,red currant    pecan    vibrant
+Peru Rayos del Sol,Panther Coffee Roasters,Peru,not disclosed,"Bourbon, Catuaí, Pache, Caturra",Medium-light,vanilla    berries    silky
+Peru Maranura,Noble Coffee Roasting,Peru,not disclosed,"Bourbon, Typica, Caturra, Geisha",Light,nougat    mango    balanced
+Decaf Peru,Red Rooster Coffee,Peru,not disclosed,not disclosed,Medium-light,citrus    dark chocolate    bright
+Colombia Los Guacharos,Ruby Coffee Roasters,Colombia,not disclosed,"Caturra, Colombia",Medium,black cherry    apple    bright
+Mexico Tecolotl,Dawson Taylor Coffee Roasters,Mexico,not disclosed,"Caturra, Bourbon, Sarchimor",Medium-light,citrus    floral    complex
+Colombia Laboyano,Topeca Coffee Roasters,Colombia,not disclosed,"Colombia, CaturraPink Bourbon",Medium-light,cherry cola    baking spice    complex
+Cold Brew Blend,Tony's Coffee,Central and South America,not disclosed,not disclosed,Medium-dark,maple    hazelnut    rich
+Colombia Mejor,Panther Coffee Roasters,Colombia,not disclosed,Castillo,Medium-light,cherry    citrus    bright
+Decaf Los Montanos,Ritual Coffee Roasters,Colombia,not disclosed,"Colombia, Castillo",Medium,green grape    milk chocolate    complex
+Il Primo,Parisi Coffee Roasters,South America,not disclosed,not disclosed,Medium,milk chocolate    citrus    balanced
+Colombia Decaf,Parisi Coffee Roasters,Colombia,not disclosed,not disclosed,Medium-light,dark chocolate    citrus    balanced
+Wilder Blend,Verve Coffee Roasters,"Ethiopia, Colombia",not disclosed,"Ethiopian heirloom, Colombia",Medium-light,cherry    honeysuckle    complex
+Organic August Seasonal Blend,Ruby Coffee Roasters,"Colombia, Ethiopia",not disclosed,"Ethiopian heirloom, Caturra, Colombia",Medium,berries    orange zest    vibrant
+Organic Papua New Guinea Siane Chimbu,Centri Coffee,Papua New Guinea,not disclosed,"Bourbon, Typica",Medium,cacao    citrus    balanced
+Sumatra Bebagi Kepada,Goshen Coffee Company,Indonesia,not disclosed,"S795, Tim-Tim, Typica, Andung Sari",Medium,cocoa    oak    savory
+Moonstone,Goshen Coffee Company,Various,not disclosed,Various,Medium,walnut    grapefruit    bright
+Colombia El Vergel,Dawson Taylor Coffee Roasters,Colombia,not disclosed,Caturra,Medium,apple    floral    vibrant
+Decaf Sumatra Mandheling,Portola Coffee Roasters,Indonesia,not disclosed,not disclosed,Medium-dark,chocolate    earthy    rich
+Tropical Weather,Onyx Coffee Lab,Ethiopia,not disclosed,Ethiopian heirloom,Medium,mixed berries    sweet tea    juicy
+Jack Creek Cold Brew,Sisters Coffee Company,"Rwanda, Colombia",not disclosed,"Red Bourbon, Colombia, Castillo",Medium,chocolate    honey    complex
+Cold Front Signature Blend,PT's Coffee Roasting Co.,"Colombia, Ethiopia",not disclosed,not disclosed,Medium,chocolate    blackberry    balanced

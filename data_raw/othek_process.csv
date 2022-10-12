@@ -1,0 +1,277 @@
+,coffee,region,reg,process
+0,"
+Röstraum, Nero
+",,,
+1,"
+Kanzi Kaffee, Aurelia
+",,"
+washed                                    ",
+2,"
+Alt Wien, Frühstücksmischung
+",,,
+3,"
+Suchan, Milano
+",,"
+washed, natural                                    ",
+4,"
+Zalvera, Estate Coffee, Grower`s Roast
+",Finca Lovaina,Apaneca-Ilanatepec,"
+washed                                    "
+5,"
+Stoll, Roma
+",,"
+Washed                                    ",
+6,"
+Suchan, Bio Espresso
+",Bio,"
+washed, natural                                    ",
+7,"
+Merchant & Friends, Seven´th Bio
+",,Bio,
+8,"
+Alt Wien, Peru, Chanchamayo, Bio
+","
+washed                                    ","Chanchamayo, Pichanaqui","Bio, Fair Trade"
+9,"
+Rauwolf, Theobroma Amygdalum, 1001
+",,,
+10,"
+Suchan, Freistadt
+",,"
+washed, natural                                    ",
+11,"
+Süssmund, Nocciola, Bio
+","CEPCO Coop,  WOFFA Coop","Oaxaca,  Wayanad","
+washed                                    "
+12,"
+Goldkind, Honey Catuai
+",Finca Hartmann,"Santa Clara, Renacimiento","
+semi-washed                                    "
+13,"
+Prem Frischkaffee, Blu
+","Fazenda Capim Branco,  Kooperative COMSA,  Kooperative ACRIM,  Rukullakta","Matas de Minas,  Marcala,  Provinz Zamora Chinchipe,  Provinz Napo","
+washed, natural                                    "
+14,"
+Rauwolf, Omnino Canephora, 3006
+",,"
+washed                                    ",
+15,"
+Rauwolf, Fructus Jasminum, 3003
+",Gora Kone,"Sidamo, Nensebo","
+natural                                    "
+16,"
+Goldkind, Caturra
+",Finca Bonita Springs,Alto Lino,"
+natural                                    "
+17,"
+Gardelli, Cignobianco
+","
+washed, natural                                    ","Santa Rosa,  Yirgacheffe",
+18,"
+Prem Frischkaffee, Red
+","Fazenda Capim Branco,  Kooperative APPAECE,  Rukullakta, ","Region Minas Gerais,  Region San Marcos,  Provinz Napo, ","
+washed, natural                                    "
+19,"
+Prem Frischkaffee, Brownie
+","Kooperative ACRIM,  Kooperative COMSA,  Fazendas Klem","Provinz Zamora Chinchipe,  Marcala,  Matas de Minas","
+washed, natural                                    "
+20,"
+Kanzi Kaffee, Emilia
+",,"
+Washed, Natural                                    ",
+21,"
+Stoll, Brasil, Bio
+",Fazenda Nossa Senhora de Fatima,Minas Gerais,"
+natural                                    "
+22,"
+Merchant & Friends, Gembopresso Bio
+","
+washed                                    ",Sidamo,Bio
+23,"
+Kaffemik, Boji
+",Boji Cooperative,Kochere Region,"
+natural                                    "
+24,"
+Wildkaffee, Ruanda, Umusazi natural
+","
+fermentiert, natural                                    ","Torero, Distrikt Ngororero",Direct Trade
+25,"
+Kaffeeabo 6 Monate                                                            ",,,
+26,"
+Rauwolf, Mundatia Herbarius, 2001
+",,"
+washed, natural                                    ",
+27,"
+Kanzi Kaffee, Triestina
+",,"
+washed                                    ",
+28,"
+Alt Wien, Dominikanische Republik, Santo Domingo Barahona
+","
+washed                                    ","Barahona, Gajo del Toro",
+29,"
+Suchan, Santos
+",Fazenda Santa Lucia,"Minas Gerais, Matas do Sino","
+natural                                    "
+30,"
+Süssmund, Guatemala, Primavera Decaf
+","Finca El Pacayalito,  Beneficio Las Americas","Atitlan,  Chimaltenango","
+washed, entkoffeiniert                                    "
+31,"
+Felix Kaffee, Affenstark
+",,"
+washed, natural                                    ",
+32,"
+220Grad, Selektion Zwei
+","
+washed                                    ","Minas Gerais,  Kirinyaga,  Mubende",
+33,"
+Stoll, Honduras, Bio
+",Omar Rodriguez,"Copan, Copucas, Santa Rosa","
+natural                                    "
+34,"
+Süssmund, Mujeres Fuertes de Perija, organic
+",Asociación de Mujeres Cafetera Plan Mil,"Manaure Balcón del Cesar, Sierra de Perijá","
+washed                                    "
+35,"
+Coffee Collective, Espresso Blend
+","
+natural, washed                                    ","Daterra,  Desarollo",Direct Trade
+36,"
+Farmers Voice, Espresso Blend, Demeter
+","
+washed                                    ","Finca Camocim, Henrique Sloper,  Finca Isabel, Alex Keller","Demeter, Bio, Direct Trade"
+37,"
+Goldkind, Panama Geisha
+",Finca Auromar,"Jurutungo Candela, Volcan","
+washed                                    "
+38,"
+Prem Frischkaffee, Ecuador
+","
+washed                                    ","Provinz Zamora, Chinchipe",Direct Trade
+39,"
+220Grad, Äthiopien, Harrar
+","
+natural                                    ","Harrar, Moplaco",
+40,"
+Farmers Voice, Indien Espresso, Demter
+","
+washed                                    ",Finca Poabs,"Demeter, Bio, Direct Trade"
+41,"
+Wildkaffee, Wilderer
+",,"
+natural, washed, semi-washed                                    ",
+42,"
+Alt Wien, Jamaica, Blue Mountain
+","
+Semi-washed                                    ",Blue Mountain,
+43,"
+Wildkaffee, Wildsau
+",,"
+natural, washed                                    ",
+44,"
+Goldkind, Pinker Bourbon
+",Finca La Maria,"Caldas, Villamaria","
+natural                                    "
+45,"
+Felix Kaffee, Emmi
+",,"
+washed, natural                                    ",
+46,"
+Gardelli, Mzungo Project 20/21, Uganda
+","
+natural                                    ",Sipi Falls,Direct Trade
+47,"
+Alt Wien, Kolumbien, Bermudez Frutos Rojos
+","
+fermentiert                                    ",Finca El Paraiso,
+48,"
+220Grad, Brasil, Passeio
+","Fazienda Passeio, Adolfo Henrique Vieira Ferreira",Minas Gerais,"
+natural                                    "
+49,"
+Nomi Coffee, Pedra Preta, Brasilien
+",Fazenda Pedra Preta,"Minas Gerais, Sul de Minas","
+natural                                    "
+50,"
+Keen Coffee, La Serrania, decaf
+",La Serrania,"Huila, Pitakito","
+Sugar Cane Decaf                                    "
+51,"
+Coffee Collective, Halo Espresso, bio
+",Aman Adinew,"Yirgacheffe, Halo Beriti","
+washed                                    "
+52,"
+Keen Coffee, Mahembe, Ruanda
+",Justin Musabyiama,Nyamasheke,"
+washed                                    "
+53,"
+Röstraum, Carlos
+",Cooperative San Carlos,Monte Cacahuatique,"
+fermentiert, natural                                    "
+54,"
+Coffee Collective, Enciso, Bio
+",Enciso,Tolima,"
+washed                                    "
+55,"
+Wildkaffee, Entkoffeiniert
+","
+washed                                    ",Huila,
+56,"
+220Grad, Äthiopien, Yirgacheffe
+",Bedessa Washing Station,"Yirgacheffe, Guji, Bedessa","
+washed                                    "
+57,"
+Kaffeeabo 12 Monate                                                            ",,,
+58,"
+Röstraum, Derartu
+","
+washed                                    ",Jimma,
+59,"
+Keen Coffee, Jaguara, Brazil
+",Fazenda Jaguara,Campo das Vertentes,"
+natural                                    "
+60,"
+Alt Wien, AeroPress Competition Coffee 2022 *limited*
+","
+washed                                    ","Finca Nuevo Horizonte, Yeferson Rivas",Huila Mágico Winner
+61,"
+Gardelli, El Silencio, Kolumbien
+","Finca El Silencio, Robinson Rivera",Cauca,"
+fermentiert, natural                                    "
+62,"
+Felix Kaffee, Chelbesa, anaerobic
+","
+fermentiert, washed                                    ",Yirgacheffe,
+63,"
+Wildkaffee, Costa Rica, Anaerobic
+",Vamay Montana,Tarrazu,"
+anaerobic fermentiert                                    "
+64,"
+Keen Coffee, Intimpa, Peru, organic
+","
+washed                                    ","Cajamarca, San Ignacio, Chinchipe","Direct Trade, Bio"
+65,"
+Coffee Collective, Los Rodriguez
+",Rodriguez,Caranavi,"
+natural                                    "
+66,"
+Gardelli, Chelbesa, Äthiopien, Crop 20/21
+","
+washed                                    ",Yirgacheffe,
+67,"
+Nomi Coffee, Bombe Village, Äthiopien
+",Bombe Abore Washing Station,"Sidama, Bensa, Bombe","
+natural                                    "
+68,"
+Goldkind, Chicho Gallo
+",Finca Hartmann,"Santa Clara, Renacimiento","
+natural                                    "
+69,"
+Coffee Collective, Kieni
+",Charles Murimi,Nyeri,"
+washed                                    "
+70,"
+Merchant & Friends, San Jose, Nicaragua
+",Finca San Jose,Jinotega,"
+fermentiert, natural                                    "

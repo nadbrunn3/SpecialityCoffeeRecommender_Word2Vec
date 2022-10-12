@@ -1,0 +1,593 @@
+,coffee_title,roaster,coffee_origin,coffee_region,variety,farmer,roast_level,flavor,coffee_type,altitude
+0,Kenya Ichamama,Panther Coffee Roasters,Kenya,Nyeri,"SL-28, SL-34, Ruiru 11, Batian",Othaya Farmers Cooperative Society,Light,"['nectarine', 'jasmine', 'bright']",Single Origin,1850
+1,Papua New Guinea AAK Cooperative,Sightglass Coffee,Papua New Guinea,"Obura-Wonenara, Eastern Highlands","Bourbon, Caturra",AAK Cooperative,Medium,"['pomegranate', 'lemon', 'complex']",Single Origin,1500-1650
+2,Cold Brew ,Barefoot Coffee Roasters,Guatemala,Huehuetenango,,,Medium,"['chocolate', 'citrus', 'rich']",Single Origin,
+3,Capital Cold Brew Blend,Temple Coffee,"Brazil, Colombia, Ethiopia","Campos Altos, Guji, Huila",,,Medium,"['cherry', 'milk chocolate', 'vibrant']",Blend,1000-2000
+4,Ethiopia Dur Feres,Methodical Coffee,Ethiopia,Sidama,"74/158, 74/110, Setami, Mikicho",various small producers,Medium-light,"['blueberry', 'blackberry', 'juicy']",Single Origin,1800
+5,Bona Fide,Goshen Coffee Company,Various,Latin America,,Various,Medium,"['chocolate', 'berries', 'syrupy']",Blend,900 - 1600
+6,Nicaragua Josefina & Mario,Dawson Taylor Coffee Roasters,Nicaragua,"Jinotega, Nicaragua","Catuaí, Caturra Estrella",Josefina and Mario Gonzalez,Medium-light,"['peach', 'orange blossom', 'juicy']",Single Origin,1325
+7,Bright Blend,Kuma Coffee,"Ethiopia, Kenya","Guji, Yirgacheffe, Nyeri","Ethiopian heirloom, SL-28, SL-34",Small Holder,Medium,"['citrus', 'berries', 'bright']",Blend,1700-2100
+8,Double Star Decaf,Cartel Roasting Co.,Mexico,"La Concordia, Mexico","Mundo Novo, Catuaí, Caturra & Catimor","Octavio Moguel Farrera, Juan José Moguel Orantes",Medium,"['cocoa', 'almond', 'balanced']",,1250–1550
+9,Pink Lady Blend,Methodical Coffee,Ethiopia,"Guji, Sidama","Ethiopian heirloom, 74/158, 74/110, Setami, Mikicho",,Medium,"['citrus', 'berries', 'vibrant']",Blend,1800
+10,Leticia Lopez Honey Process,Alma Coffee,Honduras,Copan,Parainema,Leticia Lopez Hutchins,Light,"['red grape', 'black tea', 'complex']",Single Origin,1400
+11,Tulsa Time Blend,Topeca Coffee Roasters,"Burundi, Ethiopia",,"Ethiopian heirloom, Bourbon","Mt. Kayon Farm, Procosta Nkanda Coop",Medium,"['berries', 'citrus', 'vibrant']",Blend,1700 - 2200
+12,Ethiopia Limu Gera,Kaldi's Coffee Roasting Co,Ethiopia,Limu,Ethiopian heirloom,Gera Estate,Medium-light,"['apricot', 'citrus', 'delicate']",Single Origin,1800 - 2100
+13,Bright Eyed Breakfast,Goshen Coffee Company,Various,"Africa, Latin America",Various,Various,Medium-light,"['brown sugar', 'almond', 'vibrant']",Blend,900 - 1800
+14,Sumatra Pantan Musara,Sisters Coffee Company,Sumatra,Aceh,"Catimor, Gayo 1 & 2",Pantan Musara wet mill,Medium-light,"['molasses', 'cardamom', 'velvety']",Single Origin,1550
+15,Fresh Perspective Ethiopia,Greater Goods Coffee Roasters,Ethiopia,"Shakiso, Guji",Ethiopian heirloom,"Bishan Dimo, Faysel and Hakime Yonis",Light,"['blueberry', 'strawberry', 'juicy']",Single Origin,1850 - 2050
+16,Panorama Organic Blend,Wonderstate Coffee,Ethiopia,Gedeb,,Danche Washing Station,Medium,"['orange', 'floral', 'bright']",Blend,
+17,Southern Weather Blend,Onyx Coffee Lab,"Colombia, Ethiopia",,,various small holder producers,Medium-light,"['chocolate', 'citrus', 'juicy']",Blend,1850
+18,Heartstrings Organic Blend,Wonderstate Coffee,Ethiopia,"Gedeb, Gera",,"Danche, Sakaro, & Haile Figa Washing Stations, Nano Challa Cooperative",Medium,"['chocolate', 'dried fruit', 'complex']",Blend,
+19,Decaf Vagabond Espresso Blend,Evans Brothers Coffee Roasters,"Brazil, Ethiopia, Sumatra",,,,Medium,"['caramel', 'baking spices', 'bold']",,1600 - 2000
+20,Decaf Espresso,Topeca Coffee Roasters,Colombia,,"Castillo, Caturra, Colombia",,Medium,"['chocolate', 'stone fruit', 'balanced']",,1200-1800
+21,Little Italy Blend,Bird Rock Coffee Roasters,"Guatemala, Brazil",South America,Blend,,Medium,"['cacao', 'macadamia', 'rich']",Blend,
+22,Ethiopia Yirgacheffe Kochere,Alma Coffee,Ethiopia,"Kochere, Yirgacheffe",Ethiopian heirloom,Cheffe Hilina Trading PLC,Light,"['orange', 'lavender', 'delicate']",Single Origin,1800 - 2200
+23,Leticia Lopez Natural Process,Alma Coffee,Honduras,Copan,Parainema,Leticia Lopez Hutchins,Light,"['raspberry', 'cherry', 'juicy']",Single Origin,1400
+24,Ethiopia Yirgacheffe Misty Valley,Dawson Taylor Coffee Roasters,Ethiopia,Yirgacheffe,Ethiopian Heirloom,Aricha Station,Medium-light,"['stone fruit', 'berries', 'sparkling']",Single Origin,1925
+25,Half Calf Blend,Tony's Coffee,"Peru, Nicaragua, Colombia, El Salvador, Guatemala, Honduras, Mexico",,,,Medium,"['toffee', 'almond', 'rich']",,
+26,Sun Bear Iced Coffee Blend,Kuma Coffee,"Central America, Africa",,,various small holder producers,Medium-light,"['chocolate', 'berries', 'refreshing']",Blend,1700 - 2100
+27,Galactic Standard Espresso Blend,Brandywine Coffee Roasters,"Colombia, Burundi, Ethiopia",,,,Light,"['berries', 'citrus', 'bright']",Espresso,
+28,Costa Rica La Pastora,Methodical Coffee,Costa Rica,Tarrazu,"Caturra, Catuaí",CoopeTarrazu,Medium,"['plum', 'ginger', 'juicy']",Single Origin,1200 - 1900
+29,Sweetheart Single Origin Espresso,Olympia Coffee Roasting Co,Changes seasonally,Peru,,,Medium,"['milk chocolate', 'berries', 'balanced']",Espresso,
+30,Decaf Café Carmelita FTO,Tony's Coffee,Central and South America,,,,Medium-dark,"['chocolate', 'caramel', 'full bodied']",,
+31,Headwall Espresso,Evans Brothers Coffee Roasters,"Brazil, Colombia, Ethiopia",,,,Medium-light,"['chocolate', 'fruity', 'complex']",Espresso,1600 - 2000
+32,Play Nice Blend,Methodical Coffee,"Colombia, Ethiopia","Tolima, Sidama","Caturra, Castillo, 74/158, 74/110, Setami, Mikicho",various small producers,Medium,"['brown sugar', 'berries', 'juicy']",Blend,1800 - 2000
+33,Ethiopia Colorized Blend,Metric Coffee Co.,Ethiopia,Guji,Ethiopian heirloom,Kata Muduga and Snap,Light,"['grape', 'wildflower', 'vibrant']",Single Origin,1800-2100
+34,Ethiopia Ardi Natural,Portola Coffee Roasters,Ethiopia,Sidama,Ethiopian heirloom,Kilenso Moconissa producers,Light,"['berries', 'honeysuckle', 'juicy']",Single Origin,1850-1950
+35,Ethiopia Yebesele Natural,Goshen Coffee Company,Ethiopia,"Aricha, Yirgacheffe",Ethiopian heirloom,Aricha Mill,Light,"['berries', 'citrus zest', 'juicy']",Single Origin,1600 - 2100
+36,Geometry Blend,Onyx Coffee Lab,"Ethiopia, Colombia","Oromia, Nariño","Caturra, Bourbon, Ethiopian heirloom","Hambela farm, Aponte Village",Medium-light,"['chocolate', 'fruity', 'rich']",Blend,1700 - 2200
+37,Ethiopia Organic Tatatu Natural,Cartel Roasting Co.,Ethiopia,"Gedeb, Yirgacheffe",Ethiopian heirloom,Birhanu Wote,Light,"['blueberry', 'cocoa', 'juicy']",Single Origin,1750 – 2300
+38,Monkey Bite Espresso,Bird Rock Coffee Roasters,"Ethiopia, Brazil, Colombia",,,,Medium,"['brown sugar', 'dried fruit', 'vibrant']",Espresso,
+39,Orion Espresso,Spyhouse Coffee Roasting Co,"Brazil, Ethiopia and Guatemala",,various,various small producers,Medium-light,"['chocolate', 'dark berries', 'rich']",Espresso,
+40,Organic Blueboon,Sightglass Coffee,"Colombia, Ethiopia","Central America, East Africa",,,Medium,"['milk chocolate', 'mandarin', 'balanced']",Blend,
+41,Frio Cold Brew,Alma Coffee,Honduras,Copan,Parainema,Finca La Unica,Medium-dark,"['chocolate', 'nutty', 'rich']",Single Origin,1400
+42,Owl's Howl,Sightglass Coffee,"Colombia, Ethiopia","Latin America, East Africa",,,Medium,"['chocolate', 'stone fruit', 'rich']",Espresso,
+43,Colombia Bubble Gum,Dawson Taylor Coffee Roasters,Colombia,Caldas,Caturra,El Jardin,Light,"['raspberry', 'kiwi', 'juicy']",Single Origin,1850
+44,Fall Line Espresso,Evans Brothers Coffee Roasters,"Brazil, Colombia, Guatemala",,,,Medium,"['chocolate', 'caramel', 'rich']",Espresso,1600
+45,Belly Warmer Blend,Methodical Coffee,"Costa Rica, Brazil","Tarrazu, São Paulo",,"CoopeTarrazú, São Paulo producers",Medium,"['dark chocolate', 'almond', 'rich']",Blend,
+46,Sound & Vision Blend,Huckleberry Roasters,"East Africa, Latin America",,"Caturra, Ethiopian Heirloom, Bourbon, Typica",,Medium,"['caramel', 'nutty', 'syrupy']",Blend,1100 - 2200
+47,Soulmate,Alma Coffee,Honduras,Copan,Parainema,Finca la Unica,Medium,"['milk chocolate', 'walnut', 'balanced']",Single Origin,1400
+48,Phantom Limb Blend,Huckleberry Roasters,Ethiopia,"Yirgacheffe, Sidamo",Ethiopian hierloom,various small holder producers,Medium,"['fruity', 'citrus', 'bright']",,1900 - 2100
+49,Big Dipper Organic Blend,Wonderstate Coffee,Guatemala,Huehuetenango,,CODECH Cooperative,Very Dark,"['fudge', 'vanilla', 'rich']",Blend,
+50,Climate Project,Ceremony Coffee Roasters,Mexico,,"Bourbon, Caturra, Typica, Mundo Novo",,Medium,"['chocolate', 'almond', 'balanced']",Single Origin,1500
+51,Espresso Blend,Sisters Coffee Company,"Colombia, Peru, Rwanda","Antioquia, Chanchamayo, Nyampinga","Castillo, Colombia, Red Bourbon, Caturra","Finca Tablazo, Finca Cinco Corazones, Nyampinga Women's Cooperative",Medium,"['praline', 'melon', 'balanced']",Espresso,1100 - 1800
+52,Ethiopia Guji,Kuma Coffee,Ethiopia,Guji,Ethiopian Heirloom,,Medium-light,"['citrus', 'wildflowers', 'complex']",Single Origin,1800-2100
+53,Elevation Cold Brew,Dillanos Coffee Roasters,,Central and South America,various,small holder producers,Medium-dark,"['chocolate', 'hazelnut', 'full bodied']",Blend,
+54,Sugar Bee Espresso,Tony's Coffee,,"Latin America, Africa",,,Medium,"['milk chocolate', 'honey', 'syrupy']",Espresso,
+55,High Desert Sunrise,Sisters Coffee Company,"Colombia, Peru","Tolima, Chanchamayo","Bourbon, Caturra, Castillo, Colombia","Finca Cinco Corazones, Finca Matapalo, Cooperativa Copaceyba",Medium,"['chocolate', 'hazelnut', 'balanced']",Blend,1100 - 1800
+56,Guatemalan Palo Blanco,Noble Coffee Roasting,Guatemala,Huehuetenango,"Bourbon, Caturra, Catuaí",Iván Ovalle Altuve,Medium,"['peach', 'brown sugar', 'vibrant']",Single Origin,1600 - 1890
+57,Enchanted,Alma Coffee,Honduras,"Copan, Honduras","Lempira, Cafe 90","Al Lopez, Finca Terrerito",Medium-dark,"['dark chocolate', 'nutty', 'rich']",Single Origin,1000
+58,Decaf Espresso Paladino ,Zoka Coffee Roasting Co,Central and South America,,,,Medium-dark,"['chocolate', 'caramel', 'rich']",,
+59,Darker the Cherry,Portrait Coffee,Brazil,"Cerrado Mineiro, Minas Gerais",Catuaí,,Medium-dark,"['chocolate', 'toasted walnut', 'rich']",Single Origin,1100
+60,Peru Valle Inca,Temple Coffee,Peru,Cusco,"Caturra, Typica, Bourbon",Valle Inca,Medium-light,"['almond', 'orange', 'delicate']",Single Origin,1600-2000
+61,Zingo Espresso,Topeca Coffee Roasters,"Brazil, El Salvador, Sumatra and Ethiopia",,,various small producers,Medium,"['chocolate', 'fruity', 'rich']",,
+62,Essence,Alma Coffee,Honduras,Copan,Parainema,"Leticia Lopez Hutchins, Finca la Unica",Medium-dark,"['dark chocolate', 'almond', 'balanced']",Espresso,1400
+63,Streetlevel ,Verve Coffee Roasters,"Colombia, Honduras, Guatemala",,,various small holder producers,Medium-light,"['red apple', 'citrus', 'balanced']",,1500-2000
+64,Tigerwalk Espresso,Equator Coffees & Teas,"Colombia, Brazil, Kenya",,,various small holder producers,Medium,"['chocolate', 'fruity', 'balanced']",,
+65,Banner Dark,Sightglass Coffee,"Guatemala, Colombia",Central & South America,,,Medium-dark,"['cocoa', 'toffee', 'rich']",Blend,
+66,Desert City Dark,Cartel Roasting Co.,"Brazil, Guatemala",,,,Medium-dark,"['chocolate', 'macadamia nut', 'full bodied']",Blend,
+67,Colombia La Piramide,Tandem Coffee Roasters,Colombia,Inzá,"Caturra, Typica",Inza small producers,Medium-light,"['red apple', 'sugar cane', 'juicy']",Single Origin,1700 - 2000
+68,Porch Session,Topeca Coffee Roasters,"Brazil, El Salvador",,,,Medium,"['caramel', 'chocolate', 'rich']",Blend,
+69,Little Buddy Blend,Olympia Coffee Roasting Co,"Ethiopia, Kenya",,,,Medium-light,"['stone fruit', 'chocolate', 'complex']",Blend,1700 - 2000
+70,Monarch,Onyx Coffee Lab,"Ethiopia, Guatemala",,,,Medium,"['chocolate', 'caramel', 'rich']",Blend,2000 - 2100
+71,Off Grid Organic Blend,Wonderstate Coffee,Guatemala,Huehuetenango,,CODECH Cooperative,Very Dark,"['cocoa', 'roasty', 'rich']",Blend,
+72,Redcab Espresso,Barefoot Coffee Roasters,Brazil,"Carmo de Minas, Sul de Minas",Bourbon and Catuai,various small holder producers,Medium,"['chocolate', 'nutty', 'rich']",Espresso,1100 - 1200
+73,Flying Monkey Espresso,PT's Coffee Roasting Co.,"Brazil, Colombia, Sumatra",,,,Medium-dark,"['milk chocolate', 'graham cracker', 'balanced']",Espresso,
+74,S.O. Blend,Coava Coffee Roasters,The Americas & East Africa,,,Select,Medium,"['chocolate', 'baking spice', 'rich']",Blend,1200-1800
+75,Sisters Blend,Sisters Coffee Company,"Brazil, Colombia, Peru, Rwanda","Mogiana, Tolima, Chanchamayo, Nyampinga","Bourbon, Red Bourbon, Colombia, Castillo, Caturra",various small producers,Medium,"['walnut', 'cedar', 'full bodied']",Blend,1000 - 1800
+76,House Espresso,Klatch Coffee,"Central and South America, Indonesia",,,various small holder producers,Medium,"['walnut', 'orange', 'rich']",Espresso,1300 - 1900
+77,Organic One Black Espresso,Centri Coffee,"Colombia, Brazil","Matas de Minas, Mesa De Los Santos","Typica, Red Caturra, Catuaí, Yellow Catuaí, Castillo",,Medium-light,"['chocolate', 'shortbread', 'syrupy']",Espresso,550 - 1600
+78,Colombia SugarCane Decaf,Topeca Coffee Roasters,Colombia,Pijao,,,Medium-light,"['caramel', 'citrus', 'full bodied']",,1200 - 1800
+79,Espresso Noir Fair Trade & Organic,Tony's Coffee,Central and South America,,,,Medium-dark,"['smoky', 'caramel', 'full bodied']",Espresso,
+80,Organic Toketee,Sightglass Coffee,"Central & South America, Pacific",Rotates seasonally,,,Medium,"['cacao nib', 'apricot', 'balanced']",Blend,
+81,Organic Rainforest Blend ,Klatch Coffee,"Brazil, Colombia, Honduras, Guatemala",,,various small holder producers,Medium,"['chocolate', 'caramel', 'full bodied']",Blend,1450 - 1800
+82,Diablo Blend Fair Trade & Organic,Ladro Roasting,,,,Varies Seasonally,Medium-dark,"['smoky', 'brown sugar', 'full bodied']",Blend,
+83,Morning Sun,Olympia Coffee Roasting Co,Colombia,Tolima,"Caturra, Colombia",,Medium,"['chocolate', 'hazelnut', 'full bodied']",Single Origin,1600-1900
+84,Caffe Del Sol,Caffe Vita Coffee Roasting Co,"South America, Indonesia, Africa",,,,Medium,"['chocolate', 'caramel', 'complex']",Espresso,1200 - 2200
+85,Dharma Espresso Blend,Temple Coffee,"Brazil, Guatemala, Ethiopia","Minas Gerais, Sidamo, Alotenango",,various small producers,Medium-light,"['fudge', 'almond', 'lingering']",Espresso,1000-1500
+86,Three Pillars Blend,Temple Coffee,"Honduras, Colombia, Guatemala","Ocotepeque, Nariño, Antigua",,Mixed smallholder farmers,Medium,"['chocolate', 'caramel', 'balanced']",Blend,
+87,World Tour Organic Espresso Blend,Noble Coffee Roasting,"Brazil, Honduras, Ethiopia and Sumatra",,,various small producers,Medium,"['nutty', 'chocolate', 'rich']",Espresso,
+88,Espresso 700,Kaldi's Coffee Roasting Co,"Guatemala, Brazil, El Salvador",,,,Medium,"['caramel', 'chocolate', 'rich']",Espresso,
+89,Vancouver Swiss Water Decaf,Verve Coffee Roasters,,Latin America,,,Medium,"['caramel', 'chocolate', 'full bodied']",,
+90,Organic Espresso Cuatro,Zoka Coffee Roasting Co,"Africa, Central and South America",,,,Medium,"['chocolate', 'nutty', 'full bodied']",Espresso,
+91,Big Timber Blend,Evans Brothers Coffee Roasters,"Ethiopia, Guatemala, Sumatra",,,,Medium-dark,"['smoky', 'chocolate', 'full bodied']",Blend,1200 - 1600
+92,Upland Fair Trade & Organic,Tony's Coffee,Central & South America,,,,Medium,"['milk chocolate', 'almond', 'balanced']",Blend,
+93,Blue Boy Blend,Methodical Coffee,"Guatemala, Colombia","Huehuetenango, Tolima","Bourbon, Caturra, Castillo",,Medium,"['chocolate', 'brown sugar', 'balanced']",Blend,1500 - 2000
+94,Guatemala Huehuetenango Dark Roast,Evans Brothers Coffee Roasters,Guatemala,Huehuetenango,"Caturra, Catuaí, Bourbon, Pache",Coordinadora de Organizaciones de Desarollo de Concepcion Huista (CODECH),Medium-dark,"['dark chocolate', 'roasty', 'full bodied']",Single Origin,1400 - 2000
+95,The Sermon Espresso ,Verve Coffee Roasters,"Brazil, Colombia and Ethiopia","Minas Gerais, Cauca and Guji","Catuai, Bourbon and Ethiopian heirloom",various small producers,Medium-light,"['fruity', 'chocolate', 'rich']",,1000 - 2000
+96,Synthesis,Ceremony Coffee Roasters,Guatemala,Chimaltenango,"Typica, Bourbon, Caturra, Catuai",various small holder producers,Medium,"['caramel', 'nutty', 'full bodied']",Blend,1500 - 1700
+97,Italian Roast,Klatch Coffee,"Brazil, Colombia, Guatemala, Sumatra",,,various small holder producers,Medium-dark,"['toasty', 'nutty', 'rich']",Single Origin,1600 - 1900
+98,Ethiopia Kercha Natural,Cat & Cloud Coffee,Ethiopia,Guji,Ethiopian Heirloom,,Medium-light,"['strawberry', 'chocolate', 'balanced']",Single Origin,1800 - 2200
+99,Organic West Coast Roast,Centri Coffee,South America,Various,,,Medium-dark,"['roasty', 'chocolate', 'full bodied']",Blend,
+100,Big Joy Espresso,Camber Coffee,Guatemala,,,,Medium-light,"['red apple', 'pear', 'complex']",Espresso,
+101,Big Truck Organic ,Olympia Coffee Roasting Co,"Colombia, Ethiopia",,,various small holder producers,Medium,"['chocolate', 'berries', 'full bodied']",Blend,2000 - 2300
+102,Waxwing Blend,Red Rooster Coffee,"Colombia, Honduras","Huila, Marcala","Colombia, Castillo, Caturra, Bourbon","Angelina Gomez, Comsa Cooperative",Medium,"['chocolate', 'caramel', 'full bodied']",Blend,1400 - 2000
+103,Bold and the Beautiful Organic,Spyhouse Coffee Roasters,,Varies Seasonally,,,Medium,"['Crème Brûlée', 'black walnut', 'full bodied']",Blend,
+104,Justice,Higher Grounds Coffee,"Ethiopia, Guatemala",,,various small holder producers,Medium-light,"['caramel', 'citrus', 'delicate']",Blend,
+105,Black & Tan,Colectivo Coffee,"Honduras, Peru",,,,Very Dark,"['smoky', 'caramel', 'full bodied']",Blend,
+106,Jaguar Espresso Fair Trade Organic,Equator Coffees & Teas,,"Ethiopia, Sumatra, Peru",,,Medium-dark,"['nutty', 'baking spices', 'rich']",,
+107,Skeleton Key Decaf ,Huckleberry Roasters,Colombia,"Risaralda, Apia",,various smallholder producers,Medium-light,"['chocolate', 'nutty', 'rich']",,1500 - 1900
+108,Rwanda Kinaze Mbuye Hill,Portrait Coffee,Rwanda,Ruhango District,Red Bourbon,Kinazi Mbuye Hill,Medium-light,"['green apple', 'berry', 'bright']",Single Origin,1600-1800
+109,Honduras Damien Chavez Anaerobic,Cat & Cloud Coffee,Honduras,Santa Barbara,Parainema,Damein Chavez,Medium-light,"['watermelon', 'hibiscus', 'vibrant']",Single Origin,1500-2000
+110,Honduras Damien Chavez Washed,Cat & Cloud Coffee,Honduras,Santa Barbara,Parainema,Damien Chavez,Medium-light,"['lemon', 'nectarine', 'bright']",Single Origin,1500-2000
+111,Guatemala Women's Group Huehuetenango,Barefoot Coffee Roasters,Guatemala,"Aldea Q’om, Huehuetenango","Caturra, Catuaí, Bourbon",19 women-owned farms,Medium,"['tropical fruit', 'peanut brittle', 'complex']",Single Origin,1650-1850
+112,Guatemala Familia Villatoro,Dawson Taylor Coffee Roasters,Guatemala,Huehuetenango,"Bourbon, Caturra",Villatoro family,Medium,"['plum', 'almond', 'balanced']",Single Origin,1700
+113,Organic Peru Cajamarca,Centri Coffee,Peru,"San Ignacio, Cajamarca","Bourbon, Catimor, Caturra, Pache, Typica",small producers,Medium,"['caramel', 'vanilla', 'balanced']",Single Origin,1500-1900
+114,Founders,Goshen Coffee Company,Varies Seasonally,"Africa, Latin America",,,Medium-light,"['citrus', 'tropical fruit', 'bright']",Blend,900 - 2100
+115,Old School Tattoo,Goshen Coffee Company,Varies Seasonally,Latin America,,,Medium,"['caramel', 'orange', 'balanced']",Blend,900 - 1900
+116,Tired Eye Decaf,Goshen Coffee Company,Colombia,Huila,"Caturra, Typica, Colombia, Catuaí",,Medium-dark,"['chocolate', 'cherry', 'balanced']",,1400 - 1900
+117,Ethiopia Biruhi,Goshen Coffee Company,Ethiopia,Yirgacheffe,Ethiopian heirloom,various,Light,"['lime', 'mango', 'floral']",Single Origin,1900 - 2200
+118,Colombia Sierra Nevada Sol Naciente,Red Rooster Coffee,Colombia,Sierra Nevada,"Caturra, Colombia",Sol Naciente coop,Medium-light,"['caramel', 'orange', 'vibrant']",Single Origin,
+119,Islands in the Stream,Passion House Coffee Roasters,Honduras,Francisco Morazan,Yellow Catuaí,Proyecto Ojojona,Medium-light,"['caramel apple', 'baking spice', 'balanced']",Single Origin,"1,600 meters"
+120,Agua Fria,Alma Coffee,Honduras,San Sebastian,"Pacas, Caturra",Sergio Molina,Light,"['keylime', 'oolong', 'complex']",Single Origin,1900 - 2000
+121,Organic Crown Point ,Sightglass Coffee,"Latin America, East Africa",Rotates seasonally,,,Medium,"['chocolate', 'raspberry', 'syrupy']",Espresso,
+122,Small Farms Blend,Tony's Coffee,Latin America and Africa,,,small producers,Medium,"['cherry', 'grape', 'complex']",Blend,
+123,Take Me Home,Greater Goods Coffee Roasters,Costa Rica,"San Marcos, Tarrazu",Catuaí,"Hermanos Solis, Don Oscar Mill",Light,"['toffee', 'vanilla', 'balanced']",Single Origin,1650 - 2000
+124,Kickstart Espresso,Greater Goods Coffee Roasters,"Colombia, Brazil, Nicaragua","Huila, Cerrado, Matagalpa","Bourbon, Castillo, Caturra, Typica","Fazenda Santo Antonio, Bochica, El Triunfo",Medium,"['dark chocolate', 'brown sugar', 'full bodied']",Espresso,1300 - 1800
+125,Slumber Decaf,Alma Coffee,Nicaragua,"Matagalpa, Nicaragua","Bourbon, Typica",Selva Negra,Medium,"['chocolate', 'orange', 'dynamic']",,1400
+126,Decaf Flume Seasonal Blend,Ruby Coffee Roasters,"Brazil, Colombia","Carmo De Minas, Cauca","Bourbon, Caturra, Colombia",,Medium,"['cocoa', 'nutmeg', 'balanced']",,1300 - 1600
+127,Southpaw Espresso,PT's Coffee Roasting Co.,"Colombia, Ethiopia",,,,Medium,"['caramel', 'peach', 'vibrant']",Espresso,
+128,Cafe Del Sol,Bird Rock Coffee Roasters,"Colombia, Ethiopia","Colombia, Ethiopia",,,Medium,"['clementine', 'blackberry', 'vibrant']",Blend,
+129,Half Caff Kaldi,Kaldi's Coffee Roasting Co,"Brazil, Guatemala, El Salvador, Colombia",,,,Medium-dark,"['chocolate', 'caramel', 'balanced']",Blend,
+130,Organic Colombia Tolima,Centri Coffee,Colombia,"Planadas, Tolima, Colombia","Caturra, Castillo, Colombia, Typica",Asociación de Productores Ecológicos de Planadas (ASOPEP),Medium,"['cherry', 'citrus', 'complex']",Single Origin,1400 - 2100
+131,Passion,Alma Coffee,Honduras,Copan,Lempira,"Al Lopez, Finca Terrerito",Medium-dark,"['cacao', 'caramel', 'rich']",Single Origin,1000
+132,Cold Brew,Panther Coffee Roasters,"Brazil, Nicaragua, Colombia",Various,,Various,Medium,"['malted chocolate', 'vanilla', 'balanced']",Blend,1100 - 1200
+133,En Masse,Metric Coffee Co.,"Peru, Guatemala",,,various small producers,Medium,"['cherry', 'nougat', 'complex']",Blend,
+134,Sumatra Mandheling,Dawson Taylor Coffee Roasters,Sumatra,,"Bourbon, Catimor, Caturra, Typica",,Medium,"['chocolate', 'earthy', 'full bodied']",Single Origin,1200 - 1500
+135,Haya Cold Brew,Kaldi's Coffee Roasting Co,"Ethiopia, Colombia",Latin America and Ethiopia,Various,,Medium,"['chocolate', 'caramel', 'balanced']",Blend,
+136,Inkwell Signature Blend,Quills Coffee,"Peru, Colombia","Cajamarca, Tolima",,,Medium,"['vanilla', 'cherry', 'balanced']",Blend,
+137,Peru Pangoa,Higher Grounds Coffee,Peru,Satipo,"Typica, Caturra, Bourbon, Catimor",Pangoa Cooperative,Medium,"['chocolate', 'sage', 'full bodied']",Single Origin,1300-1900
+138,Organic Decaf Majestic Blend,Centri Coffee,South America,various,,,Medium,"['chocolate', 'caramel', 'full bodied']",,
+139,Organic French Roast,Caffe Vita Coffee Roasting Co,"South America, Indonesia",,,,Very Dark,"['smoky', 'chocolate', 'bold']",Blend,1300 - 2000
+140,Espresso Paladino ,Zoka Coffee Roasting Co,"Central and South America, Africa",,,,Medium,"['chocolate', 'citrus', 'complex']",Espresso,
+141,Wild Child,Thou Mayest,Ethiopia,Sidamo,Ethiopian heirloom,various small holder producers,Medium-light,"['fruity', 'floral', 'bright']",Single Origin,1900 - 2000
+142,French Roast Fair Trade Organic,Equator Coffees & Teas,,"Latin America, Ethiopia, Sumatra",,various small holder producers,Medium-dark,"['smoky', 'chocolate', 'bold']",,
+143,Caffe Luna,Caffe Vita Coffee Roasting Co,Central and South America,,,,Very Dark,"['chocolate', 'smores', 'full bodied']",Blend,1500 - 1900
+144,Watson Blend,Steadfast Coffee Roasters,"Mexico, Costa Rica",,"Bourbon, Caturra, Catimor",,Medium,"['milk chocolate', 'nutty', 'balanced']",Blend,1700
+145,Organic Ethiopia Bedhatu Jibicho,Centri Coffee,Ethiopia,"Gedeb District, Gedeo Zone, Southern Nations, Nationalities, and Peoples'",Ethiopian Heirloom,Bedhatu Jibicho,Medium-light,"['blackberry', 'jasmine', 'juicy']",Single Origin,1800 – 1900
+146,Thesis Blend,Ceremony Coffee Roasters,"Brazil, Peru",,,,Medium-light,"['caramel', 'baking spices', 'rich']",,
+147,Eye of the Tiger Espresso,Equator Coffees & Teas,,"Latin America, Africa",,,Medium,"['chocolate', 'dried fruit', 'complex']",,
+148,Driftless Organic Blend,Wonderstate Coffee,Guatemala,San Marcos,,San Fernando Cooperative,Medium-dark,"['cocoa', 'toffee', 'balanced']",Blend,
+149,Espresso Classico,Tony's Coffee,Central and South America,,,,Medium,"['nutty', 'chocolate', 'balanced']",Espresso,
+150,Stacey Colombia Narino,Portrait Coffee,Colombia,Narino,"Colombia, Castillo, Caturra",Buesaco Community,Medium,"['caramel', 'hazelnut', 'rich']",Single Origin,2000
+151,Brazil 45 Espresso,Equator Coffees & Teas,"Brazil, Colombia",various,,various small holder producers,Medium,"['chocolate', 'baking spices', 'full bodied']",,
+152,Stoker Blend,Tandem Coffee Roasters,El Salvador,Chalatenango,,,Medium,"['chocolate', 'honey', 'full bodied']",Blend,
+153,Alchemistic Blend,Portola Coffee Roasters,Colombia and Costa Rica,Antioquia and Chirripo,"Typica, Caturra and Catuai",Roaster United Competition Collective and Imperio Rojo,Light,"['chocolate', 'baking spices', 'full bodied']",,1100 - 1900
+154,Founders,Portrait Coffee,"Colombia, Guatemala","Huehuetenango, Narino","Bourbon, Typica, Colombia, Castillo, Caturra",,Medium,"['cocoa', 'nutty', 'dynamic']",Blend,1500 - 1800
+155,Ethiopia Sidama Ardi,Equator Coffees & Tea,Ethiopia,"Guji, Borena Hagermariam",Sidama Heirloom,Nardos Coffee,Medium-light,"['lemon', 'berries', 'juicy']",Single Origin,1700
+156,Deep Space Blend,Good Folks Coffee,Colombia,,,,Medium-dark,"['smoky', 'nutty', 'bold']",Blend,1100 - 1800
+157,Red Cab,Barefoot Coffee Roasters,Brazil,"Carmo de Minas, Sul de Minas","Caturra, Catuai",various small holder producers,Medium,"['chocolate', 'nutty', 'full bodied']",,1100 - 1200
+158,Costa Rica Tarrazu,Mela Coffee Roasting Company,Costa Rica,Tarrazú,"Caturra, Typica",various small holder producers,Medium,"['caramel', 'nutty', 'balanced']",Single Origin,1250 - 1650
+159,West End Blues Blend,Tandem Coffee Roasters,"Brazil, Ethiopia",,,,Medium-light,"['toffee', 'nutty', 'rich']",Espresso,1000 - 2100
+160,Double Dark Blend,Dillanos Coffee Roasters,,Central and South America,,,Very Dark,"['smoky', 'chocolate', 'bold']",,
+161,Globe Trotter Blend,Good Folks Coffee,"Colombia, Peru, Tanzania",,,,Medium-dark,"['caramel', 'nutty', 'full bodied']",Blend,1150 - 1800
+162,Blue Thunder Blend,Klatch Coffee,"Brazil, Colombia, Guatemala, Sumatra",,,various small holder producers,Medium-dark,"['smoky', 'baking spices', 'rich']",Blend,1200 - 1850
+163,Blue Orchid Blend,Huckleberry Roasters,Brazil and Nicaragua,,,various small holder producers,Medium,"['chocolate', 'caramel', 'full bodied']",Blend,
+164,Colombia Nariño,Populace Coffee,Colombia,Nariño,"Caturra, Colombia, Castillo",small holder producers,Light,"['caramel', 'grapefruit', 'balanced']",Single Origin,1800 - 2200
+165,Alter Ego,Thou Mayest Coffee Roasters,"Brazil, Colombia","Carmo De Minas, Hulia","Bourbon, Catuai, Mundo Novo, Castillo, Caturra",various small holder producers,Medium,"['chocolate', 'nutty', 'rich']",Espresso,1200 - 2000
+166,Fast Track Blend,Good Folks Coffee,"Colombia, Peru, Tanzania",,,,Medium-dark,"['chocolate', 'nutty', 'rich']",Espresso,1150 - 1800
+167,Bright Minds,Greater Goods Coffee Roasters,Colombia,Huila,"Caturra, Castillo",Los Naranjos,Medium,"['tangerine', 'fudge', 'balanced']",Single Origin,1300 - 2100
+168,Café Carmelita Organic,Tony's Coffee,Central and South America,,,,Medium-dark,"['chocolate', 'caramel', 'balanced']",Blend,
+169,Aldo's Blend,1000 Faces Coffee Roasters,"Colombia, Brazil","San Agustin, Serra do Cigano","Caturra, Catuaí, Mundo Novo, Colombia, Castillo",,Medium-dark,"['dark chocolate', 'molasses', 'rich']",Blend,1300-1800
+170,The Answer,Cat & Cloud Coffee,"Colombia, Brazil, Ethiopia","Huila, Mogiana, Yirgacheffe","Caturra, Yellow Bourbon, Ethiopian heirloom",various,Medium,"['chocolate', 'berries', 'balanced']",Blend,1100 - 1900
+171,Destroyer Espresso Blend,Ceremony Coffee Roasters,"Colombia, Ethiopia",,,,Medium-light,"['caramel', 'citrus', 'balanced']",Espresso,
+172,Santee Alley,Bixby Roasting Co.,"Brazil, Guatemala, Sumatra",,"Catuaí, Caturra, Typica, Bourbon",,Very Dark,"['dark chocolate', 'almond', 'rich']",Blend,1700 -2400 meters
+173,Co-optiva Fair Trade Organic ,Colectivo Coffee,"Guatemala, Honduras",,,,Medium,"['chocolate', 'molasses', 'full bodied']",Blend,
+174,Organic Decaf One Black ,Centri Coffee,South America,,various,small holder producers,Medium-dark,"['chocolate', 'caramel', 'rich']",,
+175,Hidden City,Zoka Coffee Roasting Co,Central and South America,,,,Very Dark,"['smoky', 'caramel', 'bold']",Blend,
+176,Costa Rica Naranjo La Rosa Washed,Brandywine Coffee Roasters,Costa Rica,Naranjo,"Caturra, Catuaí",Naranjo Coffee Growers and Multiple Services Cooperative,Light,"['melon', 'honeysuckle', 'syrupy']",Single Origin,1200-1350
+177,Civitas Blend,Huckleberry Roasters,Latin America,,"Bourbon, Pache, Typica",,Medium-dark,"['chocolate', 'toasted nuts', 'rich']",Blend,
+178,Decaf House Blend,Klatch Coffee,"Brazil, Costa Rica, Guatemala, Sumatra",,,,Medium-dark,"['caramel', 'chocolate', 'rich']",,1200 - 1700
+179,Bird Rock Blend,Bird Rock Coffee Roasters,"Colombia, Sulawesi","Colombia, Sulawesi",,,Medium,"['fudge', 'spice', 'rich']",Blend,
+180,Classic French Roast,Sisters Coffee Company,Brazil,Mogiana,"Bourbon, Mundo Novo",,Very Dark,"['dark chocolate', 'clove', 'full bodied']",Single Origin,800 - 1200
+181,Kenya Mbegu Ndogo,Goshen Coffee Company,Kenya,"Kaliluni, Machakos County, Eastern Province","SL-28, SL-34, Ruiru 11",Kaliluni,Light,"['lemon', 'pineapple', 'vibrant']",Single Origin,1400 - 1600
+182,Dreamer Decaf,Alma Coffee,Nicaragua,Matagalpa,"Bourbon, Typica",Selva Negra,Medium-dark,"['chocolate', 'citrus', 'balanced']",,1400
+183,Italian Roast,Topeca Coffee Roasters,El Salvador,Santa Ana,Red Bourbon,Emilio Lopez Diaz,Medium-dark,"['roasty', 'chocolate', 'rich']",,1000 - 1550
+184,Brazil Sul De Minas,Steadfast Coffee Roasters,Brazil,Minas Gerais,"Yellow Bourbon, Mundo Novo, Icatú, Catuaí","Cooperativa Varginha, Minasul",Medium,"['cocoa', 'pomegranate', 'balanced']",Single Origin,1080-1140
+185,Dark Sumatra Mandheling,Dawson Taylor Coffee Roasters,Sumatra,Mandheling,"Typica, Catimor",,Very Dark,"['cacao', 'earthy', 'rich']",Single Origin,1200 - 1500
+186,Mocha Java,Klatch Coffee,"Java, Ethiopia","East Java, Harrar",,various small holder producers,Medium,"['chocolate', 'fruity', 'balanced']",Blend,1400 - 1600
+187,Antithesis Blend,Ceremony Coffee Roasters,Mexico,Chiapas,"Typica, Bourbon, Mundo Novo",,Medium,"['chocolate', 'nutty', 'full bodied']",,1200 - 1750
+188,Rise & Shine,Greater Goods Coffee Roasters,"Colombia, Nicaragua",,"Caturra, Catuaí, Castillo",,Very Dark,"['dark chocolate', 'molasses', 'rich']",Blend,1400-1760
+189,Howie's Blend,Dillanos Coffee Roasters,"Colombia, Guatemala, Papua New Guinea",,,,Medium-dark,"['chocolate', 'smoky', 'full bodied']",Blend,
+190,Time and Temperature Espresso Blend,Tandem Coffee Roasters,"Ethiopia, Colombia",,,,Light,"['blondie', 'red berry', 'rich']",,
+191,Good Vibes Brazil,Greater Goods Coffee Roasters,Brazil,Cerrado Mineiro,"Catuaí, Yellow Catuaí",Fazenda D'Barbosa,Medium,"['peanut butter', 'dried cherry', 'full bodied']",Single Origin,1200
+192,Friend Zone Decaf,Cat & Cloud Coffee,Ethiopia,Sidamo,Ethiopian heirloom,small holder producers,Medium-light,"['blackberry', 'molasses', 'balanced']",,1700 - 1900
+193,Slow Track,Good Folks Coffee,"Tanzania, Colombia, Peru, Guatemala",,"Typica, Bourbon, Catuaí",,Medium-dark,"['dark chocolate', 'cacao nibs', 'syrupy']",Espresso,1400-2300
+194,Tony's 50th Anniversary Blend,Tony's Coffee,"Central America, Ethiopia",,,,Medium,"['citrus', 'milk chocolate', 'balanced']",Blend,
+195,Decaf Espresso Blend,Temple Coffee,"Colombia, Guatemala","Antigua, Guatemala and Huila, Colombia","Colombia, Castillo, Caturra, Bourbon, Arabigo",,Medium-dark,"['chocolate', 'pecan', 'rich']",,1600-2000
+196,Creamery Blend,Ruby Coffee Roasters,South America and Africa,Various,various small holder producers,,Medium-light,"['chocolate', 'nutty', 'rich']",,
+197,Sage Hills Blend,Mela Coffee Roasting Company,"Honduras, Sumatra",Mandheling,"Catuaí, Bourbon, Pacas, Typica, Catimor, Caturra",small holder producers,Medium,"['earthy', 'baking spices', 'syrupy']",Blend,1000 - 1500
+198,Big Riff,Metric Coffee Co.,,Central America,,,Medium,"['dark chocolate', 'walnut', 'balanced']",Blend,
+199,Blend Forty-Eight,Cartel Roasting Co.,Colombia,Huila,"Colombia, Caturra, Castillor",,Medium-light,"['milk chocolate', 'berries', 'complex']",Blend,1230-1950
+200,Moonrise Blend,Camber Coffee,"Ethiopia, Peru","Guji, Cajamarca",,,Light,"['nectarine', 'passionfruit', 'complex']",Blend,
+201,Special Dark Blend,Dillanos Coffee Roasters,,"Central America, Papua New Guinea",,,Very Dark,"['smoky', 'caramel', 'full bodied']",,
+202,Omission Decaf,Dillanos Coffee Roasters,,South America,,various small producers,Medium-dark,"['caramel', 'chocolate', 'full bodied']",,
+203,Mass Appeal Espresso Blend,Ceremony Coffee Roasters,,,,,Medium-light,"['caramel', 'nutty', 'rich']",,
+204,Black Butte Gold Decaf,Sisters Coffee Company,Colombia,Antioquia,"Typica, Caturra, Castillo, Colombia",,Medium-dark,"['dark chocolate', 'pine', 'rich']",,1300 - 1650
+205,Mexican Maya Vinic,Higher Grounds Coffee,Mexico,Chiapas,Bourbon,Maya Vinic,Medium,"['cinnamon', 'roasted nuts', 'balanced']",Single Origin,1000-1300
+206,Savio Blend,1000 Faces Coffee Roasters,"Ethiopia, Brazil","Sidamo, Espirito",,Catuaí and Regional Landraces,Medium-light,"['peach', 'brown sugar', 'juicy']",Blend,
+207,Costa Rica,Bixby Roasting Co.,Costa Rica,,Catuaí,Finca El Indio,Very Dark,"['chocolate', 'almond', 'roasty']",Single Origin,1200
+208,Queen Anne Blend,Ladro Roasting,,,,Varies Seasonally,Medium-light,"['chocolate', 'nutty', 'rich']",,
+209,Riqueza Dark Blend,Temple Coffee,"Colombia, Costa Rica, Guatemala",,,,Medium-dark,"['cocoa', 'baking spices', 'full bodied']",Blend,
+210,French Roast Decaf,Dillanos Coffee Roasters,,,,,Very Dark,"['smoky', 'nutty', 'bold']",,
+211,Chair 6 Breakfast Blend,Evans Brothers Coffee Roasters,"Colombia, Brazil",,,,Medium-light,"['cocoa', 'walnut', 'balanced']",Blend,1600
+212,Lucent Blend,Dillanos Coffee Roasters,"Brazil, Ethiopia, Papua New Guinea",,,various small holder producers,Medium,"['caramel', 'fruity', 'full bodied']",,
+213,Black Diamond Blend,Evans Brothers Coffee Roasters,"Colombia, Guatemala",,"Caturra, Castillo, Colombia, Bourbon, Catuaí, Pache","FUDAM, CODECH",Very Dark,"['chocolate', 'baking spices', 'rich']",Blend,1600 - 2200
+214,Breakfast Blend,Klatch Coffee,"Colombia, Kenya",,,various small holder producers,Medium-light,"['citrus', 'floral', 'bright']",Blend,1500
+215,Buena Vista Dark Roast,Verve Coffee Roasters,,,,,Medium-dark,"['roasty', ""s'mores"", 'rich']",,
+216,Metro French Roast Blend,Dillanos Coffee Roasters,"Nicaragua, Papua New Guinea, South America",,,,Very Dark,"['smoky', 'caramel', 'bold']",,
+217,Day Tripper Blend,Good Folks Coffee,"Colombia, Peru",,,,Medium,"['chocolate', 'caramel', 'rich']",Blend,1100 - 1800
+218,Unity Blend Organic,Dillanos Coffee Roasters,"Costa Rica, Guatemala, Honduras, Ethiopia",,,,Medium-dark,"['chocolate', 'herbal', 'bold']",Blend,
+219,Ladro Espresso Blend,Ladro Roasting,,,,Varies Seasonally,Medium,"['chocolate', 'caramel', 'full bodied']",Espresso,
+220,Women Producers Group,Spyhouse Coffee Roasters,Sumatra,,"Catimor, Tim Tim",GARMINDO cooperative,Medium,"['cocoa', 'baking spices', 'earthy']",Single Origin,1300
+221,Tuscan Blend,Zoka Coffee Roasting Co,Central and South America,,,,Very Dark,"['smoky', 'chocolate', 'bold']",Blend,
+222,Espresso Toro,Colectivo Coffee,"Brazil, Costa Rica, Guatemala, Sumatra",,,,Medium,"['chocolate', 'citrus', 'rich']",Espresso,
+223,Bell's Blend,1000 Faces Coffee Roasters,"Brazil, Guatemala",,Various,,Medium,"['chocolate', 'nutty', 'balanced']",Blend,
+224,Lake Shore Drive Blend,Passion House Coffee Roasters,"Guatemala, Ethiopia",,,,Light,"['chocolate', 'lemon curd', 'bright']",Blend,1500 - 2000
+225,Heavy Feels French,Goshen Coffee Company,Various,,Various,,Medium-dark,"['cocoa', 'herbal', 'rich']",Blend,900 - 1600
+226,Flatlander Signature Blend,PT's Coffee Roasting Co.,Colombia,,,,Medium,"['chocolate', 'caramel', 'balanced']",Blend,
+227,El Salvador Manzano,Topeca Coffee Roasters,El Salvador,,Red Bourbon,Emilio Lopez Diaz,Light,"['nutty', 'floral', 'balanced']",,1300 - 1550
+228,Pompadour Organic Espresso Blend,Noble Coffee Roasting,"Ethiopia, Peru, Guatemala",,,various small producers,Medium,"['caramel', 'raspberry', 'complex']",,1500 - 1900
+229,Guatemala Huehuetenango MAM,Dawson Taylor Coffee Roasters,Guatemala,,"Bourbon, Typica, Caturra",smallholder coffee producers,Medium,"['apple', 'toffee', 'balanced']",Single Origin,1500 - 1900
+230,Colombia La Pradera,Anodyne Coffee Roasters,Colombia,,"Caturra, Castillo, Colombia","Hector & Oscar Daza, La Pradera",Medium,"['cherry', 'caramel', 'complex']",Single Origin,1700
+231,Peru Aroma del Valle Organic ,Cartel Roasting Co.,Peru,,"Typica, Bourbon, Caturra","Aroma del Valle, 12 smallholder producers",Light,"['vanilla', 'raspberry', 'vibrant']",Espresso,1650
+232,Skyline Espresso,Camber Coffee,"Colombia, Ethiopia",,,,Medium-light,"['blackberry', 'cocoa', 'vibrant']",Espresso,1600-2400
+233,Espresso Emilia,Mela Coffee Roasting Company,"Brazil, Sumatra",,,various small holder producers,Medium-light,"['cocoa', 'hazelnut', 'balanced']",Espresso,
+234,Flyway Organic Blend,Wonderstate Coffee,"Colombia, Guatemala",,,"Codech Cooperative, Fudam Cooperative",Medium,"['cherry', 'citrus', 'vibrant']",Blend,
+235,'66 Beach Bus,Bixby Roasting Co.,"Kenya, Nicaragua, Hawaii, US",,"Caturra, Catuaí, Typica",,Medium,"['milk chocolate', 'honey', 'balanced']",Blend,1800 - 2100
+236,The Truth,Cat & Cloud Coffee,Varies seasonally,,various,small holder producers,Medium-light,"['sweet', 'juicy', 'complex']",Espresso,various
+237,John Brown Signature Blend,PT's Coffee Roasting Co.,"Colombia, Ethiopia, Sumatra",,"Colombia, Castillo, Caturra, Tim-Tim, Ateng","Dafis Abafita, Santiang Exports, Granja La Esperanza",Medium,"['chocolate', 'black cherry', 'rich']",Blend,1300 - 2050
+238,Night Shift,Cat & Cloud Coffee,Brazil,,Bourbon,small holder producers,Medium-dark,"['chocolate', 'nutty', 'full bodied']",Blend,1100 - 1400
+239,1985 Espresso,Panther Coffee,"Brazil, Nicaragua",,,,Medium-light,"['chocolate', 'nutty', 'full bodied']",Espresso,
+240,Sumatra,Dillanos Coffee Roasters,Sumatra,,"Typica, Catimor",various small holder producers,Very Dark,"['earthy', 'herbal', 'full bodied']",,
+241,Cafe Malta,Kaldi's Coffee Roasting Co.,,,,,Medium-dark,"['smoky', 'chocolate', 'rich']",Blend,
+242,Blue Heeler Signature Blend,Colectivo Coffee,Sumatra,,,,Medium-dark,"['earthy', 'baking spices', 'bold']",Blend,1200 - 1500
+243,Black & Tan Blend,Dillanos Coffee Roasters,,,,,Medium-dark,"['smoky', 'nutty', 'rich']",,
+244,After Party,Cat & Cloud Coffee,Brazil,,Yellow Bourbon,various small producers,Medium-dark,"['marshmallow', 'chocolate', 'rich']",Single Origin,1150-1350
+245,Blacksmith Espresso,Quills Coffee,"Brazil, Peru and Colombia",,,various small producers,Medium,"['chocolate', 'fruity', 'rich']",,
+246,Smith Bridge Road Blend,Brandywine Coffee Roasters,"Brazil, Colombia, Costa Rica",,,,Medium-dark,"['chocolate', 'nutty', 'full bodied']",Blend,1500 - 1800
+247,Colossus,Metric Coffee Co.,,,,,Very Dark,"['fudge', 'smoky', 'rich']",Blend,
+248,Seabright House Blend,Verve Coffee Roasters,,,,,Medium-light,"['caramel', 'cherry', 'complex']",,
+249,Sumatra Kerinci,Parisi Coffee Roasters,Sumatra,,"Andung Sari, Tim-Tim, Bor-Bor, Sigara Utang, P88",,Medium,"['strawberry', 'pineapple', 'complex']",Single Origin,1200 - 1500
+250,Hannah's Private Reserve Blend,Dillanos Coffee Roasters,"Brazil, Guatemala, India",,,,Medium-dark,"['chocolate', 'baking spices', 'full bodied']",,
+251,The 1950 Blend,Verve Coffee Roasters,Ethiopia,,Ethiopian heirloom,various small producers,Medium,"['citrus', 'stone fruit', 'complex']",Blend,2000-2200
+252,Free Bird,Passion House Coffee Roasters,Guatemala,,Typica,Covadonga,Medium-light,"['blackberry', 'grape', 'vibrant']",Single Origin,
+253,Organic House Blend,Centri Coffee,"Colombia, Brazil",,"Castillo, Catuaí, Yellow Catuaí, Typica, Caturra",,Medium,"['chocolate', 'baking spices', 'balanced']",Blend,550 - 1600
+254,Black Butte Gold,Sisters Coffee Company,"Brazil, Colombia, Papua New Guinea",,"Bourbon, Mundo Novo, Arusha, Typica, Colombia, Castillo",various small producers,Medium-dark,"['dark chocolate', 'nutty', 'full bodied']",Blend,800 - 1800
+255,Vero Espresso,Mela Coffee Roasting Company,"Honduras, Sumatra",,,,Medium-dark,"['smoky', 'chocolate', 'bold']",Espresso,
+256,Atomic Blend,Anodyne Coffe Roasting Co. ,,,,,Medium-dark,"['chocolate', 'caramel', 'bold']",,900 - 1800
+257,Brazil Fazenda Rainha Pulp Natural,Cat & Cloud Coffee,Brazil,,Yellow Bourbon,Fazenda Rainha,Medium-light,"['peanut', 'grape jelly', 'full bodied']",Single Origin,1150 - 1350
+258,French Roast,Klatch Coffee ,"Brazil, Colombia, Honduras",,,various small holder producers,Very Dark,"['molasses', 'smoky', 'bold']",Blend,1400 - 1800
+259,Fremont Blend Fair Trade & Organic,Caffe Ladro,,,,Varies Seasonally,Medium,"['nutty', 'floral', 'balanced']",Blend,
+260,Papua New Guinea,Dillanos Coffee Roasters,Papua New Guinea,,,,Medium,"['caramel', 'herbal', 'complex']",,
+261,Epiphany House Blend,Case Coffee Roasters,Varies Seasonally,,,,Medium-light,"['chocolate', 'caramel', 'balanced']",,
+262,Peru Cafe De Mujer,Barefoot Coffee Roasters,Peru,,"Bourbon, Catimor, Caturra, Pache, Typica",APROCCURMA Women producers,Medium,"['chocolate', 'baking spice', 'balanced']",Single Origin,1500-1800
+263,Ethiopia Shakiso,Topeca Coffee Roasters,Ethiopia,,Ethiopian heirloom,Kayon Mountain Farm,Medium,"['blueberry', 'date', 'juicy']",Single Origin,1900-2200
+264,Organic Ethiopia Chelchele,Dawson Taylor Coffee Roasters,Ethiopia,,Ethiopian heirloom,,Light,"['lemon', 'blueberry', 'juicy']",Single Origin,1900 - 2200
+265,Brazil Canarinho,Colectivo Coffee,Brazil,,,various small holder producers,Medium,"['chocolate', 'nutty', 'full bodied']",Single Origin,
+266,The Beast,Barefoot Coffee Roasters,"Brazil, Guatemala, Colombia",,"Caturra, Bourbon, Mundo Novo, Typica",various small holder producers,Medium-dark,"['chocolate', 'roasty', 'rich']",Blend,
+267,Super Ego,Thou Mayest Coffee Roasters,"Brazil, El Salvador",,"Bourbon, Catuaí, Mundo Novo",small holder producers,Medium,"['molasses', 'chocolate', 'rich']",Blend,1200 - 1700
+268,Method Blend,Dillanos Coffee Roasters,,,,various small holder producers,Medium,"['caramel', 'citrus', 'balanced']",,
+269,French Roast Fair Trade Organic,Kaldi's Coffee Roasting Co.,,,,,Very Dark,"['smoky', 'caramel', 'bold']",,
+270,Espresso Primo,Dawson Taylor Coffee Roasters,"Brazil, Sumatra, Colombia, India",,"Bourbon, Caturra, Typica, Catimor, Catuaí",,Medium,"['chocolate', 'nutty', 'rich']",Espresso,1000 - 2000
+271,Del Sol Breakfast Blend,Colectivo Coffee,"Colombia, Guatemala, Papua New Guinea",,,,Medium-light,"['chocolate', 'citrus', 'balanced']",Blend,
+272,Queen City,Caffe Vita Coffee Roasting Co,"Central and South America, Indonesia, Africa",,,,Medium-dark,"['smoky', 'nutty', 'rich']",Blend,1200 - 1900
+273,Bassline Espresso Blend,Passion House Coffee Roasters,,,,,Medium,"['chocolate', 'nutty', 'full bodied']",,
+274,Organic Decaf,Caffe Vita Coffee Roasting Co,Latin America,,,,Very Dark,"['caramel', 'nutty', 'full bodied']",,1200 - 1600
+275,Terra Incognita Espresso Blend,Portola Coffee Roasters,Ethiopia and Colombia,,,various small producers,Medium,"['chocolate', 'fruity', 'rich']",,1700 - 2100
+276,Peru ,Tony's Coffee,Peru,,"Bourbon, Typica, Caturra, Pache",Agraria Sangareni,Medium,"['toffee', 'hazelnut', 'balanced']",Single Origin,1000 - 2000
+277,El Salvador Ayutepeque,Topeca Coffee Roasters,El Salvador,,Red Bouron and Pacas,Emilio Lopez Diaz,Light,"['nutty', 'chocolate', 'rich']",,1000 - 1100
+278,Honduras Las Capucas,Mela Coffee Roasting Company,Honduras,,"Pacas, Bourbon, Caturra, Catuai",various small holder producers,Medium-dark,"['chocolate', 'roasted nuts', 'rich']",Single Origin,1450 - 1700
+279,Backcountry Blend,Dawson Taylor Coffee Roasters,"Colombia, Indonesia",,"Bourbon, Typica, Caturra, Catimor",,Medium,"['chocolate', 'earthy', 'full bodied']",Blend,1350 - 1700
+280,Typhoon Espresso,Higher Grounds Coffee,"Ethiopia, Peru, Sumatra",,,various small holder producers,Medium,"['roasty', 'nutty', 'full bodied']",Espresso,
+281,Mexico Cristal,Quills Coffee,Mexico,,"Bourbon, Caturra, Typica, Yellow Bourbon, Maracaturra, Maragogype, Catimor",Various smallholder farmers,Medium,"['almond', 'nougat', 'balanced']",Single Origin,900 - 1700
+282,East Coast Espresso,Panther Coffee ,,,,,Medium-light,"['chocolate', 'fruity', 'rich']",Espresso,
+283,Decaf Equator Blend,Equator Coffees & Teas,,,,,Medium-dark,"['baking spices', 'fruity', 'rich']",,
+284,Mocha Java Fair Trade Organic ,Equator Coffees & Teas,,,,various small holder producers,Medium-dark,"['chocolate', 'fruity', 'complex']",,
+285,Colombia Gran Galope,Quills Coffee,Colombia,,"Caturra, Colombia, Castillo",various small holder producers,Medium-light,"['caramel', 'nutty', 'balanced']",Single Origin,1700
+286,Cafe Kaldi,Kaldi's Coffee Roasting Co.,,,,various small producers,Medium,"['chocolate', 'caramel', 'rich']",,
+287,Nerve Tonic Espresso,Anodyne Coffee Roasting Co. ,,,,various small producers,Medium,"['chocolate', 'nutty', 'rich']",,1200 - 1800
+288,Mokha Java Organic Blend,Noble Coffee Roasting,,,,various small producers,Medium,"['dark chocolate', 'red wine', 'silky']",,
+289,Tangletown,Zoka Coffee Roasting Co,Central and South America,,,,Medium,"['chocolate', 'citrus', 'bright']",Blend,
+290,Signature Espresso Blend,Topeca Coffee Roasters,El Salvador,,"Red Bourbon, Pacas",Emilio Lopez Diaz,Medium-light,"['chocolate', 'nutty', 'rich']",,1000 - 1500
+291,Old Crow Cuppa Joe Blend,Red Rooster Coffee,"Colombia, Nicaragua, Ethiopia",,"Ethiopian heirloom, Caturra, Catuaí, Bourbon, Colombia, Castillo","AGPROCEM, SCFCU, Alta de Jinotega",Medium,"['berries', 'chocolate', 'syrupy']",Blend,1500-2200
+292,Organic Espresso ,Caffe Vita Coffee Roasting Co,"South America, Indonesia, Africa",,,,Medium,"['nutty', 'citrus', 'complex']",Espresso,1400 - 2000
+293,Ethiopia Kayon Mountain Farm Natural,Evans Brothers Coffee Roasters,Ethiopia,,"74110, 74112",Kayon Mountain Farm,Medium,"['citrus', 'berries', 'juicy']",Single Origin,1900 – 2200
+294,Vienna Roast ,Dawson Taylor Coffee Roasters,Colombia,,"Caturra, Typica, Bourbon",,Very Dark,"['chocolate', 'roasty', 'full bodied']",Single Origin,1200 - 2000
+295,Milwaukee Rock Star Blend,Anodyne Coffee Roasting Co.,,,,various small holder producers,Medium-dark,"['smoky', 'chocolate', 'bold']",,800 - 1200
+296,Schweitzer Mountain Blend,Evans Brothers Coffee Roasters,Central and South America,,,,Medium-dark,"['chocolate', 'baking spices', 'full bodied']",Blend,1300 - 1800
+297,Rogue Blend,Dillanos Coffee Roasters,,,,,Medium-dark,"['caramel', 'chocolate', 'balanced']",,
+298,Venice Blvd Blend,Bixby Roasting Co.,"Ethiopia, Kenya, Nicaragua",,"Typica, Catimor, Catuaí, Caturra",,Medium-dark,"['cacao', 'toasted nuts', 'rich']",Blend,1500 - 2100 meters
+299,Breakfast Blend,Topeca Coffee Roasters,El Salvador,,Red Bourbon and Pacas,Emilio Lopez Diaz,Medium,"['caramel', 'baking spices', 'balanced']",,1000 - 1500
+300,Novacella Decaf,Caffe Vita Coffee Roasting Co,"Central and South America, Indonesia",,,,Medium-dark,"['smoky', 'nutty', 'full bodied']",,1200 - 1600
+301,Night Owl ,Quills Coffee,"Guatemala, Colombia",,"Bourbon, Caturra, Catuaí, Pache, Maragogype, Castillo, Colombia",,Medium-dark,"['chocolate', 'caramel', 'rich']",Blend,1200 - 2100
+302,French Royale Fair Trade & Organic,Tony's Coffee,Central and South America,,,,Very Dark,"['smoky', 'chocolate', 'bold']",Blend,
+303,House Blend,Populace Coffee,"Colombia, Guatemala",,,,Medium-light,"['chocolate', 'roasted nuts', 'balanced']",Blend,1500 - 1600
+304,Organic Hunky Dory Decaf,Sightglass Coffee,Varies Seasonally,,,,Medium-dark,"['toffee', 'red grape', 'delicate']",,
+305,Funky Chicken Blend,Red Rooster Coffee,"Colombia, East Timor, Nicaragua",,"Colombia, Caturra, Castillo, Catimor, Bourbon","Alta De Jinotega, Sol Naciente, Cooperativa Cafe Timor",Medium,"['dark chocolate', 'citrus', 'balanced']",Blend,900 - 1400
+306,Organic Decaf French Roast,Centri Coffee,South America,,various,small holder producers,Very Dark,"['roasty', 'baking spices', 'full bodied']",,
+307,Kona Blend,Dillanos Coffee Roasters,"Hawaii, USA and Pacific Islands",,,,Medium-dark,"['nutty', 'chocolate', 'rich']",,
+308,Hi-Five,Case Coffee Roasters,"Guatemala, Papua New Guinea",,,various small holder producers,Medium,"['chocolate', 'baking spices', 'full bodied']",Blend,1800
+309,Brazil Fazenda Frutas,Goshen Coffee Company,Brazil,,"Bourbon, Catuaí, Icatú, Arara",Josue Morales,Medium-light,"['grape', 'mixed nuts', 'jammy']",Single Origin,900 - 1200
+310,Breakfast Blend,Kaldi's Coffee Roasting Co.,,,,various small producers,Medium,"['chocolate', 'citrus', 'balanced']",,
+311,Pacific Decaf Fair Trade & Organic,Tony's Coffee,Central and South America,,,,Very Dark,"['caramel', 'chocolate', 'bold']",,
+312,Dillons Blend,Dillanos Coffee Roasters,,,,various small holder producers,Medium-dark,"['chocolate', 'nutty', 'rich']",Blend,
+313,Birds & Bees Fair Trade Organic,Kaldi's Coffee Roasting Co.,,,,,Medium,"['caramel', 'nutty', 'bold']",,
+314,Toni ,Portrait Coffee,Honduras,,Parainema,,Medium,"['chocolate', 'walnut', 'balanced']",Single Origin,
+315,Organic Tatoosh ,Zoka Coffee Roasting Co,"South America, Africa, Indonesia",,,,Very Dark,"['chocolate', 'fruity', 'rich']",Blend,
+316,Midway Blend,Dillanos Coffee Roasters,,,,,Medium-dark,"['chocolate', 'nutty', 'bold']",,
+317,Familia Montano Colombia,Ritual Coffee Roasters,Colombia,,"Castillo, Colombia",La Familia Montano,Medium-light,"['cherry', 'sugarcane', 'bright']",Single Origin,
+318,Classic Blend,Kuma Coffee,"Honduras, Colombia, Guatemala",,"Colombia, Pacas, Caturra","Bella Vista, San Vicente, Azahar",Medium,"['chocolate', 'stone fruit', 'balanced']",Blend,1600-1900
+319,Goodnight Moon Decaf,Camber Coffee,El Salvador,,,,Medium,"['chocolate', 'red apple', 'complex']",,
+320,Thunder Cloud,Topeca Coffee Roasters,"Brazil, Ethiopia, Sumatra",,"Yellow Bourbon, Ethiopian heirloom, Sigarutan, Ateng","Fazenda Santana, Kayon Mt. Farm",Medium-dark,"['dark fruit', 'spice', 'rich']",Blend,900-2200
+321,Star Valley Decaf Organic Blend,Wonderstate Coffee,Guatemala,,"Caturra, Typica, Bourbon, Catimor",Chajulense,Medium-dark,"['caramel', 'nutty', 'balanced']",,1400-2000
+322,Flor del Sol Signature Blend ,PT's Coffee Roasting Co.,"Colombia, Ethiopia",,,,Medium,"['raisin', 'lemon', 'lively']",Blend,
+323,Sumatra Mandheling Organic,Mela Coffee Roasting Company,Sumatra,,"Caturra, Typica, Catimor",various small holder producers,Medium,"['earthy', 'baking spices', 'full bodied']",Single Origin,
+324,Decaf Chicago House Blend,Passion House Coffee Roasters,,,,,Medium,"['chocolate', 'caramel', 'balanced']",,1400 - 1600
+325,Decaf Honduras,Mela Coffee Roasting Company,Honduras,,,various small holder producers,Medium-dark,"['caramel', 'vanilla', 'smooth']",,
+326,Epiphany House Espresso Blend,Case Coffee Roasters,Varies Seasonally,,,,Medium-light,"['chocolate', 'caramel', 'balanced']",Espresso,
+327,Colombia Frontera de Planadas,Methodical Coffee,Colombia,,"Caturra, Castillo",various small producers,Medium,"['caramel', 'hazelnut', 'balanced']",Single Origin,1800 - 2000
+328,Southern Gothic ,Quills Coffee,"Peru, Colombia",,,,Medium-light,"['dark chocolate', 'caramel', 'balanced']",Blend,
+329,Bolivia Caranavi,Higher Grounds Coffee,Bolivia,,"Caturra, Typica","Union Pro-Agro, AIPEP, Mejillones",Medium,"['chocolate', 'nutty', 'rich']",Single Origin,1000 - 1750
+330,Smooth Operator Brazil Cocarive Cooperative,Thou Mayest Coffee Roasters,Brazil,,"Bourbon, Cataui, Mundo Novo",Cocarive Cooperative,Medium-light,"['chocolate', 'caramel', 'rich']",Single Origin,1200
+331,Organic Honduras COMSA Fair Trade,Centri Coffee,Honduras,,"Bourbon, Catuaí, Lempira, Caturra, Typica, Pacas",COMSA,Medium,"['cacao nibs', 'walnut', 'full bodied']",Single Origin,1300 - 1700
+332,Laid Back Decaf ,Thou Mayest Coffee Roasters,Colombia,,"Caturra, Castillo and Typica",various small holder producers,Medium,"['caramel', 'nutty', 'balanced']",,1850
+333,Decaf Fool's Gold Blend,Anodyne Coffee Roasting Co.,,,,various small producers,Medium,"['earthy', 'nutty', 'balanced']",,800 - 1000
+334,Boldly Go,Thou Mayest Coffee Roasters,Sumatra,,Ateng,various small holder producers,Medium-dark,"['earthy', 'chocolate', 'bold']",Single Origin,1400
+335,Nicaragua Penas Blancas,Bixby Roasting Co.,Nicaragua,,Catimor,La Dalia,Very Dark,"['chocolate', 'almond', 'full bodied']",Single Origin,1200
+336,Atticus,Steadfast Coffee Roasters,"Latin America, Africa, South Seas",,,,Medium,"['stone fruit', 'milk chocolate', 'balanced']",Blend,
+337,Night Moves Blend,Passion House Coffee Roasters,Latin America,,,,Medium-dark,"['chocolate', 'caramel', 'bold']",Blend,1500 - 1700
+338,Bronson French Roast,Verve Coffee Roasters,Colombia,,"Castillo, Caturra, Colombia",various small holder producers,Medium-dark,"['smoky', 'molasses', 'full bodied']",Blend,1700 - 2000
+339,Brazil Dulce Signature,Methodical Coffee,Brazil,,"Yellow Catuaí, Mundo Novo",Maria Helena Dumont and Selma Veira,Medium,"['dark chocolate', 'nutty', 'balanced']",Single Origin,750 - 1150
+340,4&20 French Roast ,Red Rooster Coffee,"East Timor, Nicaragua",,"Catimor, Caturra, Catuaí, Bourbon","OMULFAC, Cooperativa Cafe Timor",Medium-dark,"['chocolate', 'earthy', 'rich']",Blend,1600 - 1800
+341,Sleeping Goat Decaf ,Klatch Coffee,"Brazil, Colombia, Sumatra",,,,Very Dark,"['smoky', 'chocolate', 'bold']",,1300 - 1700
+342,Sumatra Fair Trade & Organic,Tony's Coffee,Sumatra,,,various small holder producers,Medium,"['earthy', 'baking spices', 'full bodied']",Single Origin,
+343,Brazil Serra Negra,Quills Coffee ,Brazil,,various,various small holder producers,Medium-light,"['nutty', 'chocolate', 'full bodied']",Single Origin,1200 - 2000
+344,Mayan Magic Espresso,Higher Grounds Coffee,"Ethiopia, Guatemala, Sumatra",,,various small holder producers,Medium-dark,"['chocolate', 'fruity', 'rich']",Espresso,
+345,Velo French Roast,Colectivo Coffee,"Honduras, Sumatra",,,,Very Dark,"['smoky', 'chocolate', 'bold']",Blend,
+346,Brazil Cocarive,Parisi Artisan Coffee,Brazil,,"Caturra, Catuai",Cocarive Cooperative,Medium,"['chocolate', 'nutty', 'full bodied']",Single Origin,1100 - 1400
+347,Colombia Cauca,Good Folks Coffee,Colombia,,"Caturra, Castillo, Colombia",,Medium,"['stone fruit', 'apple', 'complex']",Single Origin,1600 - 2000
+348,Coffeehouse Blend,Tony's Coffee,Central and South America,,,,Medium-dark,"['chocolate', 'nutty', 'full bodied']",Blend,
+349,Decaf Asterisk ,Olympia Coffee Roasting Co,Colombia,,"Caturra, Colombia",,Medium-light,"['chocolate', 'caramel', 'syrupy']",,1700
+350,Crazy Goat Blend,Klatch Coffee,"Brazil, Colombia, El Salvador, Sumatra",,,,Medium,"['dark chocolate', 'spice', 'full bodied']",Blend,1600 - 1900
+351,Canopy Organic Blend,Wonderstate Coffee,Guatemala,,"Bourbon, Caturra, Typica",La Unidad Cooperative,Medium-dark,"['dark chocolate', 'brown sugar', 'balanced']",Blend,1600-2100
+352,Mexico Yachil,Higher Grounds Coffee,Mexico,,"Bourbon, Caturra, Typica",777 Mayan small holder producers,Medium-dark,"['chocolate', 'nutty', 'rich']",Single Origin,1000 - 1300
+353,Colombia Nariño FUDAM,Evans Brothers Coffee Roasters,Colombia,,"Colombia, Castillo, Caturra",FUDAM,Medium,"['chocolate', 'almond', 'balanced']",Single Origin,1600-2100
+354,Bistro Blend,Caffe Vita Coffee Roasting Co,"South America, Indonesia, Africa",,,,Medium,"['caramel', 'nutty', 'rich']",Blend,1200 - 2000
+355,Decaf Funky Chicken,Red Rooster Coffee,,,,,Medium-dark,"['dark chocolate', 'citrus', 'balanced']",,
+356,Peru Rutas del Inca FTO,Kaldi's Coffee Roasting Co,Peru,,"Catimor, Caturra, Typica, Bourbon, Catuaí",Rutas del Inca,Medium-light,"['chocolate', 'apple', 'balanced']",Single Origin,1800 - 2400
+357,Dawn Patrol,Dawson Taylor Coffee Roasters,"Peru, Sumatra",,"Typica, Bourbon, Catimor, Villa Sarchi",,Medium,"['chocolate', 'nutty', 'balanced']",Blend,1000 - 2050
+358,Dark Roast,Populace Coffee,"Brazil, Nicaragua",,"Bourbon, Typica, Catuaí",,Medium-dark,"['dark chocolate', 'nutty', 'rich']",Blend,1300-1500
+359,Papua New Guinea Roots AX,Cartel Roasting Co.,Papua New Guinea,,"Typica, Arusha",437 smallholder farmers delivering to Mr. Tony Tokah,Medium-light,"['apple', 'peanut butter', 'rich']",Single Origin,1750 - 1900
+360,Colombia Decaf,Good Folks Coffee,Colombia,,"Colombia, Castillo, Caturra",,Medium,"['brown sugar', 'dried fruit', 'full bodied']",,1200-2000
+361,Guatemala San Marcos,Higher Grounds Coffee,Guatemala,,"Bourbon, Caturra, Typica",APECAFORM Cooperative,Medium-light,"['caramel', 'floral', 'balanced']",Single Origin,1400 - 1800
+362,Brazil AFASA,Evans Brothers Coffee Roasters,Brazil,,"Mundo Novo, Yellow Bourbon, Catuaí, Yellow Catucai",AFASA,Medium,"['cocoa', 'nutty', 'balanced']",Single Origin,900 - 1200
+363,Ethiopia Masha Natural Espresso,Barefoot Coffee Roasters,Ethiopia,,,Haile Gebrselassie,Medium-light,"['blackberry', 'floral', 'juicy']",Espresso,1680-1875
+364,Black Dog Espresso,Goshen Coffee Company,Varies Seasonally,,,,Medium-dark,"['cocoa', 'molasses', 'rich']",Espresso,900 - 1900
+365,A Shot in the Dark,Portola Coffee Roasters,"Brazil, Colombia",,"Caturra, Typica, Catuaí, Colombia",various,Medium,"['chocolate', 'walnut', 'rich']",Blend,1300-1600
+366,Seismic,Metric Coffee Co.,,,,various producers,Medium,"['orange', 'melon', 'sparkling']",Blend,
+367,Decaf Colombia,Case Coffee Roasters,Colombia,,,Omar Arango Tinoco | Finca San Luis,Medium-light,"['chocolate', 'caramel', 'rich']",,
+368,Daydream Organic Blend,Noble Coffee Roasting,"Honduras, Peru and Sumatra",,,various small producers,Medium-dark,"['smoky', 'earthy', 'bold']",,
+369,Onyx Blend,Klatch Coffee,"Brazil, Colombia, Costa Rica",,,various small holder producers,Medium,"['chocolate', 'mandarin', 'balanced']",Blend,1600 - 1900
+370,Roma Espresso Blend,Parisi Artisan Coffee,,,,small holder producers,Medium-dark,"['chocolate', 'caramel', 'full bodied']",Espresso,
+371,Floyd Farmhouse Blend,Red Rooster Coffee,"Colombia, Rwanda, Ethiopia",,"Ethiopian heirloom, Typica, Caturra, Castillo, Colombia, Bourbon","Agprocem, Misozi Abakundakawa, SCFCU",Medium,"['chocolate', 'almond', 'complex']",Blend,1500 - 2200
+372,Decaf World Tour Organic Blend,Noble Coffee Roasting,"Ethiopia, Mexico, Sumatra",,,various small producers,Medium,"['chocolate', 'caramel', 'full bodied']",,
+373,Honduras COMSA Marcala,Red Rooster Coffee,Honduras,,,"Cafe Organico Marcala, S.A",Medium,"['dark chocolate', 'hazelnut', 'syrupy']",Single Origin,
+374,Moka Java Blend,Dillanos Coffee Roasters,"Ethiopia, Sumatra",,,various small producers,Very Dark,"['earthy', 'baking spices', 'complex']",,
+375,Darkest Side of the Moon,Passion House Coffee Roasters,Honduras,,,,Medium-dark,"['dark chocolate', 'walnut', 'rich']",Blend,
+376,Chicago House Blend,Passion House Coffee Roasters,,,,,Medium-light,"['caramel', 'citrus', 'balanced']",,
+377,Colombia Paso Fino,Colectivo Coffee,Colombia,,"Bourbon, Caturra, Typica, Colombia, Castillo",various small holder producers,Medium,"['caramel', 'citrus', 'juicy']",Single Origin,1500 - 2000
+378,Boru Batak Sumatra,Bird Rock Coffee Roasters,Sumatra,,"Ateng, Jember, Garundang",,Light,"['dried fruit', 'tobacco', 'syrupy']",Single Origin,1000-1400
+379,Ember,Alma Coffee,Honduras,,Parainema,Al Lopez,Very Dark,"['dark chocolate', 'marshmallow', 'bold']",Single Origin,1000
+380,West Coast Espresso,Panther Coffee,,,,,Medium-light,"['caramel', 'fruity', 'bright']",Espresso,
+381,Rio Azul Guatemala,Dillanos Coffee Roasters,Guatemala,,Caturra and Typica,Rio Azul Cooperative,Medium-dark,"['chocolate', 'baking spices', 'balanced']",,1500
+382,Decaf Tangletown ,Zoka Coffee Roasting Co,Central and South America,,,,Medium,"['chocolate', 'citrus', 'balanced']",,
+383,Organic House Espresso,Klatch Coffee,"Brazil, Colombia, Ethiopia, Sumatra",,,various small holder producers,Medium,"['chocolate', 'nutty', 'balanced']",Espresso,1200 - 2000
+384,Green Planet Organic Blend,Dillanos Coffee Roasters,"Costa Rica, Guatemala, Honduras",,,,Medium-dark,"['chocolate', 'caramel', 'balanced']",,
+385,Ava Blonde Blend,Dillanos Coffee Roasters,,,,,Medium,"['nutty', 'chocolate', 'balanced']",,
+386,Breakfast Blend,Dawson Taylor Coffee Roasters,"Colombia, Sumatra",,"Bourbon, Typica, Red Bourbon, Catimor",,Medium-dark,"['chocolate', 'earthy', 'full bodied']",Blend,1200 - 2000
+387,Decaf Colombia Paso Fino ,Colectivo Coffee ,Colombia,,,,Medium,"['caramel', 'fruity', 'balanced']",,
+388,Indigo,Colectivo Coffee,"Ethiopia, Colombia",,"Ethiopian Heirloom, Caturra, Castillo, Colombia",Guracho Washing Station,Medium,"['berries', 'baking spices', 'juicy']",Blend,"1900 - 2,000"
+389,Espresso Proper,Populace Coffee,"Colombia, Kenya",,,,Medium-light,"['melon', 'ginger', 'lively']",Espresso,1500 - 2000
+390,Cerberus,Barefoot Coffee Roasters,Honduras,,,,Very Dark,"['dark chocolate', 'nutty', 'full bodied']",Single Origin,1100-1650
+391,Back 40 Blend,Tony's Coffee,"Colombia, Honduras, Guatemala, Nicaragua, Papua New Guinea",,,,Very Dark,"['dark chocolate', 'smoky', 'bold']",Blend,
+392,Espresso Clutch,Populace Coffee,"Costa Rica, Brazil and Colombia",,,various small producers,Medium-light,"['chocolate', 'dried cherry', 'rich']",,
+393,Colombia Fondo Paez,Higher Grounds Coffee,Colombia,,"Typica, Castillo",various small holder producers,Medium-light,"['nutty', 'caramel', 'balanced']",Single Origin,1300 - 1900
+394,Dawson's House Blend,Dawson Taylor Coffee Roasters,"Sumatra, Costa Rica",,"Caturra, Red Caturra, Catimor, Bourbon",,Medium,"['chocolate', 'caramel', 'balanced']",Blend,1200 - 1550
+395,Paradox Blend,Dillanos Coffee Roasters,,,various,small holder producers,Medium-dark,"['vanilla', 'cola', 'rich']",Blend,
+396,Standing on the Moon,Passion House Coffee Roasters,El Salvador,,Red Bourbon,"Emilio Lopez Diaz, Finca El Manzano",Medium-light,"['tangerine', 'nougat', 'complex']",Single Origin,1525
+397,Fitzroy Blend,Zoka Coffee Roasting Co,Central and South America,,,,Medium,"['caramel', 'chocolate', 'rich']",Blend,
+398,Organic French Roast,Centri Coffee,South America,,,,Medium-dark,"['caramel', 'roasty', 'rich']",Blend,
+399,Ladro Decaf Blend Swiss Water Process,Caffe Ladro,,,,Varies Seasonally,Medium,"['chocolate', 'nutty', 'balanced']",,
+400,Ethiopia,Bixby Roasting Co.,Ethiopia,,Ethiopian heirloom,,Very Dark,"['cocoa', 'dried fruit', 'rich']",Single Origin,1970
+401,Highland Humanity,Higher Grounds Coffee,Mexico,,,various small holder producers,Medium-dark,"['caramel', 'chocolate', 'balanced']",Blend,
+402,Theo Blend Fair Trade & Organic,Caffe Vita Coffee Roasting Co,"South America, Indonesia",,,,Medium,"['caramel', 'baking spices', 'rich']",Blend,
+403,Kenya,Dillanos Coffee Roasters,Kenya,,SL-28,various small holder producer,Medium,"['floral', 'citrus', 'juicy']",,
+404,Mexico Oaxaca,Parisi Coffee Roasters,Mexico,,"Bourbon, Typica, Mundo Novo",Red 5 de Deciembre Cooperative,Medium,"['chocolate', 'nutty', 'balanced']",Single Origin,1300
+405,Peru La Familia Guzman,Dillanos Coffee Roasters,Peru,,"Caturra, Typica and Catuai",Guzman Family,Medium-dark,"['chocolate', 'nutty', 'rich']",Single Origin,900
+406,Ethiopia Meaza,Coava Coffee Roasters,Ethiopia,,Ethiopian heirloom,Kochere Cooperative,Medium-light,"['citrus', 'honeydew', 'floral']",Single Origin,1800-2100
+407,Equator Blend,Equator Coffees & Tea,"Colombia, Sumatra, Kenya",,,,Medium-dark,"['chocolate', 'baking spice', 'balanced']",Blend,
+408,Nicaragua,Dillanos Coffee Roasters,Nicaragua,,,,Medium-dark,"['nutty', 'herbal', 'balanced']",,
+409,Swiss Water Decaf,Dillanos Coffee Roasters,,,,,Very Dark,"['caramel', 'woody', 'full bodied']",,
+410,Bravissimo Blend,Parisi Artisan Coffee,,,various,various small producers,Medium,"['chocolate', 'fruity', 'complex']",Blend,
+411,Guatemala Finca Nueva Granada,Steadfast Coffee Roasters,Guatemala,,Bourbon,Finca Nueva Granada,Medium,"['milk chocolate', 'grape', 'balanced']",Single Origin,1800
+412,Honduras Betty Perez ,Brandywine Coffee Roasters,Honduras,,"Catuaí, Icatú","Betty Perez, Finca Clave Del Sol",Medium-light,"['peach', 'orange', 'vibrant']",Single Origin,1400
+413,Suyusama Program,Bird Rock Coffee Roasters,Colombia,,"Colombia, Caturra, Castillo",Padre Joe,Light,"['peach', 'plum', 'vibrant']",Single Origin,1877
+414,Colombia Silvia Indigenous Regional,Cartel Roasting Co.,Colombia,,Castillo,Cauca Silvia,Light,"['apricot', 'clove', 'delicate']",Single Origin,1800-2350
+415,Italiano,Parisi Coffee Roasters,Central and South America,,,,Medium-dark,"['chocolate', 'molasses', 'rich']",Blend,
+416,Ethiopia Masha Natural,Barefoot Coffee Roasters,Ethiopia,,,,Medium-light,"['strawberry', 'tropical fruit', 'juicy']",Single Origin,1680-1875
+417,Decaf Monk,1000 Faces Coffee Roasters,Colombia,,"Caturra, Castillo, Colombia",,Medium,"['chocolate', 'hazelnut', 'balanced']",,1500
+418,Mokha Java,Goshen Coffee Company,Various,,Various,,Medium,"['red fruits', 'herbal', 'creamy']",Blend,1400 - 2100
+419,Guatemala Cachito,Goshen Coffee Company,Guatemala,,"Typica, Caturra",various,Medium-light,"['clementine', 'raw sugar', 'juicy']",Single Origin,1400 - 1600
+420,Give Back Blend,Cartel Roasting Co.,"Guatemala, Ethiopia",,"Catuaí, Ethiopian heirloom, Caturra",Legu Trading PLC &  Luis Valdés,Light,"['orange', 'molasses', 'vibrant']",Blend,
+421,Costa Rica Don Roberto,Dawson Taylor Coffee Roasters,Costa Rica,,"Caturra, Catuaí",Don Roberto,Medium,"['citrus', 'milk chocolate', 'balanced']",Single Origin,1280 - 1800
+422,El Salvador Finca El Manzano,Dillanos Coffee Roasters,El Salvador,,Bourbon,Emilio Lopez Diaz,Medium,"['nutty', 'chocolate', 'balanced']",,1300 - 1550
+423,Organic Swiss Water Decaf,Bixby Roasting Co.,"Mexico, Sumatra",,"Typica, Catimor, Caturra, Bourbon, Catuaí",,Very Dark,"['molasses', 'clove', 'rich']",,1000-1750
+424,Songbird Blend Fair Trade & Organic,Tony's Coffee,"Central and South America, Indonesia",,,,Medium-dark,"['chocolate', 'caramel', 'full bodied']",Blend,
+425,Decaf Mountain Water Brasil,Panther Coffee,Brasil,,Red Catuai,,Medium,"['chocolate', 'caramel', 'balanced']",,1000 - 1200
+426,Decaf Hidden City ,Zoka Coffee Roasting Co,Central and South America,,,,Very Dark,"['smoky', 'caramel', 'bold']",,
+427,Funky Mamacita,Higher Grounds Coffee,"Bolivia, Peru",,,,Medium,"['earthy', 'nutty', 'bold']",Blend,
+428,Nicaragua Jinotega,Parisi Coffee Roasters,Nicaragua,,"Bourbon, Caturra, Catucaí, Catimor",,Medium-dark,"['chocolate', 'almond', 'full bodied']",Single Origin,1300-1500
+429,Espresso Parisi Blend,Parisi Artisan Coffee,,,,,Medium,"['chocolate', 'nutty', 'balanced']",,
+430,Tanzania,Dillanos Coffee Roasters,Tanzania,,Bourbon,,Very Dark,"['smoky', 'sweet', 'full bodied']",,
+431,Decaf Espresso,Klatch Coffee,"Brazil, Colombia, El Salvador, Guatemala, Sumatra",,,various small holder producers,Very Dark,"['chocolate', 'dried fruit', 'rich']",,1200 - 1900
+432,Swiss Water Decaf Espresso Primo,Dawson Taylor Coffee Roasters,"Brazil, Colombia, Sumatra",,"Caturra, Bourbon, Typica, Catimor",,Very Dark,"['chocolate', 'vanilla', 'balanced']",,1200 - 1750
+433,Organic French Roast,Dawson Taylor Coffee Roasters,Peru,,"Caturra, Catimor, Typica, Bourbon",,Very Dark,"['dark chocolate', 'smoky', 'full bodied']",Single Origin,1200 - 1350
+434,Sumatra Highlands Fair Trade Organic,Colectivo,Sumatra,,"Bourbon, Caturra, Typica, Catimor, S795",various small holder producers,Medium,"['earthy', 'herbal', 'complex']",Single Origin,1200 - 1500
+435,Ethiopia Guji,Mela Coffee Roasting Company,Ethiopia,,Typica,Guracho Washing Station,Medium-light,"['blueberry', 'floral', 'syrupy']",Single Origin,1900-2100
+436,Organic Decaf Mexico,Spyhouse Coffee Roasters,Mexico,,"Caturra, Bourbon, Mundo Novo, Typica",Unión Ramal Santa Cruz SPR,Medium,"['cocoa', 'hazelnut', 'balanced']",,1450
+437,Brazil Fazenda Primavera,Anodyne Coffee Roasters,Brazil,,Yellow Catuaí,Ricardo Tavares,Medium,"['chocolate', 'nutty', 'balanced']",Single Origin,1000
+438,El Salvador Santa Ana,Topeca Coffee Roasters,El Salvador,,Bourbon and Pacamara,Emilio Lopez Diaz,Light,"['caramel', 'floral', 'delicate']",,1300 - 1550
+439,Sumatra Mandheling,Parisi Artisan Coffee,Sumatra,,,,Medium,"['earthy', 'herbal', 'bold']",,
+440,Sumatra Permata Gayo,Higher Grounds Coffee,Sumatra,,"Ateng, Julek, Linie S., Bor Bor",Permata Gayo,Medium-dark,"['earthy', 'herbal', 'full bodied']",Single Origin,1200 - 1650
+441,Mosaic Blend,Camber Coffee,Peru,,"Bourbon, Caturra","Fidel Huancas, Eli Espinoza",Medium,"['citrus', 'cherry', 'juicy']",Blend,
+442,Brazil Fazenda Sertao,Dillanos Coffee Roasters,Brazil,,"Bourbon, Catuai",Francisco Isidro,Medium-dark,"['caramel', 'tobacco', 'rich']",Single Origin,1100 - 1450
+443,Peru Cafe De Mujer Espresso,Barefoot Coffee Roasters,Peru,,"Bourbon, Catimor, Pache, Caturra, Typica",124 women members of APROCCURMA,Medium,"['cherry', 'lime', 'vibrant']",Espresso,1500-1800
+444,Congo Kawa Kanzaruru,Portrait Coffee,Congo,,Blue Mountain,Kawa Kanzururu Cooperative,Medium,"['baking spices', 'pineapple', 'complex']",Single Origin,1000 - 2000
+445,Portage Seasonal Blend,Ruby Coffee Roasters,"Brazil, Colombia",,"Caturra, Colombia, Catuaí",,Medium-dark,"['chocolate', 'raisin', 'rich']",Blend,1500-1900
+446,Tomorrow Seasonal Project,Ruby Coffee Roasters,Peru,,"Caturra, Bourbon, Pache, Catimor",,Medium,"['apple', 'dried cherry', 'balanced']",Blend,1600-1850
+447,Ad Astra Signature Blend,PT's Coffee Roasting Co.,"Brazil, Mexico",,,,Very Dark,"['dark chocolate', 'cola', 'bold']",Blend,
+448,Late Night,Methodical Coffee,"Brazil, Costa Rica",,"Yellow Catuaí, Mundo Novo, Caturra","CoopeTarrazu, Fazenda Morada Da Prata, Fazenda Sáo Fancisco",Medium,"['dark chocolate', 'roasted nuts', 'rich']",Blend,750-1900
+449,Organic Swiss Water Decaf Honduras,Dawson Taylor Coffee Roasters,Honduras,,"Caturra, Catuaí",,Medium,"['milk chocolate', 'maple syrup', 'balanced']",,1500 - 1750
+450,Skylar's Blend,Dillanos Coffee Roasters,"Costa Rica, Tanzania and Papua New Guinea",,,various small holder producers,Medium,"['caramel', 'chocolate', 'rich']",,
+451,Dark Sumatra Highlands Fair Trade Organic,Colectivo Coffee,Sumatra,,"Caturra, Typica, Catimor, Tim Tim, BorBor, Bergendal, Jember",Ketiara Coop,Very Dark,"['smoky', 'earthy', 'full bodied']",Single Origin,1200 - 1500
+452,Nor'wester,Caffe Vita Coffee Roasting Co,"Ethiopia, Colombia, Indonesia",,"Castillo, Typica",,Medium-light,"['cherry', 'maple', 'complex']",Blend,1500 - 2000
+453,Organic Sumatra Gayo River,Caffe Vita Coffee Roasting Co,Sumatra,,"Typica, TimTim, Ateng",various small holder producers,Medium-dark,"['earthy', 'herbal', 'full bodied']",Single Origin,1300 - 1600
+454,Breakfast Blend,Tony's Coffee,Central and South America,,,,Medium,"['toffee', 'cherry', 'vibrant']",Blend,
+455,Mexico Chiapas,Tony's Coffee,Mexico,,various,FEDESI,Medium,"['cocoa', 'roasted almond', 'creamy']",Single Origin,1000 - 1900
+456,Sumatra Mutu Batak,Klatch Coffee Roasting,Sumatra,,"Ateng, Jember, and Garundang",Lintongnihuta (shores of Lake Taoba),Medium,"['cacao', 'cedar', 'earthy']",Single Origin,1000-1300
+457,Colombia Marco Fidel Lopez,Tony's Coffee,Colombia,,"Castillo, Caturra",Marco Fidel Lopez,Medium-light,"['melon', 'vanilla', 'lively']",Single Origin,1990
+458,Summer Annuals ,Ceremony Coffee Roasters,"Ethiopia, Mexico",,"Typica, Bourbon, Caturra, Mundo Novo, Ethiopian Landraces",Various smallholder farmers,Medium-light,"['nectarine', 'lime', 'vibrant']",Blend,1900
+459,Starr Hill Stout Blend,Red Rooster Coffee,"Indonesia, Africa, the Americas",,,,Medium-dark,"['dark chocolate', 'caramel', 'complex']",Blend,
+460,L'Alba,Parisi Coffee Roasters,South America,,,,Medium,"['chocolate', 'hazelnut', 'rich']",Blend,
+461,Decaf EA Mexico,Ceremony Coffee Roasters,Mexico,,"Typica, Caturra, Mundo Novo",,Medium,"['chocolate', 'cherry', 'rich']",,1700
+462,Colombia La Pelota,Goshen Coffee Company,Colombia,,"Caturra, Typica",smallholder farmers,Medium-light,"['stone fruit', 'citrus', 'lively']",Single Origin,1600 - 1900
+463,Colombia Valle del Cauca Decaf,Portrait Coffee,Colombia,,"Caturra, Castillo",various,Medium,"['caramel', 'dried cherry', 'balanced']",,1750
+464,Cold Brew Blend,Mela Coffee Roasting Company,,,"Bourbon, Yellow Caturra, Acaiá",,Medium,"['cocoa', 'baking spices', 'full bodied']",Single Origin,1000 - 1200
+465,Night Owl Half-Caff Blend,Red Rooster Coffee,"Colombia, Peru",,"Catuaí, Colombia, Castillo, Caturra","AGPROCEM, Sol Y Cafe",Medium-dark,"['chocolate', 'earthy', 'balanced']",,900 - 2000
+466,Mexico Monte Albán,Anodyne Coffee Roasters,Mexico,,"Bourbon, Typica",various smallholder farmers,Medium,"['almond', 'lemon', 'balanced']",Single Origin,1700 - 1900
+467,Guatemala Hunapu,Kuma Coffee,Guatemala,,Red Bourbon,smallholder farmers,Medium-light,"['orange', 'fruit punch', 'vibrant']",Single Origin,1500-1800
+468,Organic Brazil Matas De Minas Klem,Centri Coffee,Brazil,,Catuaí,Klem Estate,Medium,"['chocolate', 'cola', 'balanced']",Single Origin,900-1250
+469,Ethiopia Guji Natural,Barefoot Coffee Roasters,Ethiopia,,Indigenous Heirloom,,Light,"['strawberry', 'tangerine', 'juicy']",Single Origin,1800-2200
+470,Honduran Comsa Decaf,Higher Grounds Coffee,Honduras,,"Lempira, Catuaí, Catimor",COMSA Cooperative,Medium,"['caramel', 'chocolate', 'balanced']",,1200-1800
+471,Colombia Elkin Guzman Caturra Honey,Brandywine Coffee Roasters,Colombia,,Caturra,Elkin Guzman,Light,"['cherry', 'almond', 'vibrant']",Single Origin,1615
+472,Decaf Organic Espresso Cuatro ,Zoka Coffee Roasting Co,South America,,,,Medium-dark,"['caramel', 'nutty', 'full bodied']",,
+473,Gran's Blend Half-Decaf,Higher Grounds Coffee,"Honduras, Peru",,"Typica, Bourbon, Catimor, Lempira",COSMA and Norandino Cooperatives,Medium,"['toffee', 'nutty', 'balanced']",,1300-1800
+474,River Days Seasonal Espresso,Ritual Coffee Roasters,"Colombia, Honduras, Guatemala",,"Typica, Bourbon, Pacas, Castillo","The Montano Family, Sebastian and Mauricio Benitez, Maria Zelaya, Antigua",Medium,"['brown sugar', 'clementine', 'vibrant']",Espresso,
+475,El Salvador Metapan,Verve Coffee Roasters,El Salvador,,Various,67 smallholder farmers,Medium-light,"['green apple', 'cocoa', 'balanced']",Single Origin,1550-1800
+476,Colombia Maria Cristina Cordoba,Verve Coffee Roasters,Colombia,,Colombia,Maria Cristina Cordoba,Medium,"['milk chocolate', 'red apple', 'balanced']",Single Origin,1950-2050
+477,Ethiopia Chelchele Natural,Verve Coffee Roasters,Ethiopia,,Ethiopian heirloom,smallholder producers,Light,"['raspberry', 'sweet cream', 'juicy']",Single Origin,2000-2400
+478,French Roast,Mela Coffee Roasting Company,Honduras,,"Pacas, Caturra, Bourbon, Catuaí",COCAFCAL Cooperative,Very Dark,"['dark chocolate', 'caramel', 'rich']",Single Origin,1450 - 1700
+479,Colombia Rafael Rivas,Camber Coffee,Colombia,,"Castillo, Colombia",Rafael Rivas,Light,"['plum', 'cherry', 'vibrant']",Single Origin,1680
+480,Ethiopia Teshome Gemechu,Camber Coffee,Ethiopia,,Wolisho & Dega,Teshome Gemechu,Light,"['lemon', 'melon', 'lively']",Single Origin,1900 - 2200
+481,Peru Velo de Novia Washed,PT's Coffee Roasting Co.,Peru,,"Bourbon, Caturra",Cooperativa Agraria Norcafe Peru,Medium-light,"['nectarine', 'black tea', 'lively']",Single Origin,1800
+482,Colombia El Porvenir Tabi Washed,PT's Coffee Roasting Co.,Colombia,,Tabi,Didier Anacona,Medium-light,"['apple', 'macadamia', 'vibrant']",Single Origin,1825
+483,Ethiopia Laayyoo Natural,Ceremony Coffee Roasters,Ethiopia,,74110 + 74112,Teraga village farmers,Light,"['rose', 'blueberry', 'juicy']",Single Origin,2100 - 2350
+484,Brazil Danilo Vital,Portrait Coffee,Brazil,,Yellow Catuaí,Danilo Vital,Medium-light,"['caramel', 'fig', 'syrupy']",Single Origin,1230
+485,Guatemala Los Santos,Temple Coffee,Guatemala,,"Bourbon, Caturra, Catuaí, Typica",Smallholder,Medium-light,"['lemon', 'cherry', 'vibrant']",Single Origin,1500-1900
+486,Honduras Juan Vicente Natural ,Thou Mayest Coffee Roasters,Honduras,,"Bourbon, Pache",Juan Vicente,Light,"['tropical fruit', 'melon', 'juicy']",Single Origin,1690
+487,Ethiopia Yabitu Koba Natural,Olympia Coffee Roasting Co,Ethiopia,,Ethiopian heirloom,Yabitu Koba,Medium-light,"['grape', 'blueberry', 'juicy']",Single Origin,2100 - 2300
+488,Colombia Gabriel Castano Buendia,Onyx Coffee Lab,Colombia,,Pink Bourbon,La Granada,Light,"['cherry', 'lime', 'silky']",Single Origin,1700
+489,Ethiopia Wush Wush Natural,Onyx Coffee Lab,Ethiopia,,Ethiopian heirloom,Wush Wush Village,Light,"['mixed berries', 'rooibos tea', 'juicy']",Single Origin,1900
+490,Bolivia La Llama,Panther Coffee Roasters,Bolivia,,Caturra,"Pedro and Daniela Rodriguez, La Llama farm",Medium-light,"['chocolate', 'lychee', 'round']",Single Origin,1650
+491,Ethiopia Chelbessa,Panther Coffee Roasters,Ethiopia,,Indigenous Varieties,Chelbessa washing station,Medium-light,"['peach', 'nectarine', 'bright']",Single Origin,2100
+492,Guatemala Atilán Aprocafé,Huckleberry Roasters,Guatemala,,"Caturra, Bourbon, Catuaí, Pache",AProCafé Atitlán Growers Association,Medium-light,"['nougat', 'red plum', 'balanced']",Single Origin,1550-2100
+493,Uganda Sipi Falls Washed,Huckleberry Roasters,Uganda,,"SL-28, SL-34","Gamatui Village Farmers, Sipi Falls Wet Mill",Light,"['apricot', 'citrus', 'bright']",Single Origin,1900
+494,Burundi Ninga,Huckleberry Roasters,Burundi,,Bourbon,"Long Miles Coffee Project, Ninga Hill Farmers",Light,"['clementine', 'white grape', 'bright']",Single Origin,1750-1800
+495,Papua New Guinea Baroida Natural,Red Rooster Coffee,Papua New Guinea,,"Arusha, Bourbon, Mundo Novo, Typica",Baroida Estate,Light,"['red currant', 'grapefruit', 'bright']",Single Origin,1700-1850
+496,Nicaragua Finca Pastoral Honey,Red Rooster Coffee,Nicaragua,,"Catuaí, Parainema",Finca Pastoral,Light,"['tangerine', 'pear', 'complex']",Single Origin,1100
+497,Dominican Republic Ramirez Aged ,Red Rooster Coffee,Dominican Republic,,Red Caturra,Ramirez Estate,Light,"['cherry', 'strawberry', 'juicy']",Single Origin,1400
+498,Ethiopia Worka Sakaro Anaerobic Natural,Red Rooster Coffee,Ethiopia,,Landrace,Worka Sakaro,Light,"['berries', 'rose', 'juicy']",Single Origin,2000 - 2200
+499,DR Congo Muungano,Kaldi's Coffee Roasting Co,Congo,,Bourbon,Muungano cooperative,Medium-light,"['plum', 'oolong tea', 'complex']",Single Origin,1480 - 2000
+500,Timor-Leste Fatubesi,Kaldi's Coffee Roasting Co,East Timor,,"Typica, Hybrido de Timor",Fatubesi farmers,Medium,"['chocolate', 'almond', 'balanced']",Single Origin,1600
+501,Mexico Los Naranjos,Coava Coffee Roasters,Mexico,,"Caturra, Pluma Hidalgo",El Tucan Productores Indigenas de Cafe,Medium-light,"['orange', 'maple', 'balanced']",Single Origin,1200-1500
+502,Guatemala La Bolsa,Tony's Coffee,Guatemala,,"Bourbon, Caturra",Finca La Bolsa,Medium-light,"['apple', 'plum', 'vibrant']",Single Origin,1300-1600
+503,Ethiopia Decaf Halo Hartume,Metric Coffee Co.,Ethiopia,,,,Medium,"['berries', 'lemon', 'juicy']",,
+504,Nicaragua Los Pozitos,Ceremony Coffee Roasters,Nicaragua,,"Caturra, Catuaí, Java",Finca Los Pozitos,Medium-light,"['apple', 'vanilla', 'juicy']",Single Origin,1250
+505,Colombia Familia Ortega Gomez,1000 Faces Coffee Roasters,Colombia,,Red Caturra,Familia Ortega Gomez,Medium-light,"['cherry', 'berries', 'juicy']",Single Origin,1750
+506,Nicaragua Aldea,Methodical Coffee,Nicaragua,,"Caturra, Catuaí",Aldea farmers,Medium,"['almond', 'orange', 'dynamic']",Single Origin,1100 - 1450
+507,Honduras Santa Lucia Family,Methodical Coffee,Honduras,,"Caturra, Lempira, lh90",Santa Lucia Family,Medium,"['chocolate', 'almond', 'balanced']",Single Origin,1200 - 1650
+508,Guatemala Bella Vista,Cat & Cloud Coffee,Guatemala,,Bourbon,Bella Vista,Medium-light,"['strawberry', 'tangerine', 'juicy']",Single Origin,1600
+509,Mexico Finca San Alfonso,Cat & Cloud Coffee,Mexico,,Marsellesa,"Ernesto Perez, Finca San Alfonso",Medium-light,"['vanilla', 'papaya', 'complex']",Single Origin,1200
+510,Kenya Kagumoini,Cat & Cloud Coffee,Kenya,,"SL-28, Batian, Ruiru 11",Kagumoini Factory,Medium-light,"['kiwi', 'pineapple', 'vibrant']",Single Origin,1750
+511,Ethiopia Worka,Cat & Cloud Coffee,Ethiopia,,Ethiopian heirloom,Shale Washing Station,Light,"['apricot', 'lemon', 'bright']",Single Origin,2350
+512,Honduras Roger Dominguez Natural,Populace Coffee,Honduras,,"Bourbon, Catuaí",Roger Antonio Dominguez Marquez,Light,"['chocolate', 'cherry', 'balanced']",Single Origin,1350
+513,Pedernales ,Alma Coffee,Honduras,,,"Vianel Vasquez, Finca Pedernales",Light,"['pomegranate', 'apple', 'bright']",Single Origin,1900
+514,Verano Summer,Alma Coffee,Honduras,,Parainema,Leticia Lopez Hutchins,Medium-light,"['strawberry', 'peach', 'dynamic']",Single Origin,1000 - 1800
+515,Ethiopia Buliye,Tandem Coffee Roasters,Ethiopia,,Ethiopian heirloom,,Light,"['strawberry', 'lemon', 'vibrant']",Single Origin,1950-2150
+516,Guatemala El Mirador,Tandem Coffee Roasters,Guatemala,,"Bourbon, Caturra, Catuaí",Ismar Martinez,Light,"['cherry', 'toasted almond', 'balanced']",Single Origin,1400-2000
+517,Kenya Giakanja,Tandem Coffee Roasters,Kenya,,"SL-28, SL-34, Ruiru 11, Batian",Giakanja FCS,Light,"['blackberry', 'lime', 'bright']",Single Origin,1700-1800
+518,Ecuador Mitad Del Mundo,Verve Coffee Roasters,Ecuador,,"Typica, Caturra, Bourbon",Mitad del Mundo,Medium-light,"['orange', 'nutmeg', 'complex']",Single Origin,1600-2100
+519,Ethiopia Kayon Mountain Natural,Verve Coffee Roasters,Ethiopia,,Ethiopian heirloom,Kayon Mountain Coffee Farm PLC,Light,"['cocoa', 'fig', 'juicy']",Single Origin,1800-2100
+520,Ethiopia Nano Genji Lot 6,Kaldi's Coffee Roasting Co,Ethiopia,,Ethiopian heirloom,Nano Genji,Medium-light,"['tropical fruit', 'citrus', 'floral']",Single Origin,1900 - 2200
+521,Mexico Zaragoza Itunduija,Portrait Coffee,Mexico,,Typica,Zaragoza Itunduija,Medium-light,"['peach', 'mango', 'lively']",Single Origin,1600 -1700
+522,Kenya Gatirima AB,Portrait Coffee,Kenya,,"SL-28, SL-34",Gatirima Factory,Medium-light,"['tangerine', 'melon', 'bright']",Single Origin,1600 - 1800
+523,Costa Rica Finca Calle Lajas,Evans Brothers Coffee Roasters,Costa Rica,,"Caturra, Catuaí",Las Lajas Micromill,Medium-light,"['raspberry', 'cherry', 'juicy']",Single Origin,1450-1600
+524,El Salvador Las Delicias,Evans Brothers Coffee Roasters,El Salvador,,Bourbon,Finca Las Delicias,Medium-light,"['milk chocolate', 'raisin', 'balanced']",Single Origin,1700 meters
+525,Ethiopia Worka Chelbessa Yirgacheffe,Sightglass Coffee,Ethiopia,,Ethiopian heirloom,Worka Chelbessa,Medium-light,"['peach', 'elderflower', 'vibrant']",Single Origin,1900-2200
+526,Burundi Turihamwe,Temple Coffee,Burundi,,Bourbon,Turihamwe Turashobora,Medium,"['cocoa', 'baking spice', 'complex']",Single Origin,1750
+527,Campfire Blend,Caffe Vita Coffee Roasting Co,"Ethiopia, Colombia, Peru",,Caturra,,Medium-light,"['orange', 'marshmallow', 'balanced']",Blend,1500-2000
+528,Dreamsicle Aponte Colombia,Caffe Vita Coffee Roasting Co,Colombia,,Caturra,smallholder farmers,Medium-light,"['mandarin', 'vanilla', 'vibrant']",Single Origin,2150
+529,Kenya Karatu,Ceremony Coffee Roasters,Kenya,,SL-28,Karatu Coffee Factory,Light,"['lemon', 'concord grape', 'lively']",Single Origin,"1,850 meters"
+530,Ethiopia Buku,Ceremony Coffee Roasters,Ethiopia,,Dega,Isayas Beriso,Medium-light,"['mango', 'floral', 'delicate']",Single Origin,2200
+531,Ripple,Dawson Taylor Coffee Roasters,"Ethiopia, Colombia",,"Caturra, Ethiopian heirloom",El Vergel Estate and smallholder producers,Medium-light,"['berries', 'milk chocolate', 'juicy']",Blend,1350 - 1900
+532,Costa Rica Las Lajas Natural,Onyx Coffee Lab,Costa Rica,,"Catuaí, Caturra",Las Lajas,Light,"['blueberry', 'papaya', 'juicy']",Single Origin,1500
+533,Ethiopia Nano Genji,Onyx Coffee Lab,Ethiopia,,Ethiopian heirloom,Nano Genji,Light,"['peach', 'jasmine', 'vibrant']",Single Origin,2000
+534,Mexico Flor de Primavera Espresso,Noble Coffee Roasting,Mexico,,"Bourbon, Typica, Oro Azteca & Marsellesa",Flor de Primavera,Medium-light,"['fudge', 'apple', 'balanced']",Espresso,1400 - 1700
+535,S.O. Blend,Coava,The Americas & East Africa,,,,Medium,"['chocolate', 'baking spice', 'balanced']",Blend,1200-1800
+536,Kenya Mahiga AA,Camber Coffee,Kenya,,Ruiru 11,The Mahiga Factory,Light,"['grapefruit', 'lime', 'bright']",Single Origin,1700-1890
+537,Kenya Karinga,Case Coffee Roasters,Kenya,,SL-28,"Karinga, Gitwe farmers group",Light,"['grapefruit', 'mandarin', 'juicy']",Single Origin,1800
+538,Guatemala Flor de Café,Anodyne Coffee Roasters,Guatemala,,"Bourbon, Caturra, Typica, Catuaí, Catimor",Flor de Café Cooperative,Medium,"['chocolate', 'citrus', 'balanced']",Single Origin,1788
+539,Organic Guatemala Maya Lxil De Avelina,Klatch Coffee Roasting,Guatemala,,"Bourbon, Typica",Maya Lxil,Medium,"['nougat', 'stone fruit', 'balanced']",Single Origin,1600-2000
+540,Burundi Ngozi Bahire,Cartel Roasting Co.,Burundi,,Bourbon,Smallholder farmers organized around the Bahire station,Light,"['pineapple', 'banana', 'vibrant']",Single Origin,1800
+541,Costa Rica Javier Solis,Tandem Coffee Roasters,Costa Rica,,Catuaí,Javier Solis,Light,"['nectarine', 'coconut', 'complex']",Single Origin,1900-2100
+542,Summer Solstice Blend,1000 Faces Coffee Roasters,"Colombia, Rwanda",,"Red Bourbon, Pink Bourbon",,Medium-light,"['plum', 'rose', 'vibrant']",Blend,1700
+543,Colombia Agroambiental,Panther Coffee Roasters,Colombia,,Castillo,Astrid Tatiana Dorado Pajoy,Medium-light,"['chocolate', 'cherry', 'balanced']",Single Origin,1850
+544,Kenya Gachatha AA,Evans Brothers Coffee Roasters,Kenya,,"SL-28, SL-34, Ruiru 11",Gachatha Farmers Cooperative Society,Medium-light,"['pear', 'citrus', 'bright']",Single Origin,1800–2100
+545,Larrea Blend,Verve Coffee Roasters,"Ethiopia, Indonesia",,,,Medium-light,"['orange', 'watermelon', 'vibrant']",Blend,1500-2300
+546,Rwanda Karambi,Verve Coffee Roasters,Rwanda,,Bourbon,Karambi producers,Medium-light,"['honeydew', 'nougat', 'complex']",Single Origin,1700-2000
+547,El Angel Costa Rica,Ritual Coffee Roasters,Costa Rica,,Caturra,Alejandra and Arturo Chacón,Medium,"['cola', 'toasted almond', 'syrupy']",Single Origin,
+548,Cerro Buena Vista Costa Rica,Ritual Coffee Roasters,Costa Rica,,Catuaí,Lica and Carlos Luis Torres Valverde,Medium-light,"['lime', 'ginger', 'complex']",Single Origin,
+549,Colombia La Delfita,Temple Coffee,Colombia,,Castillo,"Juan Eduardo Chamorro Vélez, La Delfita",Medium,"['apricot', 'lemon', 'lively']",Single Origin,1650
+550,Colombia Miller Bustos El Mirador,Brandywine Coffee Roasters,Colombia,,Pink Bourbon,Miller Bustos,Light,"['cherry', 'date', 'juicy']",Single Origin,1500
+551,Rwanda Ngoma,1000 Faces Coffee Roasters,Rwanda,,Red Bourbon,"6 smallholders, Ngoma washing station",Medium-light,"['blackberry', 'pomegranate', 'juicy']",Single Origin,1700
+552,Brazil Swiss Water Process Decaf,PT's Coffee Roasting Co.,Brazil,,"Bourbon, Yellow Catuaí, Mundo Novo, Acaiá",various,Medium,"['chocolate', 'raisin', 'balanced']",,900 - 1100
+553,Organic Nicaragua,Red Rooster Coffee,Nicaragua,,"Caturra, Catuaí",,Medium-dark,"['cocoa', 'black cherry', 'rich']",Single Origin,
+554,Honduras Benigno Mejía Garcia,Camber Coffee,Honduras,,Parainema,Benigno Mejía Garcia,Light,"['cherry', 'kiwi', 'lively']",Single Origin,1500
+555,Peru Elvis Davila,Camber Coffee,Peru,,"Bourbon, Caturra",Elvis Davila,Light,"['grapefruit', 'lychee', 'bright']",Single Origin,1950
+556,Congo,Alma Coffee,Congo,,Bourbon,Mighty Peace Coffee,Medium-light,"['peach', 'strawberry', 'complex']",Single Origin,1600-2000
+557,Decaf Ethiopia Chelbessa,Wonderstate Coffee,Ethiopia,,Ethiopian heirloom,SNAP Washing Stations,Medium,"['jasmine', 'citrus', 'vibrant']",,1900-2300
+558,Burundi Gahahe,Camber Coffee,Burundi,,Bourbon,Gahahe Washing Station,Light,"['peach', 'clove', 'complex']",Single Origin,1800
+559,Colombia Kenny Adarme,Camber Coffee,Colombia,,"Castillo, Caturra",Kenny Adarme,Light,"['cranberry', 'apple blossom', 'bright']",Single Origin,2200
+560,Ethiopia Reko,Case Coffee Roasters,Ethiopia,,Ethiopian heirloom,Reko,Light,"['tangerine', 'apricot', 'sparkling']",Single Origin,2000
+561,Guatemalan Atitlán,Noble Coffee Roasting,Guatemala,,"Bourbon, Caturra, Typica",Chochajau Co-op,Light,"['red apple', 'coconut', 'complex']",Single Origin,1300 - 1900
+562,Madrid Family Honduras Espresso,Verve Coffee Roasters,Honduras,,"Pacas, Parainema",Madrid Family,Medium,"['lime', 'melon', 'vibrant']",Espresso,1600-1700
+563,Burundi Busambo,Panther Coffee Roasters,Burundi,,Red Bourbon,Various Smallholders,Medium-light,"['blackberry', 'grapefruit', 'juicy']",Single Origin,1800 - 2200
+564,Rwanda Sholi,Kaldi's Coffee Roasting Co,Rwanda,,Bourbon,Abateraninkunga ba Sholi cooperative,Medium-light,"['apricot', 'lemon', 'complex']",Single Origin,1800 - 2000
+565,Peru Rosa Mego,Goshen Coffee Company,Peru,,"Caturra, Catimor",Rosa Mego,Light,"['cranberry', 'lime', 'bright']",Single Origin,1650
+566,Decaf Costa Rica Tierras Ticas,Kuma Coffee,Costa Rica,,,,Medium,"['clementine', 'pecan', 'vibrant']",,1400
+567,Brazil Alta Mogiana,Barefoot Coffee Roasters,Brazil,,,Pieter Johannes,Medium-light,"['strawberry', 'chocolate', 'rich']",Single Origin,1000
+568,Ethiopia Kilenso,Coava Coffee Roasters,Ethiopia,,Ethiopian heirloom,Kilenso Mokonissa Cooperative,Medium-light,"['lavender', 'cantaloupe', 'vibrant']",Single Origin,1750-1900
+569,Ethiopia Behatu Jibicho,Tony's Coffee,Ethiopia,,Ethiopian heirloom,Bedhatu Jibicho,Medium-light,"['orange', 'grape', 'juicy']",Single Origin,1800 - 1900
+570,Ethiopia Mustefa Natural,PT's Coffee Roasting Co.,Ethiopia,,Ethiopian heirloom,"Koye Farm, Mustefa Abalulessa Abagibe",Light,"['red currant', 'pecan', 'vibrant']",Single Origin,2100
+571,Peru Rayos del Sol,Panther Coffee Roasters,Peru,,"Bourbon, Catuaí, Pache, Caturra",Various smallholder farmers,Medium-light,"['vanilla', 'berries', 'silky']",Single Origin,1800 - 2100
+572,Peru Maranura,Noble Coffee Roasting,Peru,,"Bourbon, Typica, Caturra, Geisha",Maranura,Light,"['nougat', 'mango', 'balanced']",Single Origin,1600 - 2000
+573,Decaf Peru,Red Rooster Coffee,Peru,,,,Medium-light,"['citrus', 'dark chocolate', 'bright']",,
+574,Colombia Los Guacharos,Ruby Coffee Roasters,Colombia,,"Caturra, Colombia",smallholder farmers,Medium,"['black cherry', 'apple', 'bright']",Single Origin,1600-1800
+575,Mexico Tecolotl,Dawson Taylor Coffee Roasters,Mexico,,"Caturra, Bourbon, Sarchimor",Los Altos producers,Medium-light,"['citrus', 'floral', 'complex']",Single Origin,1600 - 1850
+576,Colombia Laboyano,Topeca Coffee Roasters,Colombia,,"Colombia, CaturraPink Bourbon",Pitalito Station,Medium-light,"['cherry cola', 'baking spice', 'complex']",Single Origin,1600-2000
+577,Cold Brew Blend,Tony's Coffee,Central and South America,,,,Medium-dark,"['maple', 'hazelnut', 'rich']",Blend,
+578,Colombia Mejor,Panther Coffee Roasters,Colombia,,Castillo,Various smallholder farmers,Medium-light,"['cherry', 'citrus', 'bright']",Single Origin,1700 - 1900
+579,Decaf Los Montanos,Ritual Coffee Roasters,Colombia,,"Colombia, Castillo",,Medium,"['green grape', 'milk chocolate', 'complex']",,
+580,Il Primo,Parisi Coffee Roasters,South America,,,,Medium,"['milk chocolate', 'citrus', 'balanced']",Blend,
+581,Colombia Decaf,Parisi Coffee Roasters,Colombia,,,,Medium-light,"['dark chocolate', 'citrus', 'balanced']",,
+582,Wilder Blend,Verve Coffee Roasters,"Ethiopia, Colombia",,"Ethiopian heirloom, Colombia",,Medium-light,"['cherry', 'honeysuckle', 'complex']",Blend,1250-2000
+583,Organic August Seasonal Blend,Ruby Coffee Roasters,"Colombia, Ethiopia",,"Ethiopian heirloom, Caturra, Colombia",,Medium,"['berries', 'orange zest', 'vibrant']",Blend,1800-2000
+584,Organic Papua New Guinea Siane Chimbu,Centri Coffee,Papua New Guinea,,"Bourbon, Typica",Siane Organic Agriculture Cooperative (SOAC),Medium,"['cacao', 'citrus', 'balanced']",Single Origin,1350
+585,Sumatra Bebagi Kepada,Goshen Coffee Company,Indonesia,,"S795, Tim-Tim, Typica, Andung Sari",smallholder farmers,Medium,"['cocoa', 'oak', 'savory']",Single Origin,1200 - 1700
+586,Moonstone,Goshen Coffee Company,Various,,Various,,Medium,"['walnut', 'grapefruit', 'bright']",Blend,900 - 2100
+587,Colombia El Vergel,Dawson Taylor Coffee Roasters,Colombia,,Caturra,El Vergel farm,Medium,"['apple', 'floral', 'vibrant']",Single Origin,1350
+588,Decaf Sumatra Mandheling,Portola Coffee Roasters,Indonesia,,,,Medium-dark,"['chocolate', 'earthy', 'rich']",,900 - 2100
+589,Tropical Weather,Onyx Coffee Lab,Ethiopia,,Ethiopian heirloom,Worka Station and Durato Bombe,Medium,"['mixed berries', 'sweet tea', 'juicy']",Blend,1900
+590,Jack Creek Cold Brew,Sisters Coffee Company,"Rwanda, Colombia",,"Red Bourbon, Colombia, Castillo",Nyampinga Women's Coop,Medium,"['chocolate', 'honey', 'complex']",Blend,1450-1750
+591,Cold Front Signature Blend,PT's Coffee Roasting Co.,"Colombia, Ethiopia",,,,Medium,"['chocolate', 'blackberry', 'balanced']",Blend,
